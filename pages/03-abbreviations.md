@@ -11,9 +11,9 @@ layout: home
 
 ## Abbreviations of General Terms
 
-MP(s)             Microplastics
+MP(s)&nbsp;&nbsp;&nbsp;&nbsp;Microplastics
 
-NP(s)              Nanoplastics
+NP(s)&nbsp;&nbsp;&nbsp;&nbsp;Nanoplastics
 
  
 
