@@ -16,26 +16,26 @@ image:
 
 | Chapter Contents                                                                                                                                             |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  **[Introduction and Scope](microplastics-field-manual.github.io/introduction-and-scope)**                                                                   |
-|  **[Glossary of terms](microplastics-field-manual.github.io/glossary)**                                                                                      |
-|  **[Abbreviations](microplastics-field-manual.github.io/abbreviations)**                                                                                     |
-|  **[Contextualising this field manual with other global efforts](microplastics-field-manual.github.io/contextualising-field-manual-with-global-efforts)**    |
-|  **[Identifying research goals](microplastics-field-manual.github.io/research-goals)**                                                                       |
-|  **[Field manual for observing microplastics](microplastics-field-manual.github.io/field-manual-for-observing-microplasics)**                                |
-|  **[Pre-survey preparations and field procedures](microplastics-field-manual.github.io/pre-survey-preparations-and-field-procedures)**                       |
-|       _[Water](microplastics-field-manual.github.io/pre-survey-preparations-and-field-procedures#water)_                                                     |
-|       _[Sediment](microplastics-field-manual.github.io/pre-survey-preparations-and-field-procedures#sediment)_                                               |
-|       _[Biota](microplastics-field-manual.github.io/pre-survey-preparations-and-field-procedures#biota)_                                                     |
-|       _[Air](microplastics-field-manual.github.io/pre-survey-preparations-and-field-procedures#air)_                                                         |
-|  **[Post-survey Procedures](microplastics-field-manual.github.io/post-survey-preparations)**                                                                 |   
-|  **[Quality Assurance (QA) and Quality Control (QC)](microplastics-field-manual.github.io/QAQC)**                                                            |
-|  **[Reporting and Data Release](microplastics-field-manual.github.io/reporting-and-data-release)**                                                           |
-|       _[Water](microplastics-field-manual.github.io/reporting-and-data-release#water)_                                                                       |
-|       _[Sediment](microplastics-field-manual.github.io/reporting-and-data-release#sediment)_                                                                 |
-|       _[Biota](microplastics-field-manual.github.io/reporting-and-data-release#biota)_                                                                       |
-|       _[Air](microplastics-field-manual.github.io/reporting-and-data-release#air)_                                                                           |
-|  **[Field Manual Maintenance](microplastics-field-manual.github.io/field-manual-maintenance)**                                                               |  
-|  **[Acknowledgements](microplastics-field-manual.github.io/acknowledgements)**                                                                               |
-|  **[References](microplastics-field-manual.github.io/references)**                                                                                           |                  
+|  **[Introduction and Scope](introduction-and-scope)**                                                                   |
+|  **[Glossary of terms](glossary)**                                                                                      |
+|  **[Abbreviations](abbreviations)**                                                                                     |
+|  **[Contextualising this field manual with other global efforts](contextualising-field-manual-with-global-efforts)**    |
+|  **[Identifying research goals](research-goals)**                                                                       |
+|  **[Field manual for observing microplastics](field-manual-for-observing-microplasics)**                                |
+|  **[Pre-survey preparations and field procedures](pre-survey-preparations-and-field-procedures)**                       |
+|       _[Water](pre-survey-preparations-and-field-procedures#water)_                                                     |
+|       _[Sediment](pre-survey-preparations-and-field-procedures#sediment)_                                               |
+|       _[Biota](pre-survey-preparations-and-field-procedures#biota)_                                                     |
+|       _[Air](pre-survey-preparations-and-field-procedures#air)_                                                         |
+|  **[Post-survey Procedures](post-survey-preparations)**                                                                 |   
+|  **[Quality Assurance (QA) and Quality Control (QC)](QAQC)**                                                            |
+|  **[Reporting and Data Release](reporting-and-data-release)**                                                           |
+|       _[Water](reporting-and-data-release#water)_                                                                       |
+|       _[Sediment](reporting-and-data-release#sediment)_                                                                 |
+|       _[Biota](reporting-and-data-release#biota)_                                                                       |
+|       _[Air](reporting-and-data-release#air)_                                                                           |
+|  **[Field Manual Maintenance](field-manual-maintenance)**                                                               |  
+|  **[Acknowledgements](acknowledgements)**                                                                               |
+|  **[References](references)**                                                                                           |                  
 
 <a href="#" class="scrollUpButton">Back to top</a>
