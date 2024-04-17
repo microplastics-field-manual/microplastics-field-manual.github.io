@@ -10,6 +10,7 @@ image:
 <a href="mailto:nina.wootton@adelaide.edu.au">Nina Wootton</a>, <a href="mailto:patrick.santos@adelaide.edu.au">Patrick Reis-Santos</a>, Tanveer Adyel, Michelle Blewitt, Brad Clarke, Thomas Crutchett, Mark Hamann, Denise Hardesty, Jennifer Lavers, Sophie Leterme, Frederic Leusch, Sam Lynch, Cherie Motti, Allyson O’Brien, Elvis Okoffo, Kushani Perera, Peter Puskic, Joseph Razzell Holls, Lauren Roman, Marina F. M. Santana, Anastasiia Snigirova, Elise M. Tuuri, Scott Wilson, Shima Ziajahromi, <a href="mailto:bronwyn.gilllanders@adelaide.edu.au">Bronwyn M. Gillanders</a>
 </p></div><br>
 
+<img src="images/microplastics.png" width="100%">
 
 <strong>Chapter citation:</strong><br>Wootton N, Reis-Santos P, Adyel T, Blewitt M, Clarke B, Crutchett T, Hamann M, Hardesty D, Lavers J, Leterme S, Leusch F, Lynch S, Motti C, O’Brien A, Okoffo E, Perera K, Puskic P, Razzell Holls J, Roman L, Santana MFM, Snigirova A, Tuuru EM, Wilson S, Ziajahromi S, Gillanders BM. 2024. Marine sampling field manual for microplastics. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters</em>, <em>Version 3</em>. Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP).
 
