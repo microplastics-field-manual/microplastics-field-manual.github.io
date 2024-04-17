@@ -19,7 +19,7 @@ Notable manuals or guidance documents include:
  
 
 
-  1)    Joint Group of Experts on the Scientific Aspects of Marine Environmental Protection (GESAMP): Guidelines for the Monitoring and Assessment of Plastic Litter in the Ocean (2019).
+&nbsp;&nbsp;&nbsp;&nbsp;1)    Joint Group of Experts on the Scientific Aspects of Marine Environmental Protection (GESAMP): Guidelines for the Monitoring and Assessment of Plastic Litter in the Ocean (2019).
 
 
      
@@ -31,7 +31,7 @@ The Joint Group of Experts on the Scientific Aspects of Marine Environmental Pro
  
 
 
-  2)    National Oceanic and Atmospheric Administration (NOAA) Marine Debris Program: Marine Debris Monitoring and Assessment Project (MDMAP) (2021).
+&nbsp;&nbsp;&nbsp;&nbsp;2)    National Oceanic and Atmospheric Administration (NOAA) Marine Debris Program: Marine Debris Monitoring and Assessment Project (MDMAP) (2021).
 
 
      
@@ -43,7 +43,7 @@ The NOAA Marine Debris Program coordinates the Marine Debris Monitoring and Asse
  
 
 
-  3)     National Oceanic and Atmospheric Administration (NOAA) Marine Debris Program: Laboratory Methods for the Analysis of Microplastics in the Marine Environment (2015).
+&nbsp;&nbsp;&nbsp;&nbsp;3)     National Oceanic and Atmospheric Administration (NOAA) Marine Debris Program: Laboratory Methods for the Analysis of Microplastics in the Marine Environment (2015).
 
  
 
@@ -54,7 +54,7 @@ To complement its marine debris program, NOAA published a set of standard method
 <span style="text-decoration:underline;"> </span>
 
 
-  4)    Guidance on the Monitoring of Marine Litter in European Seas (2023).
+&nbsp;&nbsp;&nbsp;&nbsp;4)    Guidance on the Monitoring of Marine Litter in European Seas (2023).
 
 
      
@@ -68,7 +68,7 @@ This guidance document includes general approaches and prescribes standard metho
  
 
 
-  5)    Commonwealth Scientific and Industrial Research Organisation (CSIRO) Global Plastic Leakage Baseline Project (2020)
+&nbsp;&nbsp;&nbsp;&nbsp;5)    Commonwealth Scientific and Industrial Research Organisation (CSIRO) Global Plastic Leakage Baseline Project (2020)
 
  
 
