@@ -27,7 +27,6 @@ image:
 |       _[Sediment](pre-survey-preparations-and-field-procedures#sediment)_                                               |
 |       _[Biota](pre-survey-preparations-and-field-procedures#biota)_                                                     |
 |       _[Air](pre-survey-preparations-and-field-procedures#air)_                                                         |
-|  **[Post-survey Procedures](post-survey-preparations)**                                                                 |   
 |  **[Quality Assurance (QA) and Quality Control (QC)](QAQC)**                                                            |
 |  **[Reporting and Data Release](reporting-and-data-release)**                                                           |
 |       _[Water](reporting-and-data-release#water)_                                                                       |
