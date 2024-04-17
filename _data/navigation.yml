@@ -3,30 +3,46 @@
   url: https://microplastics-field-manual.github.io/files/ADDPDFHERE.pdf
   excerpt: ""
   image: /5x8/download_5x8.jpg
-- title: "Platform Description"
-  url: https://microplastics-field-manual.github.io/platform-description
+- title: "Introduction and Scope"
+  url: https://microplastics-field-manual.github.io/introduction-and-scope
   excerpt: ""
-  image: /5x8/platform-description_teaser.jpg
-- title: "Scope"
-  url: https://microplastics-field-manual.github.io/scope
+  image: /5x8/introduction-and-scope_teaser.jpg
+- title: "Glossary of terms"
+  url: https://microplastics-field-manual.github.io/glossary
   excerpt: ""
-  image: /5x8/scope_teaser.jpg
-- title: "ROVs in Marine Monitoring"
-  url: https://microplastics-field-manual.github.io/rovs-in-marine-monitoring
+  image: /5x8/glossary_teaser.jpg
+- title: "Abbreviations"
+  url: https://microplastics-field-manual.github.io/abbreviations
   excerpt: ""
-  image: /5x8/marine-monitoring_teaser.jpg
-- title: "Pre-survey Preparations"
-  url: https://microplastics-field-manual.github.io/pre-survey-preparations
+  image: /5x8/abbreviations_teaser.jpg
+- title: "Contextualising this field manual with other global efforts"
+  url: https://microplastics-field-manual.github.io/contextualising-field-manual-with-global-efforts
   excerpt: ""
-  image: /5x8/presurvey-preparations_teaser.jpg
-- title: "Field Procedures"
-  url: https://microplastics-field-manual.github.io/field-procedures
+  image: /5x8/contextualising-field-manual-with-global-efforts_teaser.jpg
+- title: "Identifying research goals"
+  url: https://microplastics-field-manual.github.io/research-goals
   excerpt: ""
-  image: /5x8/field-procedures_teaser.jpg
+  image: /5x8/research-goals_teaser.jpg
+- title: "Field manual for observing microplastics"
+  url: https://microplastics-field-manual.github.io/field-manual-for-observing-microplasics
+  excerpt: ""
+  image: /5x8/field-manual-for-observing-microplasics_teaser.jpg
+- title: "Pre-survey preparations and field procedures"
+  url: https://microplastics-field-manual.github.io/pre-survey-preparations-and-field-procedures
+  excerpt: ""
+  image: /5x8/pre-survey-preparations-and-field-procedures_teaser.jpg
 - title: "Post-survey Procedures"
-  url: https://microplastics-field-manual.github.io/post-survey-procedures
+  url: https://microplastics-field-manual.github.io/post-survey-preparations
   excerpt: ""
-  image: /5x8/postsurvey_teaser.jpg
+  image: /5x8/post-survey-preparations_teaser.jpg
+- title: "Quality Assurance (QA) and Quality Control (QC)"
+  url: https://microplastics-field-manual.github.io/QAQC
+  excerpt: ""
+  image: /5x8/QAQC_teaser.jpg
+- title: "Reporting and Data Release"
+  url: https://microplastics-field-manual.github.io/reporting-and-data-release
+  excerpt: ""
+  image: /5x8/reporting-and-data-release_teaser.jpg
 - title: "Field Manual Maintenance"
   url: https://microplastics-field-manual.github.io/field-manual-maintenance
   excerpt: ""
