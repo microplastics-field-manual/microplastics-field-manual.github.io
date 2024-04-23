@@ -821,12 +821,12 @@ Examples of designed sampling approaches include:
 
 &nbsp;&nbsp; **Strengths**
 
-&nbsp;&nbsp; - Careful control over sampling design means that robust sampling principles such as stratification, randomisation, replication and adequate sampling power can be built in at the design phase,
-&nbsp;&nbsp; - Allows for standardisation and comparability,
-&nbsp;&nbsp; - Often larger sample sizes, i.e., can assess multiple individuals of a population at any given sampling time,
-&nbsp;&nbsp; - Can assess how representative the sample is of the wider population,
-&nbsp;&nbsp; - Suitable for long-term monitoring to understand trends in microplastic concentrations, and
-&nbsp;&nbsp; - Ideal for differentiating any observed trends.
+- Careful control over sampling design means that robust sampling principles such as stratification, randomisation, replication and adequate sampling power can be built in at the design phase,
+- Allows for standardisation and comparability,
+- Often larger sample sizes, i.e., can assess multiple individuals of a population at any given sampling time,
+- Can assess how representative the sample is of the wider population,
+- Suitable for long-term monitoring to understand trends in microplastic concentrations, and
+- Ideal for differentiating any observed trends.
 
 **Weaknesses**
 
