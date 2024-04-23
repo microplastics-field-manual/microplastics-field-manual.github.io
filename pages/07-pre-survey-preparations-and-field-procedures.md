@@ -822,734 +822,343 @@ Examples of designed sampling approaches include:
 &nbsp;&nbsp; **Strengths**
 
 - &nbsp;&nbsp; Careful control over sampling design means that robust sampling principles such as stratification, randomisation, replication and adequate sampling power can be built in at the design phase,
-- Allows for standardisation and comparability,
-- Often larger sample sizes, i.e., can assess multiple individuals of a population at any given sampling time,
-- Can assess how representative the sample is of the wider population,
-- Suitable for long-term monitoring to understand trends in microplastic concentrations, and
-- Ideal for differentiating any observed trends.
+- &nbsp;&nbsp; Allows for standardisation and comparability,
+- &nbsp;&nbsp; Often larger sample sizes, i.e., can assess multiple individuals of a population at any given sampling time,
+- &nbsp;&nbsp; Can assess how representative the sample is of the wider population,
+- &nbsp;&nbsp; Suitable for long-term monitoring to understand trends in microplastic concentrations, and
+- &nbsp;&nbsp; Ideal for differentiating any observed trends.
 
 &nbsp;&nbsp; **Weaknesses**
 
-- Often inappropriate for studies involving whole-organism examination, such as the necropsy of vertebrates (except for fish harvested for human consumption) due to the ethical and legislative hurdles of collecting/harming/disturbing these species for a research purpose,
-- Not suited to the investigation of threatened or endangered species in the event biota is sacrificed, and
-- Sampling to achieve adequate replication likely to be resource intensive.
+- &nbsp;&nbsp; Often inappropriate for studies involving whole-organism examination, such as the necropsy of vertebrates (except for fish harvested for human consumption) due to the ethical and legislative hurdles of collecting/harming/disturbing these species for a research purpose,
+- &nbsp;&nbsp; Not suited to the investigation of threatened or endangered species in the event biota is sacrificed, and
+- &nbsp;&nbsp; Sampling to achieve adequate replication likely to be resource intensive.
 
 #### Opportunistic sampling approaches:
 
-Biota can be sampled through structured or non-structured opportunistic sampling approaches - for example, the collection of carcasses as they become available.
-
- 
+Biota can be sampled through structured or non-structured opportunistic sampling approaches, for example, the collection of carcasses as they become available.
 
 Examples of opportunistic sampling approaches include:
 
- 
+- Microplastic frequency of occurrence, load and characteristics across a suite of by-catch species available through commercial fishing, 
+- Microplastic frequency of occurrence, load and characteristics in pilot whales sampled during a mass stranding event,
+- Microplastic frequency of occurrence, load and characteristics sampled in carcasses of seabirds and sea turtles that died in care at a marine animal rescue centre, and
+- Microplastic frequency and loads in scats collected during a single trip to a pinniped colony.
 
 
-        -       Microplastic frequency of occurrence, load and characteristics across a suite of by-catch species available through commercial fishing, 
+**Strengths**
 
-
-        -       Microplastic frequency of occurrence, load and characteristics in pilot whales sampled during a mass stranding event,
-
-
-        -       Microplastic frequency of occurrence, load and characteristics sampled in carcasses of seabirds and sea turtles that died in care at a marine animal rescue centre, and
-
-
-        -       Microplastic frequency and loads in scats collected during a single trip to a pinniped colony.
-
- 
-
-**_            _Strengths**
-
-
-        -       Opportunistic access to rare/dispersive species that are difficult or not possible to sample live in the wild, for example, beach-cast animals, stranding events and by-catch of cetaceans, sea turtles and seabirds,
-
-
-        -       Opportunistic access to species that ethical permissions would not be granted for targeted disturbance or harvest, for example, threatened species and those covered by legislation for example, protected by the EPBC Act 1999,
-
-
-        -       Can provide preliminary data on previously under investigated species, and
-
-
-        -       Is often cheaper.
-
-
-     
+- &nbsp;&nbsp; Opportunistic access to rare species and species that move that are difficult or not possible to sample live in the wild, for example, beach-cast animals, stranding events and by-catch of cetaceans, sea turtles and seabirds,
+- &nbsp;&nbsp; Opportunistic access to species that ethical permissions would not be granted for targeted disturbance or harvest, for example, threatened species and those covered by legislation for example, protected by the EPBC Act 1999,
+- &nbsp;&nbsp; Can provide preliminary data on previously under investigated species, and
+- &nbsp;&nbsp; Is often cheaper.
 
 **Weaknesses**
 
-
-        -       Prone to sampling biases such as single populations, discrete geographic areas, and other local conditions/contexts that may not be appropriate to generalise,
-
-
-        -       Prone to biases affecting the behaviour of the animal before collection, for example, sick animals that become beach-cast may not be feeding normally before death,
-
-
-        -       Often smaller sample sizes, i.e., can be a single individual, and
-
-
-        -       Difficult to assess how representative the sample is of the wider population and to determine variability.
-
-
-     
-
+- &nbsp;&nbsp; Prone to sampling biases such as single populations, discrete geographic areas, and other local conditions/contexts that may not be appropriate to generalise,
+- &nbsp;&nbsp; Prone to biases affecting the behaviour of the animal before collection, for example, sick animals that become beach-cast may not be feeding normally before death,
+- &nbsp;&nbsp; Often smaller sample sizes, i.e., can be a single individual, and
+- &nbsp;&nbsp; Difficult to assess how representative the sample is of the wider population and to determine variability.
 
 ## Field Procedures
 
-
 ### Materials and equipment for sample collection 
 
-The vast range in size (e.g., from invertebrates to whales), life cycles, anatomy and mode of movement (pelagic vs benthic) of aquatic biota species means that the tissue or type of sample collected varies greatly (Table 6). Likewise, biota can be sampled directly from the environment or from fisheries and aquaculture. Therefore, specific consideration of taxa traits and their habitats is needed to determine the most appropriate collection method – some of these include trawl nets, cages, line, or hand collection by snorkel or SCUBA (Zantis et al., 2021) (Table 7). 
-
- 
+The vast range in size (e.g., from invertebrates to whales), life cycles, anatomy and environment (pelagic vs benthic) of aquatic biota species means that the tissue or type of sample collected varies greatly (Table 6). Likewise, biota can be sampled directly from the environment or from fisheries and aquaculture. Therefore, specific consideration of taxa traits and their habitats is needed to determine the most appropriate collection method – some of these include trawl nets, cages, line, or hand collection by snorkel or SCUBA (Zantis et al., 2021) (Table 7). 
 
 When collecting any sample from marine and coastal biota (from plankton to whales, and benthic to pelagic) or faeces, scat and regurgitate, whether in the field or captivity, it is essential to implement measures to reduce contamination during the collection (e.g., reducing risk of contamination from collection gear; rinsing of external bodies to remove adhered environmental microplastics) (Lusher et al., 2017). Where possible, organisms should be individually weighed, and size measurements taken prior to the dissection and/or extraction of any tissues. If specific dissected tissues are being analysed for microplastic content, these should also be weighed. Samples should be stored in clean, plastic-free containers (preferably in glass) in clean areas, and processed in a clean laboratory environment (see the Quality Assurance and Quality Control (QAQC) section below for more details). 
 
- 
+To correctly represent a population, an appropriate sample size that takes into account the research unit (e.g., species, food web, feeding type) needs to be selected. Power analysis is strongly recommended when planning collections and experimental designs. It is important to consider what would be an appropriate effect size. Before commencing sample collection, a power analysis can be performed to assist in this decision. G*Power (Faul et al, 2007) or pwr package in R (Champley_ et al._ 2020) are suitable for simple sampling designs and can determine the number of samples required to achieve the desired effect size. Sample sizes can be smaller if appropriately justified (e.g., organism availability, statistical power analysis, and monitoring constraints), e.g., see Lavers et al. (2021) for a power analysis calculated to sample microplastics in birds.
 
-To correctly represent a population, an appropriate sample size that takes into account the research unit (e.g., species, food web, feeding type) needs to be selected. Power analysis is strongly recommended when planning collections and experimental designs. It is important to consider what would be an appropriate effect size. Before commencing sample collection, a power analysis can be performed to assist in this decision. G*Power (Faul et al, 2007) or pwr package in R (Champley_ et al._ 2020) is suitable for simple sampling designs and can determine the number of samples required to achieve the desired effect size. Sample sizes can be smaller if appropriately justified (e.g., organism availability, statistical power analysis, and monitoring constraints), e.g., see Lavers et al. (2021) for a power analysis calculated to sample microplastics in birds.
+**Table 6.** The type of sample that can be collected for analysis of microplastics by organism type. This table is a reference only. Literature reviews and targeted preliminary and further research are required to confirm that the sampling method is appropriate for the organism of interest and suited to the downstream analyses. PPE - Personal Protective Equipment. The **✓**in the table indicates the method(s) that can be used for the aforementioned categories.
 
- 
-
-**Table 6.** The type of sample that can be collected for analysis of microplastics by organism type. This table is a reference only. Literature reviews and targeted preliminary and further research are required to confirm that the sampling method is appropriate for the organism of interest and suited to the downstream analyses. The **✓**in the table indicates the method(s) that can be used for the aforementioned categories.
-
- 
-
-
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dzaw{background-color:#4F81BD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tjft{background-color:#DEEBF4;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-i6rb{background-color:#DEEBF4;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-   <td>
-<strong>Sample Type</strong>
-   </td>
-   <td>
-<strong>Cetaceans & Dugongs</strong>
-   </td>
-   <td>
-<strong>Pinnipeds</strong>
-   </td>
-   <td>
-<strong>Marine Turtles & Marine Reptiles</strong>
-   </td>
-   <td>
-<strong>Marine Birds</strong>
-   </td>
-   <td>
-<strong>Fish & Elasmobranchs</strong>
-   </td>
-   <td>
-<strong>Bivalves</strong>
-   </td>
-   <td>
-<strong>Larger Crustaceans</strong>
-   </td>
-   <td>
-<strong>Pelagic Invertebrates</strong>
-   </td>
-   <td>
-<strong>Benthic Invertebrates</strong>
-   </td>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Sample Type</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Cetaceans &amp; Dugongs</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Pinnipeds</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Marine Turtles &amp; Marine Reptiles</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Marine Birds</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Fish &amp; Elasmobranchs</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Bivalves</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Larger Crustaceans</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Pelagic Invertebrates</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Benthic Invertebrates</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Whole organism</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
   </tr>
   <tr>
-   <td>
-<strong>Whole organism</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Trawl</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
   </tr>
   <tr>
-   <td>
-<strong>Trawl</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Faeces</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
   </tr>
   <tr>
-   <td>
-<strong>Faeces</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Opportunistic necropsy</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
   </tr>
   <tr>
-   <td>
-<strong>Opportunistic necropsy</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Opportunistic regurgitation</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
   </tr>
-  <tr>
-   <td>
-<strong>Opportunistic regurgitation</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-  </tr>
+</tbody>
 </table>
-
-
  
 
 **Table 7.** Equipment that is required for field sampling of different aquatic biota groups. This table is a general guide as each sampling strategy will have variations in equipment and sampling requirements.
 
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dzaw{background-color:#4F81BD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tjft{background-color:#DEEBF4;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-i6rb{background-color:#DEEBF4;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1319px">
+<colgroup>
+<col style="width: 230px">
+<col style="width: 121px">
+<col style="width: 121px">
+<col style="width: 121px">
+<col style="width: 121px">
+<col style="width: 121px">
+<col style="width: 121px">
+<col style="width: 121px">
+<col style="width: 121px">
+<col style="width: 121px">
+</colgroup>
+<thead>
   <tr>
-   <td>
-<strong>Sampling Method</strong>
-   </td>
-   <td>
-<strong>Cetaceans & Dugongs</strong>
-   </td>
-   <td>
-<strong>Pinnipeds</strong>
-   </td>
-   <td>
-<strong>Marine Turtles & Marine Reptiles</strong>
-   </td>
-   <td>
-<strong>Marine Birds</strong>
-   </td>
-   <td>
-<strong>Fish & Elasmobranchs</strong>
-   </td>
-   <td>
-<strong>Bivalves</strong>
-   </td>
-   <td>
-<strong>Larger Crustaceans</strong>
-   </td>
-   <td>
-<strong>Pelagic Invertebrates</strong>
-   </td>
-   <td>
-<strong>Benthic Invertebrates</strong>
-   </td>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Sampling Method</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Cetaceans &amp; Dugongs</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Pinnipeds</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Marine Turtles &amp; Marine Reptiles</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Marine Birds</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Fish &amp; Elasmobranchs</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Bivalves</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Larger Crustaceans</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Pelagic Invertebrates</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Benthic Invertebrates</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Permits</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">*</span></td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
   </tr>
   <tr>
-   <td>
-<strong>Permits</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>*</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ethics</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> *</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">*</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
   </tr>
   <tr>
-   <td>
-<strong>Ethics</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong>*</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">PPE</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
   </tr>
   <tr>
-   <td>
-<strong>PPE</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Trawl net</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
   </tr>
   <tr>
-   <td>
-<strong>Trawl net</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fishing gear</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
   </tr>
   <tr>
-   <td>
-<strong>Fishing gear</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Quadrant &amp; relevant equipment</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
   </tr>
   <tr>
-   <td>
-<strong>Quadrant & relevant equipment</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Coring equipment</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
   </tr>
   <tr>
-   <td>
-<strong>Coring equipment</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Netting</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
   </tr>
   <tr>
-   <td>
-<strong>Netting</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
-   <td>
-<strong> </strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sample collection and storage equipment i.e. Glass jars (appropriately cleaned)</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
   </tr>
   <tr>
-   <td>
-<strong>Sample collection and storage equipment i.e. Glass jars (appropriately cleaned)</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">General field equipment (Datasheets, labels, pencils)</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
   </tr>
   <tr>
-   <td>
-<strong>General field equipment (Datasheets, labels, pencils)</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Camera and GPS</span><br><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
   </tr>
-  <tr>
-   <td>
-<strong>Camera and GPS</strong>
-<p>
-
-<strong> </strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-   <td>
-<strong>✓</strong>
-   </td>
-  </tr>
+</tbody>
 </table>
 
 
-*Cephalopods may need a permit and ethics depending on jurisdictions. 
-
- 
+*Cephalopods require ethics approval and may need a permit in some jurisdictions.  
 
 
 #### Common cross-taxa processing approaches and opportunities for harmonisation
 
-Across the different taxa groups, there are several common approaches to sample processing and analysis. For general information on standard microplastic separation protocols, see the detailed post-survey sections below, which include details on visual inspection, separation of microplastics from organic matter using chemical/enzymatic digestion and/or density separation, and visual and chemical identification of microplastics. Many of these protocols are suitable for numerous species and tissue types and offer compelling starting points and significant opportunities to increase harmonisation in sample collection, processing, and reporting. These include:
+Across the different taxa, there are several common approaches to sample processing and analysis. For general information on standard microplastic separation protocols, see the detailed post-survey sections below, which include details on visual inspection, separation of microplastics from organic matter using chemical/enzymatic digestion and/or density separation, and visual and chemical identification of microplastics. Many of these protocols are suitable for numerous species and tissue types and offer compelling starting points and significant opportunities to increase harmonisation in sample collection, processing, and reporting. These include:
 
-
-        -       Necropsy procedures for large animals (cetaceans, sea lions and large sea turtles)
-
-
-        -       Necropsy procedures for medium sized animals (sea birds, small sea turtles, large to medium fish)
-
-
-        -       Chemical digestion of ingesta and digesta
-
-
-        -       Chemical/enzymatic digestion of soft tissues (GI tracts of fish and large crustaceans, soft body of bivalves, soft-bodied pelagic and benthic invertebrates)
-
-
-        -       Chemical digestion of chitinous species (small crustaceans, hard-bodied pelagic and benthic inverts)
-
-
-        -       Chemical/enzymatic digestion of whole animal (small fish, fish larvae and sponges)
-
-
-        -       Collection and digestion of faeces and scats 
-
-
-        -       Microscopy protocols
-
-
-        -       Polymer identification
-
- 
+- Necropsy procedures for large animals (cetaceans, sea lions and large sea turtles)
+- Necropsy procedures for medium sized animals (sea birds, small sea turtles, large to medium fish)
+- Chemical digestion of ingesta and digesta
+- Chemical/enzymatic digestion of soft tissues (GI tracts of fish and large crustaceans, soft body of bivalves, soft-bodied pelagic and benthic invertebrates)
+- Chemical digestion of chitinous species (small crustaceans, hard-bodied pelagic and benthic inverts)
+- Chemical/enzymatic digestion of whole animal (small fish, fish larvae and sponges)
+- Collection and digestion of faeces and scats 
+- Microscopy protocols
+- Polymer identification
 
 However, given the diversity of taxa and sample types (e.g., tissues, faeces, scat, regurgitate) that are now being investigated for microplastics presence and quantification, specific considerations must be given to taxa- and sample-specific protocols for downstream sample processing. Furthermore, in many cases, published protocols are not available and there is a need to establish and validate methods before use (Santana et al., 2022). 
 
-
 ### Taxa-specific collection and processing strategies
-
 
 #### Cetaceans and dugongs
 
@@ -1557,30 +1166,17 @@ However, given the diversity of taxa and sample types (e.g., tissues, faeces, sc
 
 Notwithstanding their iconic status and protection in many jurisdictions globally, cetaceans and dugongs are not ideal candidates to monitor or research microplastic because they are large and logistically difficult to work with. 
 
- 
-
-Most microplastic sampling studies of cetaceans come from the collection and processing of faeces and gut contents from smaller live wild species (i.e., dolphins), and through the necropsy of by-caught, beach stranding and other cetacean carcasses (Lanyon, 2010). It should be noted that many cetacean species are dispersive, which means that the plastic data collected may not accurately represent the location of capture/sampling.
-
- 
+Most microplastic sampling studies of cetaceans come from the collection and processing of faeces and gut contents from smaller live wild species (i.e., dolphins), and through the necropsy of by-catch, beach stranding and other cetacean carcasses (Lanyon, 2010). It should be noted that many cetacean species move, which means that the plastic data collected may not accurately represent the location of capture/sampling.
 
 **_Separating plastic from organic matter_**
 
-For cetaceans, necropsy is the primary method of separating plastic from organic matter, specifically, via post-mortem examination of the gastrointestinal tract (GIT). There are numerous cetacean post-mortem assessment protocols worldwide (Ijsseldijk et al., 2019; Mazzariol and Centelleghe; Plön et al., 2015). For Australia, please refer to the Australian Government's standardised protocols (Australian Government, 2006). 
+For cetaceans, necropsy is the primary method of separating plastic from organic matter, specifically, via post-mortem examination of the gastrointestinal tract (GIT). There are numerous cetacean post-mortem assessment protocols worldwide (Ijsseldijk et al., 2019; Mazzariol and Centelleghe 2017; Plön et al., 2015). For Australia, please refer to the Australian Government's standardised protocols (Australian Government, 2006). 
 
- 
-
-One of the challenges for plastics study in cetaceans, especially larger species, is that when cetaceans are necropsied, often there are many other multidisciplinary samples sought for pathology and other purposes (i.e., pathological evaluation, microbiological and virological analyses, algal biotoxin detection, diet and parasitological investigations), that are collected from the carcass, though standard protocols vary by country. Given the size of cetaceans and the large volume of their GIT contents compared to other organisms, it is common practice to collect plastics of the visible size range (> 1 mm), and uncommon to separate plastics of the microscopic size range. However, when cetacean GIT contents are examined for microplastics &lt;1mm, they are found (e.g., Nelms et al., 2019a). Sieving of GIT contents through a series of sieves of decreasing mesh size, down to the desired minimum size range, is the standardised methodological approach (Corazzola et al., 2021) to investigate GIT contents of marine mammals, and allows for the simultaneous collection of samples for different disciplines, including plastics and microplastics. It also supports respective analyses and comparisons of multidisciplinary results.
-
- 
+One of the challenges for studying plastics in cetaceans, especially larger species, is that when cetaceans are necropsied, often there are many other multidisciplinary samples sought for pathology and other purposes (i.e., pathological evaluation, microbiological and virological analyses, algal biotoxin detection, diet and parasitological investigations), that are collected from the carcass, though standard protocols vary by country. Given the size of cetaceans and the large volume of their GIT contents compared to other organisms, it is common practice to collect plastics of the visible size range (> 1 mm), and uncommon to separate plastics of the microscopic size range. However, when cetacean GIT contents are examined for microplastics &lt;1mm, they are found (e.g., Nelms et al., 2019a). Sieving of GIT contents through a series of sieves of decreasing mesh size, down to the desired minimum size range, is the standardised methodological approach (Corazzola et al., 2021) to investigate GIT contents of marine mammals, and allows for the simultaneous collection of samples for different disciplines, including plastics and microplastics. It also supports respective analyses and comparisons of multipurpose results.
 
 For dugongs, faeces are commonly collected and processed for diet and health studies (Lanyon, 2010). There are no specific standard protocols for separating plastic from the organic matter in dugong faeces but chemical digestion and sieving and/or microscopic analysis are recommended (as detailed in post survey section below) (see also (Nelms et al., 2019b; Ortega-Borchardt et al., 2023).
 
- 
-
-There are no current standard protocols for GIT sample collection from dugong carcasses or GIT contents from lavaging. However, the general principles for cetacean sampling can be applied to dugongs. The Department of Foreign Affairs and Trade has a dugong necropsy protocol that must be followed (Eros et al., 2007). Following the removal of the GIT, if separate samples for different disciplines are to be collected, including for quantification of (micro)plastics, the digesta should be treated following Corazzola_ _et al. (2021).
-
- 
-
+There are no current standard protocols for GIT sample collection from dugong carcasses or GIT contents from lavaging. However, the general principles for cetacean sampling can be applied to dugongs. The Department of Foreign Affairs and Trade has a dugong necropsy protocol that must be followed (Eros et al., 2007). Following the removal of the GIT, if separate samples for different purpose are to be collected, including for quantification of (micro)plastics, the digesta should be treated following Corazzola_ _et al. (2021).
 
 #### Pinnipeds
 
@@ -1588,37 +1184,23 @@ There are no current standard protocols for GIT sample collection from dugong ca
 
 Most microplastic sampling studies of pinnipeds come from the collection and processing of scats, which are easily accessible on land at haul out sites, and through the necropsy of by-caught and other deceased pinnipeds. 
 
- 
-
 **_Separating plastic from organic matter_**
 
 Pinniped scats are widely collected and processed for diet and health studies, with plastic items separated from organic matter using a variety of methods; similar collection protocols can also be applied to microplastic assessments. Scats can be examined for either or both visible size range plastics and microscopic microplastics. 
 
- 
-
 Though there are no standard protocols for separating plastic specifically from the organic matter in pinniped scats, chemical digestion and sieving and/or microscopic analysis are the recommended approaches (see post survey section below). Additionally, a range of studies have methods that would be appropriate to follow (e.g., Nelms_ _et al. 2019b; Ortega-Borchardt_ _et al. 2023)
 
- 
-
 Like cetaceans, for pinnipeds, the GIT is often removed from the carcass (sealed at both ends) to examine for plastics, and (micro)plastics can be separated from organic matter via the same sieving method used for cetaceans, following Corazzola et al. (2021). 
-
- 
-
 
 #### Marine turtles and other marine reptiles
 
 **_Sampling marine turtles_**
 
-Study of microplastics in sea turtles relies primarily on the necropsy of deceased, by-caught, and beach cast animals and the removal of the GIT from mouth to cloaca. It is difficult to obtain scat in the environment or to sample faeces from live wild marine turtles, though faeces can be collected from animals kept in captivity, for example in rescue and rehabilitation facilities. Marine turtles do not regurgitate, so stomach lavage is the only method available to sample live wild turtle GIT contents. 
-
- 
+Study of microplastics in sea turtles relies primarily on the necropsy of deceased, by-catch, and beach cast animals and the removal of the GIT from mouth to cloaca. It is difficult to obtain scat in the environment or to sample faeces from live wild marine turtles, though faeces can be collected from animals kept in captivity, for example in rescue and rehabilitation facilities. Marine turtles do not regurgitate, so stomach lavage is the only method available to sample live wild turtle GIT contents. 
 
 **_Separating plastic from organic matter_**
 
 It is common to find macro- and meso-sized plastics during sea turtle necropsy, and these should be reported, following standard protocols such as (Provencher et al., 2019a). The methods for separating (micro)plastic from organic matter vary, depending if the aim is to quantify plastic visible to the naked eye only (more common for marine turtle research; items are hand-picked from the flayed GIT) or both visible size range and microscopic microplastics (less common in sea turtle plastic ingestion research; items are digested as per Caron et al. (2018). There are many other protocols available for microplastic separation from turtle GIT samples (Caron et al., 2016; Caron et al., 2018), many being similar to that of other larger taxa discussed above.
-
- 
-
 
 #### Marine birds 
 
@@ -1626,18 +1208,11 @@ It is common to find macro- and meso-sized plastics during sea turtle necropsy, 
 
 There are multiple methods to investigate microplastic ingestion by marine birds. Organisms are collected either as a beach-wreck (often opportunistic), by-catch (semi opportunistic), or have died in care (car strike or post fledging, semi opportunistic) or those that are harvested or culled for non-research purposes (e.g., indigenous harvest, culling at airports, euthanasia for other illnesses). Necropsy and removal of the GIT is the main approach for dead seabirds. 
 
- 
-
 For live birds, the collection of pellets (bolus) naturally regurgitated by some species may be possible, and for other species, other regurgitations (such as induced by birds' defensive behaviour or water-offloading technique) can be used. Scats can also be collected and inspected for microplastic presence, though this is only suitable for some species depending on the viscosity and ease of collection of the scat (Nelms et al., 2019b).  
-
- 
 
 **_Separating plastic from organic matter_**
 
-The choice of method to separate plastic from sampled marine birds will be dependent on the sample type being investigated, i.e., tissues from necropsy, pellets (boluses), other regurgitations and scats (Provencher et al., 2019b). The method will also depend on whether the observer is quantifying visible-sized microplastics only (more common for seabirds) or visible and microscopic microplastics (while this approach is less common at present, it is gradually becoming more common). For visible size range plastic, necropsy of seabirds can involve examination of just the upper GIT (proventriculus and gizzard/ventriculus) or the entire GIT from oesophagus to cloaca, followed by the visual inspection and/or sieving of GIT contents, and chemical digestion, if needed. For pellets (boluses), typically research just focuses on visible size-range microplastics, which are obtained by dissection of the pellet either by eye or under a microscope. For other regurgitates (e.g., lavage/water offloading), research typically focuses on visible size-range microplastics, which are easily retrieved from the lavage/offloaded water sample by eye; analysis of microplastics requires microscopic analysis. For scats, research focusing on microscopic microplastics is more common (few birds pass visible size range microplastics); scat is generally processed using chemical digestion, followed by density flotation (Keys et al., 2023) (see post survey procedures below).
-
- 
-
+The choice of method to separate plastic from sampled marine birds will be dependent on the sample type being investigated, i.e., tissues from necropsy, pellets (boluses), other regurgitations and scats (Provencher et al., 2019b). The method will also depend on whether the observer is quantifying visible-sized microplastics only (more common for seabirds) or visible and microscopic microplastics (while this approach is less common at present, it is gradually becoming more common). For visible size range plastic, necropsy of seabirds can involve examination of just the upper GIT (proventriculus and gizzard/ventriculus) or the entire GIT from oesophagus to cloaca, followed by the visual inspection and/or sieving of GIT contents, and chemical digestion, if needed. For pellets (boluses), typically research just focuses on visible size-range microplastics, which are obtained by dissection of the pellet either by eye or under a microscope. For other regurgitates (e.g., lavage/water offloading), research typically focuses on visible size-range microplastics, which are easily retrieved from the lavage/offloaded water sample by eye; analysis of microplastics requires microscopic analysis. For scats, research focusing on microscopic microplastics is more common (few birds pass visible size range microplastics); scat is generally processed using chemical digestion, followed by density separation (Keys et al., 2023) (see post survey procedures below).
 
 #### Fish 
 
@@ -1645,14 +1220,9 @@ The choice of method to separate plastic from sampled marine birds will be depen
 
 Designed and opportunistic sampling of fish harvested for human consumption are popular methods to sample for microplastic assessment. Due to the widespread harvest of a large variety of fish species across the world, fish are among the easiest organisms to sample for microplastic research. There are numerous protocols to capture fish for microplastic research (Markic et al., 2019; Wootton et al., 2021). Fish can also be opportunistically sampled as by-catch in fishing targeting other species. The GIT and gills are the most commonly collected tissues for microplastic assessment.
 
- 
-
 **_Separating plastic from organic matter_**
 
 For smaller fish, chemical digestion of the entire animal is common. For medium to large sized fish, the most common methods involve necropsy of the GIT, and depending on the GIT size, a choice of processing the entire GIT for medium species, or analysing anatomical sections of the GIT or the ingesta/digesta for larger fish species using chemical digestion methods. Due to the popularity of fish as a species to sample and concern for human health through secondary ingestion of microplastic when eating fish, there is a wide variety of literature and protocols for the separation of plastic from organic matter in fish (Dawson et al., 2020; Dehaut et al., 2016; Karami et al., 2017; Karlsson et al., 2017; Lusher et al., 2017; Wootton et al., 2021) (see post survey procedures below). 
-
- 
-
 
 #### Bivalves
 
@@ -1660,21 +1230,12 @@ For smaller fish, chemical digestion of the entire animal is common. For medium 
 
 Bivalves are among the most popular taxa for microplastic monitoring and research, using both designed and opportunistic sampling approaches, with several countries running national microplastic monitoring programs using bivalves. For example, the Republic of Korea performs national monitoring using Pacific oyster (_Crassostrea gigas_), blue mussel (_Mytilus edulis_), and Manila clam (_Ruditapes philippinarum) _(Cho et al., 2021)_. _The use of bivalves for microplastic monitoring is growing in popularity. National biomonitoring programmes like the long-running 'Mussel Watch' initiative by NOAA in the United States of America, and by others in Europe use local mussel species to assess environmental contamination, and can incorporate microplastic assessments (National Oceanic and Atmospheric Administration, 2020; Provenza et al., 2022).  
 
- 
-
 There are a variety of sampling approaches used to sample microplastics from bivalves.  Sampling is typically repeated over time given that environmental microplastics may vary across four seasons (Summer-Autumn-Winter-Spring) or rainy (wet/monsoon) and dry seasons in tropical regions. Given that Australia spans latitudinally from the tropics to temperate zone, seasonality should also be factored into bivalve microplastic monitoring efforts in Australia.
 
- 
-
 Bivalves (e.g., mussels, oysters, pipis) can be sourced from wild populations or commercial growers (e.g., aquaculture). Methods of collection include manual removal by twisting (mussels), hammer and chisel to remove from substrate (mussels, oysters) and trowel/spade and sediment pumps (pipis). Bivalves should be euthanised in an ice-slurry and transferred to -20°C freezer for storage. For the explicit purpose of biomonitoring, cages of selected bivalve species can be deployed in select locations (e.g., following the Mussel Watch approach). Five families of bivalve have been typically monitored. In order of popularity at the time of publishing, these are: mussels, oysters, clams, scallops, and cockles (Ding et al., 2022).  
-
-**_ _**
-
 **_Separating plastic from organic matter_**
 
 Given the small size of most bivalves, to quantify plastics within organisms, chemical or enzymatic digestion of the entire soft tissue (not usually including the shell) of the organism is the most popular (Catarino et al., 2017). Given the small size of microplastics ingested by these organisms, microplastics that are visible to the naked eye are rare, and microscopy and polymer identification are necessary (see post survey procedures). Other research objectives, include investigating rates of ingestion and depuration, and the consequences of microplastic exposure in live animals held in tanks in the laboratory (Hamm et al., 2022; Yap et al., 2020).
-
- 
 
 
 #### Large crustaceans (e.g., crabs, lobsters, prawns)
@@ -1683,35 +1244,23 @@ Given the small size of most bivalves, to quantify plastics within organisms, ch
 
 Crustaceans, many being detritus feeders, are becoming increasingly popular taxa for microplastic research, using both designed and opportunistic sampling approaches, especially for species that are commercially harvested for human consumption. Crustaceans are collected usually by traps and nets, or by hand via snorkelling or SCUBA .
 
- 
-
 **_Separating plastic from organic matter_**
 
 Depending on the size of the crustacean, removal and chemical digestion of the GIT only (for larger crustaceans) or chemical digestion of the whole organism (for smaller organisms) are prevalent (Lusher et al., 2017). The crustacean exoskeleton and chitinous lining, however, represents a significant challenge for the digestion of the whole animal, and standard chemical and enzymatic methods are not always suitable (Li et al., 2022). Given the small size of microplastics ingested by these organisms, microplastics that are visible to the naked eye are rare, and microscopy and polymer identification are necessary (Dehaut et al., 2016).  
-
- 
-
 
 #### Pelagic invertebrates (including plankton)
 
 **_Sampling pelagic invertebrates_**
 
-Sampling pelagic invertebrates is commonly performed simultaneously with sampling plastics in seawater, either at the sea surface or in subsurface waters. Given the relatively passive or small-scale movement of many pelagic invertebrates with the ocean currents and their large geographic ranges, they serve as valuable subjects for research aiming to establish connections between plastic concentrations in waters (exposure) and in organisms (load). Sampling pelagic invertebrates is often conducted using net-based trawls (typically with a mesh size of 335 mm, but this can vary depending on the target species), such as manta trawl nets, bongo nets, hydra bios nets, and multi-depth samplers, but also with Niskin Bottles. These methods are used to effectively collect plastics at the sea surface as well (see marine and coastal water section), and consequently, the abundance of plankton and plastics in water samples is often measured concurrently. 
-
- 
+Sampling pelagic invertebrates is commonly performed simultaneously with sampling plastics in seawater, either at the sea surface or in subsurface waters. Given the relatively passive or small-scale movement of many pelagic invertebrates with the ocean currents and their large geographic ranges, they serve as valuable subjects for research aiming to establish connections between plastic concentrations in waters (exposure) and in organisms (load). Sampling pelagic invertebrates is often conducted using net-based trawls (typically with a mesh size of 335 mm, but this can vary depending on the target species), such as manta trawl nets, bongo nets, hydra bios nets, and multi-depth samplers, but also with niskin bottles. These methods are used to effectively collect plastics at the sea surface as well (see marine and coastal water section), and consequently, the abundance of plankton and plastics in water samples is often measured concurrently. 
 
 **_Separating environmental plastic from organic matter_**
 
 The method used to separate environmental microplastics from the plankton is dependent on the abundance of organic material present in the sample. Samples with low plankton (and other organic material) abundance can be manually sorted using Bogorov chambers and dissection scope, or (with rinsing) over sieves with aperture size suited to the target species. Samples with high plankton abundance will require complete chemical digestion. 
 
- 
-
 **_Separating ingested plastic from the organism_**
 
 Given the small size of most pelagic invertebrates, quantifying plastics within (i.e., ingested by) these organisms necessitates chemical digestion of the entire specimen or community of organisms (Egger et al., 2022). Chemical digestions require a sequential process involving the density separation of microplastics from the pelagic community and/or visual inspection of the external surfaces of the sampled community. This precaution ensures that the plastics detected post-digestion originated from within the organisms, as opposed to being present in the environment or adhered to the external surfaces of the organisms. Given the small size of microplastics ingested by these organisms, microplastics that are visible to the naked eye are rare, and microscopy and polymer identification are necessary (see post survey procedures).
-
- 
-
 
 #### **Benthic invertebrates **
 
@@ -1719,220 +1268,127 @@ Given the small size of most pelagic invertebrates, quantifying plastics within 
 
 Sampling benthic invertebrates can be, and is often, done at the same time as sampling sediment (e.g., via grabs, see [grab field manual](https://grabs-and-boxcorers-field-manual.github.io/)). As many benthic invertebrates have limited geographic ranges, they are popular in research seeking to link plastic concentrations in sediments (exposure) and in invertebrates (load). Benthic invertebrates can also be collected by hand, and via snorkelling or SCUBA. Larger benthic invertebrates (i.e., sea cucumber, gastropods, tunicates) can be further dissected and relevant tissues removed for microplastics processing (Santana et al., 2022).
 
- 
-
 **_Separating plastic from organic matter_**
 
 Many benthic invertebrates are small in size (i.e., coral polyps, marine worms), therefore, to quantify plastics within these organisms, chemical digestion of the entire organism followed by polymer confirmation are recommended (Dehaut et al., 2016; Lusher et al., 2017; Santana et al., 2022). Dissected tissues, including the whole GIT, from larger invertebrates (i.e., sea stars, sea cucumber, gastropods) are routinely digested whole (Santana et al., 2022).
 
- 
-
-
 ## Sample processing and analyses 
-
 
 ### Storage
 
-To ensure sample integrity and to reduce possibility of extraneous contamination during storage, samples should be placed in appropriately sized, clean storage containers (preferably glass, where possible). 
+To ensure sample integrity and to reduce the possibility of extraneous contamination during storage, samples should be placed in appropriately sized, clean storage containers (preferably glass, where possible). 
 
- 
-
-For whole organisms, individuals or populations (i.e., plankton) can be immediately frozen following collection (ideally at -20<sup>o</sup>C), thereby effectively stopping all bodily processes including gut clearance. Where possible, whole organisms should be stored flat to minimise the likelihood of internal fluids leaking or draining out. Other preservation methods may be preferred, aligned with research questions (e.g., associated with impacts of microplastic on biota), although to align contamination with endpoints, understanding of the impacts of the different preservation methods on microplastic retrieval or decomposition may be required (see Quality assurance and quality control section).
-
- 
+For whole organisms, individuals or populations (i.e., plankton) can be immediately frozen following collection (ideally at -20<sup>o</sup>C), thereby effectively stopping all body processes including gut clearance. Where possible, whole organisms should be stored flat to minimise the likelihood of internal fluids leaking or draining out. Other preservation methods may be preferred, aligned with research questions (e.g., associated with impacts of microplastic on biota), although to align contamination with endpoints, understanding of the impacts of the different preservation methods on microplastic retrieval or decomposition may be required (see Quality assurance and quality control section).
 
 If analysing the gastrointestinal tract (GIT) for the presence of microplastics in either whole organisms or dissected GIT, it is important to reduce, or preferably stop, gut clearance prior to sample processing and analysis. 
 
- 
-
 For dissected GIT, the two ends of the GIT should be sealed (e.g., tied closed) and stored flat (to prevent draining from one GIT compartment to others) and immediately frozen (ideally at -20<sup>o</sup>C). For larger GIT, the GIT may be cut into smaller compartments (according to the animal’s anatomy); again, the two ends of each compartment should be sealed and stored flat and immediately frozen. 
-
- 
-
 
 ### Sample processing 
 
 Once the biota samples have been collected, the microplastics need to be separated for quantification and identification. Following good laboratory practice, a sample audit should be conducted, and all relevant environmental parameters and sample information entered into a project database or spreadsheet. This is particularly important if working with species that are collected under ethics and/or permits, as there will be periodic reporting requirements to meet.
 
- 
-
 A brief summary of methods used to process biotic samples and a description of the equipment and materials needed to process biotic samples is provided. 
-
- 
-
 
 #### Materials
 
-
-        -       Glass petri dishes and beakers
-
-
-        -       Metal forceps/tweezers
-
-
-        -       Metal mesh or glass microfiber filter
-
-
-        -       Metal sieve (sieve diameter and mesh aperture size need to be reported; the latter to understand lower size limit (e.g., 1 mm))
-
-
-        -       Separating funnel
-
-
-     
-
+- Glass petri dishes and beakers
+- Metal forceps/tweezers
+- Metal mesh or glass microfiber filter
+- Metal sieve (sieve diameter and mesh aperture size need to be reported; the latter to understand lower size limit (e.g., 1 mm))
+- Separating funnel
 
 #### Reagents
 
+- Digestion reagent, commonly H<sub>2</sub>O<sub>2</sub> or KOH (see Table 8, and respective section below). Concentration will depend on the type of organic matter, mass of the biotic samples being digested, and other factors such as whether a shaker or heat bath are being utilised. 
+- Enzymes for enzymatic digestion
+- Ultrapure water (e.g., Milli-Q)
 
-        -       Digestion reagent, commonly H<sub>2</sub>O<sub>2</sub> or KOH (see Table 8, and respective section below). Concentration will depend on the type of organic matter, mass of the biotic samples being digested, and other factors such as whether a shaker or heat bath are being utilised. 
-
-
-        -       Enzymes for enzymatic digestion
-
-
-        -       Ultrapure water (e.g., Milli-Q)
-
-_All reagents and solutions should be filtered (&lt; 20 μm) prior to use, excluding the ultrapure water, which is already filtered. _
-
- 
-
+_All reagents and solutions should be filtered (&lt; 20 μm) prior to use, excluding the ultrapure water, which is already filtered._
 
 #### Equipment 
 
-
-        -       Temperature controlled oven 
-
-
-        -       Filtration equipment, including vacuum pump
-
-
-        -       Stereomicroscope
-
-
-        -       Heat bath and/or shaker
-
-
-        -       Polymer identification instruments (e.g., FTIR, μ-FTIR, ATR-FTIR, RAMAN, py-GC/MS)
-
-
-     
-
+- Temperature controlled oven 
+- Filtration equipment, including vacuum pump
+- Stereomicroscope
+- Heat bath and/or shaker
+- Polymer identification instruments (e.g., FTIR, μ-FTIR, ATR-FTIR, RAMAN, py-GC/MS)
 
 #### Chemical and enzymatic digestion procedures for microplastic separation
 
 Although the literature is being updated frequently as microplastic research advances and matures, it is highly recommended that, where feasible and before starting sample processing, the literature for the specific tissue type being examined be thoroughly reviewed and tissue digestion methods carefully assessed for suitability. Also, because different digestion reagents can impact polymers differently, this should be taken into account when selecting the digestion method, the caveat being that no single method is best or safe for all polymer types.
 
- 
-
 A digestion step is strongly recommended when investigating microscopic microplastics in biotic samples, to ensure all microplastics can be released from the organic matrix and to achieve a suitable level of clarification to easily identify microplastics under the microscope. There are a range of different chemical and enzymatic reagents that are suited to tissue digestion, the choice dependant on research question, laboratory facilities, availability of reagents and, most importantly, tissue type (Table 8). Ultimately, the chemical digestion method used is a compromise between efficiency, cost, and the known risks and possibilities of polymer degradation (Table 8).
 
- 
-
 Three ‘general approach’ chemical digestion methods are recommended: 15% hydrogen peroxide, 10% potassium hydroxide under 40<sup>o</sup>C heat, and enzymatic digestion. Recommendations are broadly based on the balance between the advantages they impart, the limitations they introduce, and the impact on polymers (Table 8). 
-
- 
 
 **Table 8: **Summary table of digestion reagents, their concentrations, advantages and limitations. Based on: Di Fiore et al. (2024) and Pfeiffer and Fischer (2020). 
 
  
-
-
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dzaw{background-color:#4F81BD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qblk{background-color:#DEEBF4;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-   <td><strong>Digestion</strong>
-   </td>
-   <td><strong>Suggested concentration </strong>
-   </td>
-   <td><strong>Advantages</strong>
-   </td>
-   <td><strong>Limitations</strong>
-   </td>
-   <td><strong>Degradation of polymers?</strong>
-   </td>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Digestion</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Suggested concentration </span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Advantages</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Limitations</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Degradation of polymers?</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Hydrogen peroxide (H</span>2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">O</span>2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">15-30% </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Efficient, cheap</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corrosive</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Yes, at high concentrations</span></td>
   </tr>
   <tr>
-   <td>Hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>)
-   </td>
-   <td>15-30% 
-   </td>
-   <td>Efficient, cheap
-   </td>
-   <td>Corrosive
-   </td>
-   <td>Yes, at high concentrations
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Hydrochloric acid (HCl)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">20%</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Efficient, cheap</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Can degrade polymers, corrosive, toxic</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Yes</span></td>
   </tr>
   <tr>
-   <td>Hydrochloric acid (HCl)
-   </td>
-   <td>20%
-   </td>
-   <td>Efficient, cheap
-   </td>
-   <td>Can degrade polymers, corrosive, toxic
-   </td>
-   <td>Yes
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Nitric acid (HNO</span>3<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> Weak</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Efficient, cheap</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corrosive, discolouration of plastics, degradation of some polymers</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Yes</span></td>
   </tr>
   <tr>
-   <td>Nitric acid (HNO<sub>3</sub>)
-<p>
- 
-   </td>
-   <td> 
-   </td>
-   <td>Efficient, cheap
-   </td>
-   <td>Corrosive, discolouration of plastics, degradation of some polymers
-   </td>
-   <td>Yes
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium hydroxide (NaOH)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1M</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Efficient</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corrosive, can cause degradation of some polymers</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Yes</span></td>
   </tr>
   <tr>
-   <td>Sodium hydroxide (NaOH)
-   </td>
-   <td>1M
-   </td>
-   <td>Efficient
-   </td>
-   <td>Corrosive, can cause degradation of some polymers
-   </td>
-   <td>Yes
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Potassium hydroxide (KOH)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">10%</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Efficient</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corrosive</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Yes, at high concentrations</span></td>
   </tr>
   <tr>
-   <td>Potassium hydroxide (KOH)
-   </td>
-   <td>10%
-   </td>
-   <td>Efficient
-   </td>
-   <td>Corrosive
-   </td>
-   <td>Yes, at high concentrations
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Enzymatic digestion</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Safe, efficient</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Expensive, time intense</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">No</span></td>
   </tr>
-  <tr>
-   <td>Enzymatic digestion
-   </td>
-   <td> 
-   </td>
-   <td>Safe, efficient
-   </td>
-   <td>Expensive, time intense
-   </td>
-   <td>No
-   </td>
-  </tr>
+</tbody>
 </table>
-
-
- 
-
-
-# 
-
 
 # Air
 
