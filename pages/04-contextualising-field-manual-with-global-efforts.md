@@ -16,15 +16,10 @@ This manual adds to a number of guidance manuals for research and monitoring of 
 
 Notable manuals or guidance documents include:
 
- 
-
-
 &nbsp;&nbsp;&nbsp;&nbsp;1)    Joint Group of Experts on the Scientific Aspects of Marine Environmental Protection (GESAMP): Guidelines for the Monitoring and Assessment of Plastic Litter in the Ocean (2019).
 
 
-     
-
-The Joint Group of Experts on the Scientific Aspects of Marine Environmental Protection (GESAMP)’s “Guidelines for the Monitoring and Assessment of Plastic Litter in the Ocean” is the premier guidance document, compiled by international experts for designing marine debris monitoring and research programs, with a focus on litter of all sizes, including microplastics. Its main purpose is to provide recommendations, advice and practical guidance, for the establishment of programs to monitor and assess the distribution and abundance of plastic litter, also referred to as plastic debris, in the ocean. This guidance document does not prescribe specific one-size-fits-all methods but rather presents a menu of different approaches and guidance for different research questions, covering seawater, sediment and biota. The GESAMP document intends to promote a more harmonised approach to the design of sampling programs, the selection of appropriate indicators (i.e. type of sample), the collection of samples or observations, the characterisation of sampled material, dealing with uncertainties, data analysis and reporting the results and also to inform the establishment of national and regional field monitoring programs. [Guidelines for the Monitoring and Assessment of Plastic Litter in the Ocean | GESAMP](http://www.gesamp.org/publications/guidelines-for-the-monitoring-and-assessment-of-plastic-litter-in-the-ocean)
+The Joint Group of Experts on the Scientific Aspects of Marine Environmental Protection (GESAMP)’s “Guidelines for the Monitoring and Assessment of Plastic Litter in the Ocean” is the premier guidance document, compiled by international experts for designing marine debris monitoring and research programs, with a focus on litter of all sizes, including microplastics. Its main purpose is to provide recommendations, advice and practical guidance, for the establishment of programs to monitor and assess the distribution and abundance of plastic litter, also referred to as plastic debris, in the ocean. This guidance document does not prescribe specific one-size-fits-all methods but rather presents a menu of different approaches and guidance for different research questions, covering seawater, sediment and biota. The GESAMP document intends to promote a more harmonised approach to the design of sampling programs, the selection of appropriate indicators (i.e. type of sample), the collection of samples or observations, the characterisation of sampled material, dealing with uncertainties, data analysis and reporting the results and also to inform the establishment of national and regional field monitoring programs. [Guidelines for the Monitoring and Assessment of Plastic Litter in the Ocean &#124; GESAMP](http://www.gesamp.org/publications/guidelines-for-the-monitoring-and-assessment-of-plastic-litter-in-the-ocean)
 
  
 
