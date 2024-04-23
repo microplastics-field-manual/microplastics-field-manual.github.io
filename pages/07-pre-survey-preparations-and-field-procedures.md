@@ -329,10 +329,10 @@ To achieve density separation, the reagent should be added to the sample first, 
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 1209px">
 <colgroup>
-<col style="width: 270px">
-<col style="width: 137px">
-<col style="width: 401px">
-<col style="width: 401px">
+<col style="width: 250px">
+<col style="width: 130px">
+<col style="width: 300px">
+<col style="width: 300px">
 </colgroup>
 <thead>
   <tr>
@@ -668,10 +668,10 @@ To extract the microplastics using density separation reagents, the sediment sho
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 1221px">
 <colgroup>
-<col style="width: 270px">
-<col style="width: 109px">
-<col style="width: 421px">
-<col style="width: 421px">
+<col style="width: 250px">
+<col style="width: 130px">
+<col style="width: 300px">
+<col style="width: 300px">
 </colgroup>
 <thead>
   <tr>
@@ -1216,7 +1216,7 @@ The choice of method to separate plastic from sampled marine birds will be depen
 
 #### Fish 
 
-**_Sampling fish _**
+**_Sampling fish_**
 
 Designed and opportunistic sampling of fish harvested for human consumption are popular methods to sample for microplastic assessment. Due to the widespread harvest of a large variety of fish species across the world, fish are among the easiest organisms to sample for microplastic research. There are numerous protocols to capture fish for microplastic research (Markic et al., 2019; Wootton et al., 2021). Fish can also be opportunistically sampled as by-catch in fishing targeting other species. The GIT and gills are the most commonly collected tissues for microplastic assessment.
 
@@ -1228,11 +1228,12 @@ For smaller fish, chemical digestion of the entire animal is common. For medium 
 
 **_Sampling bivalves_**
 
-Bivalves are among the most popular taxa for microplastic monitoring and research, using both designed and opportunistic sampling approaches, with several countries running national microplastic monitoring programs using bivalves. For example, the Republic of Korea performs national monitoring using Pacific oyster (_Crassostrea gigas_), blue mussel (_Mytilus edulis_), and Manila clam (_Ruditapes philippinarum) _(Cho et al., 2021)_. _The use of bivalves for microplastic monitoring is growing in popularity. National biomonitoring programmes like the long-running 'Mussel Watch' initiative by NOAA in the United States of America, and by others in Europe use local mussel species to assess environmental contamination, and can incorporate microplastic assessments (National Oceanic and Atmospheric Administration, 2020; Provenza et al., 2022).  
+Bivalves are among the most popular taxa for microplastic monitoring and research, using both designed and opportunistic sampling approaches, with several countries running national microplastic monitoring programs using bivalves. For example, the Republic of Korea performs national monitoring using Pacific oyster (_Crassostrea gigas_), blue mussel (_Mytilus edulis_), and Manila clam (_Ruditapes philippinarum) _(Cho et al., 2021)_. The use of bivalves for microplastic monitoring is growing in popularity. National biomonitoring programmes like the long-running 'Mussel Watch' initiative by NOAA in the United States of America, and by others in Europe use local mussel species to assess environmental contamination, and can incorporate microplastic assessments (National Oceanic and Atmospheric Administration, 2020; Provenza et al., 2022).  
 
 There are a variety of sampling approaches used to sample microplastics from bivalves.  Sampling is typically repeated over time given that environmental microplastics may vary across four seasons (Summer-Autumn-Winter-Spring) or rainy (wet/monsoon) and dry seasons in tropical regions. Given that Australia spans latitudinally from the tropics to temperate zone, seasonality should also be factored into bivalve microplastic monitoring efforts in Australia.
 
-Bivalves (e.g., mussels, oysters, pipis) can be sourced from wild populations or commercial growers (e.g., aquaculture). Methods of collection include manual removal by twisting (mussels), hammer and chisel to remove from substrate (mussels, oysters) and trowel/spade and sediment pumps (pipis). Bivalves should be euthanised in an ice-slurry and transferred to -20°C freezer for storage. For the explicit purpose of biomonitoring, cages of selected bivalve species can be deployed in select locations (e.g., following the Mussel Watch approach). Five families of bivalve have been typically monitored. In order of popularity at the time of publishing, these are: mussels, oysters, clams, scallops, and cockles (Ding et al., 2022).  
+Bivalves (e.g., mussels, oysters, pipis) can be sourced from wild populations or commercial growers (e.g., aquaculture). Methods of collection include manual removal by twisting (mussels), hammer and chisel to remove from substrate (mussels, oysters) and trowel/spade and sediment pumps (pipis). Bivalves should be euthanised in an ice-slurry and transferred to -20°C freezer for storage. For the explicit purpose of biomonitoring, cages of selected bivalve species can be deployed in select locations (e.g., following the Mussel Watch approach). Five families of bivalve have been typically monitored. In order of popularity at the time of publishing, these are: mussels, oysters, clams, scallops, and cockles (Ding et al., 2022). 
+
 **_Separating plastic from organic matter_**
 
 Given the small size of most bivalves, to quantify plastics within organisms, chemical or enzymatic digestion of the entire soft tissue (not usually including the shell) of the organism is the most popular (Catarino et al., 2017). Given the small size of microplastics ingested by these organisms, microplastics that are visible to the naked eye are rare, and microscopy and polymer identification are necessary (see post survey procedures). Other research objectives, include investigating rates of ingestion and depuration, and the consequences of microplastic exposure in live animals held in tanks in the laboratory (Hamm et al., 2022; Yap et al., 2020).
@@ -1262,7 +1263,7 @@ The method used to separate environmental microplastics from the plankton is dep
 
 Given the small size of most pelagic invertebrates, quantifying plastics within (i.e., ingested by) these organisms necessitates chemical digestion of the entire specimen or community of organisms (Egger et al., 2022). Chemical digestions require a sequential process involving the density separation of microplastics from the pelagic community and/or visual inspection of the external surfaces of the sampled community. This precaution ensures that the plastics detected post-digestion originated from within the organisms, as opposed to being present in the environment or adhered to the external surfaces of the organisms. Given the small size of microplastics ingested by these organisms, microplastics that are visible to the naked eye are rare, and microscopy and polymer identification are necessary (see post survey procedures).
 
-#### **Benthic invertebrates **
+#### **Benthic invertebrates**
 
 **_Sampling benthic invertebrates_**
 
@@ -1322,7 +1323,7 @@ A digestion step is strongly recommended when investigating microscopic micropla
 
 Three ‘general approach’ chemical digestion methods are recommended: 15% hydrogen peroxide, 10% potassium hydroxide under 40<sup>o</sup>C heat, and enzymatic digestion. Recommendations are broadly based on the balance between the advantages they impart, the limitations they introduce, and the impact on polymers (Table 8). 
 
-**Table 8: **Summary table of digestion reagents, their concentrations, advantages and limitations. Based on: Di Fiore et al. (2024) and Pfeiffer and Fischer (2020). 
+**Table 8:** Summary table of digestion reagents, their concentrations, advantages and limitations. Based on: Di Fiore et al. (2024) and Pfeiffer and Fischer (2020). 
 
  
 <style type="text/css">
@@ -1510,7 +1511,7 @@ Air samples should be resuspended in the density separation solution of choice, 
 
 To extract the microplastics using density separation reagents, first, combine the liquid and the density separation reagent in a previously decontaminated glass beaker. Stir the solution with a metal spoon or glass rod and allow it to settle. Using a filtration kit, filter the supernatant using the chosen filtration device (i.e., metal mesh, glass microfiber, silicon coated filter). After filtering all the liquid contents of your jar, rinse all of the walls of the container to ensure all microplastic items are on the filter. Store the metal filter paper in a labelled cover Petri dish until microscope examination. 
 
-**Table 9. **Summary table of density separation reagents and their advantages and limitations. Post-survey Procedures
+**Table 9.** Summary table of density separation reagents and their advantages and limitations. Post-survey Procedures
 
 
 <style type="text/css">
@@ -1524,10 +1525,10 @@ To extract the microplastics using density separation reagents, first, combine t
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 1212px">
 <colgroup>
-<col style="width: 301px">
-<col style="width: 109px">
-<col style="width: 401px">
-<col style="width: 401px">
+<col style="width: 250px">
+<col style="width: 130px">
+<col style="width: 300px">
+<col style="width: 300px">
 </colgroup>
 <thead>
   <tr>
