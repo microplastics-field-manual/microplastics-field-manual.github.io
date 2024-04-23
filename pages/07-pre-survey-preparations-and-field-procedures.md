@@ -232,7 +232,7 @@ As an example, described below is a procedure that has been applied to facilitat
 
  
 
-**Table 2. **Summary table of digestion reagents, their concentrations, advantages and limitations. Based on: Di Fiore et al. (2024) and Pfeiffer and Fischer (2020).
+**Table 2.** Summary table of digestion reagents, their concentrations, advantages and limitations. Based on: Di Fiore et al. (2024) and Pfeiffer and Fischer (2020).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -315,7 +315,8 @@ Note, samples that have been preserved (e.g., 20% ethanol) or chemically digeste
 To achieve density separation, the reagent should be added to the sample first, and then stirred (e.g., with a metal spoon or glass rod) and the solution allowed to settle. Stirring and settlement periods can vary based on sample complexity, and should be tailored with preliminary and spike recovery tests. Once a sample is completely stratified, the established supernatant should be poured over an appropriate filter (i.e., metal mesh, glass microfiber, silicon coated filter) using a filtration device (preferably metal or glass). The walls of the sample container should be rinsed liberally with ultrapure (e.g., Milli-Q) or filtered water to ensure all microplastic items are transferred. The filter should be stored in a labelled petri dish and covered with a glass lid. To identify microplastics, captured items should be observed under a microscope using any one of the microplastic quantification steps outlined below. 
 
 
-**Table 3. **Commonly used density separation reagents, highlighting their advantages and limitations. 
+**Table 3.** Commonly used density separation reagents, highlighting their advantages and limitations. 
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -431,6 +432,7 @@ It is essential to record information on sampling effort as this can create vari
 
 
 <img src="images/figures/figure2.png" width="" alt="alt_text" title="image_tooltip">
+
 
 **Figure 2.** Sampling approaches for microplastic monitoring in intertidal environments. 
 
@@ -611,7 +613,7 @@ Sediment type, range in grain size, and levels of organic matter can influence t
 - Density separation solutions (e.g., Sodium chloride, Potassium iodide, Zinc chloride. See Table 2 below for details on appropriateness of different reagents). 
 - Ultrapure water (e.g., Milli-Q) or filtered water 
 
-_All reagents and solutions should be filtered (&lt;20 μm) prior to use, excluding the ultrapure water, which is already filtered. _
+_All reagents and solutions should be filtered (&lt;20 μm) prior to use, excluding the ultrapure water, which is already filtered._
 
 
 #### Instruments 
