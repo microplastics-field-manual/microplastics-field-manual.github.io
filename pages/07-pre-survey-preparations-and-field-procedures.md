@@ -331,8 +331,8 @@ To achieve density separation, the reagent should be added to the sample first, 
 <colgroup>
 <col style="width: 200px">
 <col style="width: 110px">
-<col style="width: 250px">
-<col style="width: 250px">
+<col style="width: 220px">
+<col style="width: 220px">
 </colgroup>
 <thead>
   <tr>
