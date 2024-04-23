@@ -329,10 +329,10 @@ To achieve density separation, the reagent should be added to the sample first, 
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 1209px">
 <colgroup>
+<col style="width: 200px">
+<col style="width: 110px">
 <col style="width: 250px">
-<col style="width: 130px">
-<col style="width: 275px">
-<col style="width: 275px">
+<col style="width: 250px">
 </colgroup>
 <thead>
   <tr>
