@@ -331,8 +331,8 @@ To achieve density separation, the reagent should be added to the sample first, 
 <colgroup>
 <col style="width: 200px">
 <col style="width: 110px">
-<col style="width: 220px">
-<col style="width: 220px">
+<col style="width: 200px">
+<col style="width: 200px">
 </colgroup>
 <thead>
   <tr>
@@ -668,10 +668,10 @@ To extract the microplastics using density separation reagents, the sediment sho
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 1221px">
 <colgroup>
-<col style="width: 250px">
-<col style="width: 130px">
-<col style="width: 275px">
-<col style="width: 275px">
+<col style="width: 200px">
+<col style="width: 110px">
+<col style="width: 200px">
+<col style="width: 200px">
 </colgroup>
 <thead>
   <tr>
@@ -1537,10 +1537,10 @@ To extract the microplastics using density separation reagents, first, combine t
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 1212px">
 <colgroup>
-<col style="width: 250px">
-<col style="width: 130px">
-<col style="width: 275px">
-<col style="width: 275px">
+<col style="width: 200px">
+<col style="width: 110px">
+<col style="width: 200px">
+<col style="width: 200px">
 </colgroup>
 <thead>
   <tr>
