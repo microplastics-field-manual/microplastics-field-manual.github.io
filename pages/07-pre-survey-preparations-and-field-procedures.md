@@ -8,165 +8,120 @@ image:
 layout: home
 
 ---
-{% include toc.html class="toc-left" h_min=2 h_max=2 %} 
+
 
 These methods will differ among environments so refer to the relevant section:
 
-# Water
+{% include toc.html class="toc-left" h_min=2 h_max=2 %} 
 
+# Water
 
 ## Pre-Survey Preparations
 
 The methods for the collection of microplastic in marine and coastal waters can have minor variations tailored to specific water compartments i.e., surface, sub-surface and at depth. These methods may also be adapted to collect microplastics within a specific size range. 
 
- 
-
-
 ### Sampling design
 
 Before commencing field sampling, it is essential to formulate the research question(s) (see: What are the goals of my research?). Different research questions may require different sampling designs and, likely, different sample collection methods. Furthermore, sampling designs should consider the post-survey requirements, including the time required to accurately process samples, the techniques to be used to analyse them and the units of reporting.
 
- 
-
 The next step is to define the spatial and temporal extent of the research question. Spatial studies can provide information on the presence of and changes in the distribution of microplastics across sites. Therefore, the sampling design must consider the number and spatial dispersion of the collection sites to answer the research question, site accessibility, and environmental characteristics that may influence results (e.g., the hydrodynamic and depth profile to be surveyed and the expanse of the water body). Temporal studies can provide information on changes in microplastic concentrations at a specific location over time; the sampling design must therefore consider site accessibility across seasons and during/after significant weather events. 
-
- 
 
 Research conducted across spatial and/or temporal scales requires a stratified sampling design that enables an estimate of the true microplastic density (or type, weight, volume) at different scales or “strata” representing clearly defined groups (Quinn and Keough, 2002). Samples should be collected randomly from each group. Stratified sampling should also be used when within-habitat variation is high, and it is not feasible to sample entire sites (CSIRO 2022). Refer to the [Survey Design SOP](https://survey-design-field-manual.github.io/) for further details.
 
- 
-
-Sampling design and approach is dependent on study objectives and will define limitations on the size class of microplastics that can be analysed. For water, sampling can be performed using tow nets, Niskin bottles, submersible pumps, underway vessel pumps or grab samples - see descriptions below. Worthy of note, each mode of water sampling offers a different capability (e.g., in situ filtration of large volumes vs collection of smaller volumes for later processing; the choice being dictated by downstream detection thresholds) and different representativeness  (e.g., horizontal vs vertical gradients of the water body, or specific microplastic sizes or types due to density), both of which need to be considered to ensure the research question can be satisfactorily answered (GESAMP, 2019). For example, many tow nets have a 350 µm aperture so smaller microplastics would only be opportunistically sampled, while submersible pumps, Niskin bottles and underway vessel pumps can collect smaller microplastics. 
-
- 
+Sampling design and approach is dependent on study objectives and will define limitations on the size class of microplastics that can be analysed. For water, sampling can be performed using tow nets, Niskin bottles, submersible pumps, underway vessel pumps or grab samples - see descriptions below. Each mode of water sampling offers a different capability (e.g., in situ filtration of large volumes vs collection of smaller volumes for later processing; the choice being dictated by downstream detection thresholds) and different representativeness  (e.g., horizontal vs vertical gradients of the water body, or specific microplastic sizes or types due to density), both of which need to be considered to ensure the research question can be satisfactorily answered (GESAMP, 2019). For example, many tow nets have a 350 µm aperture so smaller microplastics would only be opportunistically sampled, while submersible pumps, Niskin bottles and underway vessel pumps can collect microplastics across the full size range, including smaller microplastics. 
 
 The number of samples collected will be determined by the research question as well as the budget, logistics and resources available; with the caveat that a high number of samples allows for greater accuracy (through power and replication) in the estimation of microplastic concentrations in the environment and will ensure greater statistical rigour. It is important to consider what would be an appropriate effect size (i.e. the acceptable difference between the estimate and the true density or volume of microplastics in the water). Before commencing sample collection, a power analysis can be performed to assist in this decision. G*Power (Faul et al, 2007) or pwr package in R (Champley et al., 2020) are suitable for simple sampling designs and can determine the number of samples required to achieve the desired effect size. 
 
 
 ## Field Procedures
 
-
 ### Materials and equipment for collection 
 
-The materials and equipment required for collection of water samples varies depending on the type of sampling (Table 1). For volume reduced net tows, submersible pumps and bulk water, the aperture of the filter or net must be recorded. To accurately record the volume of the water sampled a flow meter is required for net and pump devices. GPS values and depth measurers provide additional important contextual information on the site location and details. 
-
- 
+The materials and equipment required for collection of water samples varies depending on the type of sampling (Table 1). For volume reduced net tows, submersible pumps and bulk water, the aperture of the filter or net must be recorded. To accurately record the volume of the water sampled a flow meter is required for net and pump devices. GPS values and depth measurements provide additional important contextual information on the site location and details.
 
 **Table 1.** List of field equipment and materials needed for collection of environmental samples in marine and coastal habitats. Three common methods are considered: volume-reduced net tow filtration, submersible pump filtration and bulk water bottling. Asterisks* indicate essential items.
 
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-co9i{background-color:#4F81BD;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qblk{background-color:#DEEBF4;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1053px">
+<colgroup>
+<col style="width: 351px">
+<col style="width: 351px">
+<col style="width: 351px">
+</colgroup>
+<thead>
   <tr>
-   <td>
-<h4><strong>Volume reduced net tow filtration</strong></h4>
-
-
-   </td>
-   <td>
-<h4><strong>Submersible pump filtration </strong></h4>
-
-
-   </td>
-   <td>
-<h4><strong>Bulk water bottling</strong></h4>
-
-
-   </td>
+    <th class="tg-co9i"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Volume reduced net tow filtration</span></th>
+    <th class="tg-co9i"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Submersible pump filtration </span></th>
+    <th class="tg-co9i"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Bulk water bottling</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Nets (e.g., Manta trawl, Neuston net, AVANI trawl, Bongo net, Hydra-bios nets)*. Net aperture and mesh size must be considered and recorded</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pump device (e.g., built-in underway seawater intake system, portable pump; including pumps deployed in a Rosette device)*. Filter aperture must be considered and recorded.</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sampling bottle of known volume (e.g., glass or plastic bottle of 1 L or more, Niskin and Van-Dorn bottles, including deployed in a Rosette device)*.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Volume of sampling bottle must be considered.</span></td>
   </tr>
   <tr>
-   <td>Nets (e.g., Manta trawl, Neuston net, AVANI trawl, Bongo net, Hydra-bios nets)*. Net aperture and mesh size must be considered and recorded
-   </td>
-   <td>Pump device (e.g., built-in underway seawater intake system, portable pump; including pumps deployed in a Rosette device)*. Filter aperture must be considered and recorded.
-   </td>
-   <td>Sampling bottle of known volume (e.g., glass or plastic bottle of 1 L or more, Niskin and Van-Dorn bottles, including deployed in a Rosette device)*.
-<p>
-Volume of sampling bottle must be considered.
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Flow meter</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Flow meter</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Volume of water from sampling bottle must be considered and recorded</span></td>
   </tr>
   <tr>
-   <td>Flow meter
-   </td>
-   <td>Flow meter
-   </td>
-   <td>Volume of water from sampling bottle must be considered and recorded
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">GPS start and end coordinates*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">GPS start (and end when applicable) coordinates*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">GPS*</span></td>
   </tr>
   <tr>
-   <td>GPS start and end coordinates*
-   </td>
-   <td>GPS start (and end when applicable) coordinates*
-   </td>
-   <td>GPS*
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Depth measurer</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Depth measurer</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Depth measurer</span></td>
   </tr>
   <tr>
-   <td>Depth measurer
-   </td>
-   <td>Depth measurer
-   </td>
-   <td>Depth measurer
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Metal sieves (depending on the pump design)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Metal sieves (depending on the sampling bottle)</span></td>
   </tr>
   <tr>
-   <td>-
-   </td>
-   <td>Metal sieves (depending on the pump design)
-   </td>
-   <td>Metal sieves (depending on the sampling bottle)
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sampling jar*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sampling jar*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sampling jar</span></td>
   </tr>
   <tr>
-   <td>Sampling jar*
-   </td>
-   <td>Sampling jar*
-   </td>
-   <td>Sampling jar
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Labels*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Labels*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Labels*</span></td>
   </tr>
   <tr>
-   <td>Labels*
-   </td>
-   <td>Labels*
-   </td>
-   <td>Labels*
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Field observation datasheet*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Field observation datasheet*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Field observation datasheet*</span></td>
   </tr>
   <tr>
-   <td>Field observation datasheet*
-   </td>
-   <td>Field observation datasheet*
-   </td>
-   <td>Field observation datasheet*
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pencils, permanent marker*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pencils, permanent marker*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pencils, permanent marker*</span></td>
   </tr>
   <tr>
-   <td>Pencils, permanent marker*
-   </td>
-   <td>Pencils, permanent marker*
-   </td>
-   <td>Pencils, permanent marker*
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Metal forceps and/or tweezers</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Metal forceps and/or tweezers</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Metal forceps and/or tweezers</span></td>
   </tr>
   <tr>
-   <td>Metal forceps and/or tweezers
-   </td>
-   <td>Metal forceps and/or tweezers
-   </td>
-   <td>Metal forceps and/or tweezers
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Reagents (ultrapure water, ethanol)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-        </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-        </span></td>
   </tr>
-  <tr>
-   <td>Reagents (ultrapure water, ethanol)
-   </td>
-   <td>
-        -        
-   </td>
-   <td>
-        -        
-   </td>
-  </tr>
+</tbody>
 </table>
-
 
 
 ### General principles
