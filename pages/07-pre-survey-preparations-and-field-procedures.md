@@ -400,6 +400,7 @@ To achieve density separation, the reagent should be added to the sample first, 
 </tbody>
 </table>
 
+
 #### Filtration
 
 Water can be poured through the filter or sieve and gravity will drain the sample, or a vacuum pump can be used to accelerate the filtration and if there is a high particulate content. The configuration of the filter or sieve can vary, i.e., an individual filter or sieve can be used, or a tiered filtration unit (Schlawinsky et al., 2022).  Either way, the smallest filter size must be recorded, as this will define the smallest microplastic sample that can be collected (e.g., if the sieve is 100 μm, microplastics smaller than 100 μm will not be accurately or consistently captured). 
@@ -441,6 +442,7 @@ It is essential to record information on sampling effort as this can create vari
 
 
 ### Materials and equipment for collection 
+
 
 **Table 4.** List of equipment and materials required for field sample collection in intertidal/supratidal and subtidal habitats. Asterisks* indicate items that are essential for microplastic sampling.  
 
@@ -524,6 +526,7 @@ It is essential to record information on sampling effort as this can create vari
   </tr>
 </tbody>
 </table>
+
 
 ### General principles
 
@@ -652,7 +655,7 @@ varying levels of toxicity, and price ranges (Rani et al., 2023)(Table 5). These
 To extract the microplastics using density separation reagents, the sediment should be transferred into a previously decontaminated glass beaker and the density separation reagent added. The sediment and density separation solution should be gently stirred with a metal spoon or glass rod and allowed to settle. Using a filtration kit (preferably glass or stainless steel), pour the supernatant over an appropriate filter (i.e., metal mesh, glass microfiber, silicon coated filter). The walls of the glass beaker should be rinsed liberally with ultrapure (e.g., Milli-Q) or filtered water to ensure all microplastic items are transferred to the filter. The loaded filter should be stored in a labelled Petri dish and covered with a glass lid. To identify microplastics, captured items should be observed under a microscope. 
 
 
-**Table 5. **Commonly used density separation reagents, highlighting their advantages and limitations. 
+**Table 5.** Commonly used density separation reagents, highlighting their advantages and limitations. 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
