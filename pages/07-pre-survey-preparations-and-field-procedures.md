@@ -1392,427 +1392,218 @@ Three ‘general approach’ chemical digestion methods are recommended: 15% hyd
 
 # Air
 
-
 ## Pre-Survey Preparations
 
 The methods required for the collection of microplastics from the air are the same for all microplastic sizes and environments?. 
-
- 
-
 
 ### Sampling design 
 
 Before commencing field sampling, it is necessary to formulate the research question(s) (see What are the goals of my research?). Different research questions may require different sampling designs and, likely, different sampling methods. Sampling designs should also consider post-survey requirements, including the techniques to be used to analyse them and the units of reporting.
 
- 
-
 The main issues of interest when addressing the presence of microplastics in the air are: 
 
-
-        -       Where, what or how much microplastic is there?
-
-
-        -       Are there variations in microplastic in space or time?
-
-
-        -       What are the sources of microplastic?
-
- 
+- Where, what or how much microplastic is there?
+- Are there variations in microplastic in space or time?
+- What are the sources of microplastic?
 
 Sampling design and approach are dependent on the study objective and the environment being sampled. There are two main approaches when sampling the air for microplastics, namely active and passive monitoring. Active monitoring involves drawing in air through a collection system to capture microplastics. This is typically done using sampling devices that allow for controlled and continuous airflow and collection of airborne particles. Active monitoring provides real-time or near-real-time data on microplastic concentrations and can be useful for monitoring specific sources or events, such as industrial emissions or urban areas with high microplastic pollution. It is also suitable for studying the dynamics of microplastics in the atmosphere. Active sampling is often set up to collect air at the height of the human mouth, so can measure the potential exposure of humans, and therefore assists in assessing human health risks upon inhalation of microplastics. Passive monitoring involves leaving a collection substrate or device in a specific location to capture airborne microplastic deposition over a specific period of time. These substrates can then be analysed in a laboratory to determine the concentration and types of microplastics present. Passive monitoring is useful for understanding long-term trends and assessing microplastic presence in specific environments. Passive sampling is often more applicable for sampling remote areas, as there is no need for access to power. 
 
- 
-
 Sampling frequency also depends on the research question. If variations over time or between seasons are under question, then multiple sampling efforts across seasons or over time are required. In addition, replication is required within each spatial or temporal unit. Further, research conducted across spatial and/or temporal scales requires a stratified sampling design that enables an estimate of the true microplastic density (or type, weight, volume) at different scales or “strata” representing clearly defined groups (Quinn and Keough, 2002). Samples should be collected randomly from each group. Stratified sampling should also be used when within-habitat variation is high, and it is not feasible to sample entire sites (CSIRO 2022). 
-
- 
 
 Despite this, if simply trying to quantify whether microplastic is present, then a single sampling effort may be appropriate. Notwithstanding, following these guidelines will allow new data that is collected down the track to be compared. 
 
- 
-
 The number of samples collected will be determined by the research question as well as the budget, logistics and resources available; with the caveat that a high number of samples allows for greater accuracy (through power and replication) in the estimation of microplastic concentrations in the environment and will ensure greater statistical rigour. It is important to consider what would be an appropriate effect size (i.e. the acceptable difference between the estimate and the true density or volume of microplastics in the air). Before commencing sample collection, a power analysis can be performed to assist in this decision. G*Power (Faul et al., 2007) or pwr package in R (Champley et al., 2020) are suitable for simple sampling designs and can determine the number of samples required to achieve the desired effect size. 
 
-
 ## Field Procedures
-
 
 ### Materials and equipment for collection 
 
 The materials and equipment required for collection of air samples depends on the type of monitoring occurring, that being either active or passive.
 
- 
-
-
 #### Active monitoring 
 
-
-        -       Air sampling device with vacuum pump and airflow meter (Figure 3)
-
-
-        -       Source of electricity 
-
-
-        -       Metal forceps
-
-
-        -       Metal mesh filter
-
-
-        -       Glass Petri dish
-
-
-        -       GPS
-
-
-        -       PPE (avoid polyester and other plastic fibres)
-
-
-        -       Pencils, datasheet, labels, permanent markers
-
- 
-
+- Air sampling device with vacuum pump and airflow meter (Figure 3)
+- Source of electricity 
+- Metal forceps
+- Metal mesh filter
+- Glass Petri dish
+- GPS
+- PPE (avoid polyester and other plastic fibres)
+- Pencils, datasheet, labels, permanent markers
 
 #### Passive monitoring 
 
-
-        -       Glass collection device or filter holder
-
-
-        -       Metal mesh filter
-
-
-        -       Glass fiber filter
-
-
-        -       Glass Petri dish
+- Glass collection device or filter holder
+- Metal mesh filter
+- Glass fiber filter
+- Glass Petri dish
+- Metal forceps
+- GPS
+- PPE (avoid polyester and other plastic fibres)
+- Pencils, datasheet, labels, permanent marker
 
 
-        -       Metal forceps
+<img src="images/figures/figure3.png" width="" alt="alt_text" title="image_tooltip">
 
-
-        -       GPS
-
-
-        -       PPE (avoid polyester and other plastic fibres)
-
-
-        -       Pencils, datasheet, labels, permanent marker
-
-
-<table>
-  <tr>
-   <td>
-   </td>
-   <td>
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image2.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-</table>
-
-
-
-    **Figure 3.** Diagram of the set-up of an active monitoring air sampling device.
-
- 
-
+**Figure 3.** Diagram of the set-up of an active monitoring air sampling device.
 
 #### Active monitoring 
 
 For both outdoor and indoor sampling, the sampling device should be placed at a specific, pre-defined height depending on the objective of the study (Perera et al., 2022). If the aim of the study is to test human exposure, it is recommended the device is set between 1.2 m (child standing height, or mouth height of a sitting adult) and 1.6 m. The flow rate must be consistent, and recorded. The recommended flow rate is 100 L/min, which is most commonly used. However, this rate can vary depending on the type of the sampling device used and the capacity of the machine.  
 
- 
-
 When sampling indoors, it is recommended that less than 10% of the total indoor volume is collected for the sample. To allow for appropriate replication, three independent samples should be collected at each location being tested, but consider study design and power analysis, as described above. Appropriate Quality Assurance and Quality Control procedures must be followed, including the use of blanks (See QAQC section). 
-
- 
-
 
 #### Passive monitoring 
 
 For passive sampling, it is important to examine the quantity of airborne microplastics in both wet and dry atmospheric deposition to gauge the overall presence of microplastics in the environment. The wet collection sampler could include a cleaned open beaker with a glass funnel (Azari et al., 2023). For dry sampling, an open glass petri dish, or a glass funnel attached to a beaker would be appropriate. 
 
- 
-
 For passive monitoring, the sampling device is placed in a specific predefined location in either an indoor or outdoor environment. To allow for appropriate replication, three independent samples should be collected at each location being tested, but consider study design and power analysis, as described above. The time over which the sample is exposed will depend on the research question (Chen et al., 2020; Knobloch et al., 2021).
-
 
 #### Storage
 
 Following collection, the mesh filter should be placed in a labelled glass Petri dish, and stored until analysis. This can be stored at room temperature if no biological material is included. If biological material is included, it should be refrigerated at 4°C until further analysis (Dong et al., 2021; Huang et al., 2021). 
 
- 
-
-
 ## Sample processing and analyses
 
 Once the air samples have been collected, the microplastics need to be isolated for quantification and identification. Following good laboratory practice, a sample audit should be conducted and all relevant environmental parameters and sample information should be entered into a project database or spreadsheet. 
 
- 
-
 In this section, we briefly summarise the equipment and materials needed to process air samples, as well as briefly describe the steps to separate and quantify microplastics, their physical and chemical characteristics, and quality assurance and quality control. 
-
- 
 
 The following digestion and density separation procedures may not be required if the samples are collected from relatively clean environments, which is commonly the case with active sampling. However, if samples are collected from polluted areas (e.g., industrial sites, near highways), further sample processing, including separating organic material, and density separation may be required. These are outlined below. 
 
-
 ### Equipment 
-
 
 #### Materials
 
-
-        -       Glass Petri dishes and beakers
-
-
-        -       Metal forceps/tweezers
-
-
-        -       Stainless steel metal filters
-
-
-        -       Metal sieve (varied sized, sieve diameter and mesh aperture need to be reported to understand lower size limit (e.g., 20 µm))
-
-
-        -       Acid-resistant plastic box with lid
-
-
-        -       Aluminium tray
-
+- Glass Petri dishes and beakers
+- Metal forceps/tweezers
+- Stainless steel metal filters
+- Metal sieve (varied sized, sieve diameter and mesh aperture need to be reported to understand lower size limit (e.g., 20 µm))
+- Acid-resistant plastic box with lid
+- Aluminium tray
 
 #### Reagents
 
+- 30% hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) (w/v) - for organic matter removal 
+- Density separation reagent (e.g., sodium chloride, sodium iodide or other chemicals outlined below in Table 9) 
+- Ultrapure (e.g., Milli-Q) water
 
-        -       30% hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) (w/v) - for organic matter removal 
-
-
-        -       Density separation reagent (e.g., sodium chloride, sodium iodide or other chemicals outlined below in Table 9) 
-
-
-        -       Ultrapure (e.g., Milli-Q) water
-
-_All reagents and solutions should be filtered (&lt;20 μm) prior to use, excluding the ultrapure water, which is already filtered. _
+_All reagents and solutions should be filtered (&lt;20 μm) prior to use, excluding the ultrapure water, which is already filtered._
 
 
 #### Instruments
 
-
-        -       Filtration equipment, including vacuum pump
-
-
-        -       Stereomicroscope
-
- 
+- Filtration equipment, including vacuum pump
+- Stereomicroscope
 
 Pre-treatment and procedures for microplastic separation
-
 
 #### Organic matter removal
 
 A pre-treatment to remove organic material from organic-rich samples is recommended. This helps subsequent processing steps, and means that the subsequent application of density separation solutions is likely to be more effective, it also allows for the use and re-use of more expensive density separation solutions which are often needed to isolate higher density microplastics. First, the sampled material should be transferred to a glass beaker. The H<sub>2</sub>O<sub>2</sub> solution (30% w/v) should be added, mixed with a metal spoon or glass rod for one minute and left in a fume hood until all organic matter is digested (i.e., no organic matter remaining). A reaction will occur degrading the organic matter, and once complete (formation of carbon dioxide bubbles stops) the reaction should be quenched by washing thoroughly with ultrapure water (e.g., Milli Q). 
 
-
 #### Density separation 
 
 Before the addition of density separation chemicals, samples must be thoroughly washed with ultrapure water to ensure there is no reaction between H<sub>2</sub>O<sub>2</sub> and the chemicals used for density separation. Ultrapure water can be filtered first, prior to adding the density separation solution. 
 
- 
-
 Air samples should be resuspended in the density separation solution of choice, where the less dense materials (e.g., microplastics) will float and separate from the denser materials (sediment, debris, others) in matrix. There are a range of different reagents that can be used for density separation. These differ in their density, and each has advantages or limitations associated with efficiency for microplastic recovery, varying levels of toxicity, and price ranges (Table 9). These include sodium chloride, sodium tungstate dihydrate, sodium bromide, sodium polytungstate, lithium metatungstate, zinc chloride, zinc bromide, sodium iodide. Different reagents work better for different densities of polymers, with higher density reagents more effective at removing denser polymers. The density of the final solution used must be reported, as it will dictate which plastic polymers can or cannot be retrieved with this methodology.
 
- 
-
 To extract the microplastics using density separation reagents, first, combine the liquid and the density separation reagent in a previously decontaminated glass beaker. Stir the solution with a metal spoon or glass rod and allow it to settle. Using a filtration kit, filter the supernatant using the chosen filtration device (i.e., metal mesh, glass microfiber, silicon coated filter). After filtering all the liquid contents of your jar, rinse all of the walls of the container to ensure all microplastic items are on the filter. Store the metal filter paper in a labelled cover Petri dish until microscope examination. 
-
- 
 
 **Table 9. **Summary table of density separation reagents and their advantages and limitations. Post-survey Procedures
 
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dzaw{background-color:#4F81BD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qblk{background-color:#DEEBF4;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1212px">
+<colgroup>
+<col style="width: 301px">
+<col style="width: 109px">
+<col style="width: 401px">
+<col style="width: 401px">
+</colgroup>
+<thead>
   <tr>
-   <td><strong>Density separation reagent</strong>
-   </td>
-   <td><strong>Density</strong>
-   </td>
-   <td><strong>Advantages</strong>
-   </td>
-   <td><strong>Limitations</strong>
-   </td>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Density separation reagent</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Density</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Advantages</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Limitations</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium chloride (NaCl)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.2 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Cost effective</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Readily available</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)</span></td>
   </tr>
   <tr>
-   <td>Sodium chloride (NaCl)
-   </td>
-   <td>1.2 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)
-<p>
-
-        -       Cost effective
-<p>
-
-        -       Non-toxic 
-<p>
-
-        -       Readily available
-   </td>
-   <td>
-        -       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium tungstate dihydrate (Na</span>2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">WO</span>4<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">.2H</span>2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">O</span>2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.4 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Cost-effective</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)</span></td>
   </tr>
   <tr>
-   <td>Sodium tungstate dihydrate (Na<sub>2</sub>WO<sub>4</sub>.2H<sub>2</sub>O<sub>2</sub>)
-   </td>
-   <td>1.4 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)
-<p>
-
-        -       Cost-effective
-<p>
-
-        -       Non-toxic
-   </td>
-   <td>
-        -       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium bromide (NaBr)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.37 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span></td>
   </tr>
   <tr>
-   <td>Sodium bromide (NaBr)
-   </td>
-   <td>1.37 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-<p>
-
-        -       Non-toxic
-   </td>
-   <td>
-        -       Expensive
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Lithium metatungstate (Li</span>2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">O</span>13<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">W</span>4-24<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.62 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Unknown effect on polymers</span></td>
   </tr>
   <tr>
-   <td>Lithium metatungstate (Li<sub>2</sub>O<sub>13</sub>W<sub>4<sup>-24</sup></sub>)
-   </td>
-   <td>1.62 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Unknown effect on polymers
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Zinc chloride (ZnCl</span>2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.5 - 1.7 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
-   <td>Zinc chloride (ZnCl<sub>2</sub>)
-   </td>
-   <td>1.5 - 1.7 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Toxic to the environment 
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Zinc bromide (ZnBr</span>2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.71 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
-   <td>Zinc bromide (ZnBr<sub>2</sub>)
-   </td>
-   <td>1.71 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Toxic to the environment 
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium iodide (NaI)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.6 - 1.8 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
-   <td>Sodium iodide (NaI)
-   </td>
-   <td>1.6 - 1.8 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Toxic to the environment 
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Calcium chloride (CaCl</span>2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.5 - 3 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
-   <td>Calcium chloride (CaCl<sub>2</sub>)
-   </td>
-   <td>1.5 - 3 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Toxic to the environment 
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Potassium iodide (KI)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.7 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span></td>
   </tr>
-  <tr>
-   <td>Potassium iodide (KI)
-   </td>
-   <td>1.7 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-<p>
-
-        -       Non-toxic
-   </td>
-   <td>
-        -       Expensive
-   </td>
-  </tr>
+</tbody>
 </table>
-
 
 
 ## Microplastics quantification and characterisation 
 
- 
-
 Microplastic characterisation is usually conducted at three levels (Figure 4), all of which provide key defining information on the microplastic. If the sample contains larger meso and macro plastics, these can often be readily identified visually without isolation, although polymer type still requires chemical confirmation. Similarly, if the experimental design requires that large microplastics (1 to 5 mm) are to be counted, as pieces are visible to the naked eye, the procedures applied at each level are less intensive – although the use of a binocular lens or similar is highly recommended. If small microplastics (1 µm to 1 mm) are also being quantified, a more thorough microscopic procedure is essential. The workflow for processing microplastic samples needs to be tailored to the research question, considering the nature of the sample at the time of collection (i.e., relatively clear vs organic rich), collection method, preservation method, available equipment, level of expertise and finally how the data is to be reported.
 
- 
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.jpg "image_tooltip")
+![alt_text](images/figures/figure4.png "image_tooltip")
 
 
 **Figure 4**. The three levels of microplastic characterisation and identification and the type of data produced. Figure adapted from[ Lynch et al 2023](https://setac-au-2023.p.asnevents.com.au/days/2023-08-08/abstract/94523)
-
- 
 
 
 ## Microplastics quantification 
