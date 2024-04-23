@@ -200,7 +200,7 @@ In this section, we briefly summarise the equipment and materials needed to proc
 - Density separation reagent (e.g., sodium chloride, sodium iodide or other outlined below) 
 - Chemical digestion reagents (e.g., 30% hydrogen peroxide, 10% potassium hydroxide or other outlined below)
 
-_All reagents and solutions should be filtered (&lt;20 μm) before use, excluding the ultrapure water, which is already filtered. _
+_All reagents and solutions should be filtered (&lt;20 μm) before use, excluding the ultrapure water, which is already filtered._
 
 
 #### Instruments
@@ -345,55 +345,55 @@ To achieve density separation, the reagent should be added to the sample first, 
 <tbody>
   <tr>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium chloride (NaCl)</span></td>
-    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.2 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.2 g cm</span>-3</td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Cost effective</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Readily available</span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)</span></td>
   </tr>
   <tr>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium tungstate dihydrate (H4Na2O6W)</span></td>
-    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.4 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.4 g cm</span>-3</td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Cost-effective</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic</span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)</span></td>
   </tr>
   <tr>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium bromide (NaBr)</span></td>
-    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.37 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.37 g cm</span>-3</td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic</span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span></td>
   </tr>
   <tr>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Lithium metatungstate </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">(Li2O13W4</span>-24<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.62 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.62 g cm</span>-3</td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Unknown effect on polymers</span></td>
   </tr>
   <tr>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Zinc chloride (ZnCl2)</span></td>
-    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.5 - 1.7 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.5 - 1.7 g cm</span>-3</td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Zinc bromide (ZnBr2)</span></td>
-    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.71 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.71 g cm</span>-3</td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium iodide (NaI)</span></td>
-    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.6 - 1.8 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.6 - 1.8 g cm</span>-3</td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Calcium chloride (CaCl2)</span></td>
-    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.5 - 3 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.5 - 3 g cm</span>-3</td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers</span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Potassium Iodide (KI)</span></td>
-    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.7 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.7 g cm</span>-3</td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic</span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span></td>
   </tr>
