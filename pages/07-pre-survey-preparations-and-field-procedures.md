@@ -138,14 +138,14 @@ The most commonly used nets to assess surface water are the Manta trawl and the 
 
 Net deployment procedures need to be tailored to avoid airborne contamination. For example, where possible, the net opening should be protected from air exposure before and post sampling. Along with vessel speed and net opening area, GPS coordinates should be recorded at the beginning and end of each tow to allow calculation of distance travelled, volume sampled, and estimate microplastic concentration (V = 	&Pi; * r <sup>2</sup> * h) where r = radius of the net and h = distance net towed). To ensure sampling provides an accurate representation of microplastics presence and distribution at the sea surface, at least 1 m<sup>3</sup> of water should be sampled – noting this will be dependent on the level of plastic pollution at the sampling site. Note that inferring volume solely based on distance travelled can lead to inaccurate estimations of the volume of water as water current flow is often not measured or accounted for. To achieve greater accuracy in volume estimation a flow meter can be attached to the bottom and/or centre of the net mouth. Replicates at each tow site should be conducted to report data variability. Where collection of replicates is not feasible (i.e., only one tow is conducted before conditions change), this should be clearly indicated, with the knowledge that no standard error or variance can be reported).
 
-Following the sampling event, the entire net must be winched on board and rinsed from the outside using an on-board deck hose (either seawater or freshwater) to transfer trapped contents into the cod-end. Where feasible (e.g., logistically and following QA/QC), any large natural material captured should be removed using metal tweezers and, to dislodge any adhered microplastics, its surface should be rinsed liberally through the net into the cod-end container (the rinsed item can then be disposed of). Physical properties of the rinsed item should be documented. If the sample is dense and rich in organic material, this should be documented to guide the first step in the sample processing protocol, i.e., if chemical digestion is needed to remove smaller organic matter including biofilms (see Processing of microplastics section below). Large plastic debris items captured in the net can also be removed and rinsed through the net into the cod-end container, and stored separately for further analysis. The cod-end contents should then be transferred to a pre-cleaned bottle (e.g., 1-2 L), preserved and stored until analysis (e.g., fridge, 20% ethanol – see storage below). Additionally, the use of positive controls and blanks during sample collection is highly recommended (see Quality assurance and control section). 
+Following the sampling event, the entire net must be winched on board and rinsed from the outside using an on-board deck hose (either seawater or freshwater) to transfer trapped contents into the cod-end. Where feasible (e.g., logistically and following QA/QC), any large natural material captured should be removed using metal tweezers and, to dislodge any adhered microplastics, its surface should be rinsed liberally through the net into the cod-end container (the rinsed items can then be disposed of). Physical properties of the rinsed item should be documented. If the sample is dense and rich in organic material, this should be documented to guide the first step in the sample processing protocol, i.e., if chemical digestion is needed to remove smaller organic matter including biofilms (see Processing of microplastics section below). Large plastic debris items captured in the net can also be removed and rinsed through the net into the cod-end container, and stored separately for further analysis. The cod-end contents should then be transferred to a pre-cleaned bottle (e.g., 1-2 L), preserved and stored until analysis (e.g., fridge, 20% ethanol – see storage below). Additionally, the use of positive controls and blanks during sample collection is highly recommended (see Quality assurance and control section). 
 
 Before starting the next tow, a clean cod-end, or a used one that has been liberally rinsed with filtered water, should be attached to the net.  
 
 
 ### Submersible pump sampling
 
-Submersible pumps are another alternative to survey water bodies and are most commonly deployed at the sub-surface or in deeper water (Rodrigues et al., 2018). Usually, these pumps are systems retrofitted to vessels (e.g., already existing seawater intake systems that are adapted to suit microplastic collection) or portable and able to be deployed via a winch system (Karlsson et al., 2020). While fixed systems have the advantage of minimal handling and can sample along transects (e.g., while in transit or semi-continuously), these can only be used at one depth, and exclude surface microplastics (Schönlau et al., 2020). Portable systems, on the other hand, are suitable for depth profiling and can potentially be deployed from anywhere (i.e., not vessel dependent), but are not well suited to transect sampling. Portable pumps are, however, often expensive and may require skilled personnel to oversee their operation.
+Submersible pumps are another alternative to survey water bodies and are most commonly deployed just below the surface or in deeper water (Rodrigues et al., 2018). Usually, these pumps are systems retrofitted to vessels (e.g., already existing seawater intake systems that are adapted to suit microplastic collection) or portable and able to be deployed via a winch system (Karlsson et al., 2020). While fixed systems have the advantage of minimal handling and can sample along transects (e.g., while in transit or semi-continuously), these can only be used at one depth, and exclude surface microplastics (Schönlau et al., 2020). Portable systems, on the other hand, are suitable for depth profiling and can potentially be deployed from anywhere (i.e., not vessel dependent), but are not well suited to transect sampling. Portable pumps are, however, often expensive and may require skilled personnel to oversee their operation.
 
 The likelihood of airborne contamination occurring while using submersible pumps depends on the pump design, and whether the pumped water is exposed to the air at any stage during collection. To prevent this, many submersible pump systems are designed so that specialised clean filters are only exposed to the air when being removed and replaced. However, some pumps might pump the water over an open sieve, and therefore these samples can be exposed to airborne contamination during collection. When samples are susceptible to airborne contamination during collection, blank controls should be used. These include vials containing ultrapure (e.g., Milli-Q) water that are exposed to air simultaneously with the exposure of samples; these are then passed through every procedural step. Regardless, the use of positive controls and blank controls during sample collection is highly recommended for submersible pump samplings (see Quality assurance and quality control). 
 
@@ -153,29 +153,21 @@ The GPS coordinates of the sampling site should be recorded at the beginning of 
 
 The volume of water sampled by submersible pumps is dependent on the system configuration and the depth at which it is deployed. Like for surface water sampling, at least 1 m<sup>3</sup> of water is recommended to be collected, allowing first and foremost for further vertical comparison. The use of a flow meter is advised where possible, however, if not available, the volume of water sampled can be calculated using the time the pump is operated (i.e., the sampling period) and the calibrated timeframe in which a given volume of water is pumped. Replicates at each sampling site should be completed to report data variability. Where the collection of replicates is not feasible (e.g., the pump is being used for semi-continuous surveys or technical issues have occurred), this should be recorded, noting that no standard error or variance can be reported. 
 
-Samples collected on filters should be immediately removed from the pump and stored in clean containers (e.g., labelled petri dish) to avoid exposure to air. Filters with samples can be stored cold (e.g., -20°C, fridge, on ice – see storage below). When samples are collected over sieves, sampled material must be transferred (i.e., backwashed) into suitable clean containers (e.g., 150 mL vials) using ultrapure water or filtered seawater. These samples can then be preserved cold or in 20% Ethanol (i.e., filtered Ethanol is added to the sample). If more samples are to be collected via sieving, a new or cleaned sieve should be used.
+Samples collected on filters should be immediately removed from the pump and stored in clean containers (e.g., labelled petri dish) to avoid exposure to air. Filters with samples can be stored cold (e.g., -20°C, fridge, on ice – see storage below). When samples are collected over sieves, sampled material must be transferred (i.e., backwashed) into suitable clean containers (e.g., 150 mL vials) using ultrapure water or filtered seawater. These samples can then be preserved cold or in 20% ethanol (i.e., filtered ethanol is added to the sample). If more samples are to be collected via sieving, a new or cleaned sieve should be used.
 
 Fixed submersible pumps are not always able to be thoroughly cleaned (nor visually inspected), especially vessel intake systems. For these pumps, it is important to flush the system well before the start of sampling to ensure any plastics trapped in the system do not cross-contaminate samples. 
 
-
 ### Bulk water bottling
 
-Water quality sampling is traditionally undertaken with bulk water bottling (e.g., Niskin bottles attached to a Rosette sampler, or bottles directly) deployed in a specific location at a specific defined depth (Nan et al., 2020; Ogunola et al., 2023; Song et al., 2014). This same static sampling method is used to sample microplastics in water and across vertical gradients. When collecting surface water samples, the bottles should be deployed downwind or on the side of the vessel and ideally under calm weather conditions. Collection bottles must be appropriately cleaned before use (e.g., rinsed 3 times with ultrapure or filtered seawater and visually inspected). The configuration of the microplastic sampling system and bottle type can vary, so it is important to record the volume collected and time. The volume required is also dependent on the downstream analysis workflow. For example, if using pyrolysis-GC/MS to detect microplastics, 2 L is appropriate, for other spectroscopy methods 10 L is advised. To limit the risk of airborne contamination, sampling bottles should remain sealed and only opened and closed when underwater (Samandra et al., 2023). Additionally, the use of positive controls and blank controls during sample collection is highly recommended (see Quality assurance and quality control). 
-
- 
+Water quality sampling is traditionally undertaken with bulk water bottling (e.g., Niskin bottles attached to a Rosette sampler, or bottles directly) deployed in a specific location at a specific defined depth (Nan et al., 2020; Ogunola et al., 2023; Song et al., 2014). This same static sampling method is used to sample microplastics in water and across vertical gradients. When collecting surface water samples, the bottles should be deployed downwind or on the side of the vessel and ideally under calm weather conditions. Collection bottles must be appropriately cleaned before use (e.g., rinsed 3 times with ultrapure or filtered seawater and visually inspected). The configuration of the microplastic sampling system and bottle type can vary, so it is important to record the volume collected and time. The volume required is also dependent on the downstream analysis workflow. For example, if using pyrolysis-GC/MS to detect microplastics, 2 L is appropriate, whereas for other spectroscopy methods 10 L is advised. To limit the risk of airborne contamination, sampling bottles should remain sealed and only be opened and closed when underwater (Samandra et al., 2023). Additionally, the use of positive controls and blank controls during sample collection is highly recommended (see Quality assurance and quality control). 
 
 Preliminary processing of these samples is often conducted on the vessel as storage of large volumes is often not possible. The Niskin sample is generally filtered (e.g., over a stainless-steel mesh under vacuum) and the filters are stored in a sealed container (i.e., labelled glass petri-dish) until analysis. When filtering on the vessel is not possible, collected water should be transferred to a pre-cleaned bottle (e.g., 1-2 L), preserved (e.g., fridge, 20% ethanol – see storage below) and stored until analysis.
-
 
 ### Storage
 
 Following collection, and regardless of the collection method, all samples should be processed immediately or appropriately preserved until further processing.  Although plastic items do not themselves require preservation (i.e., many are expected to persist in the environment for many hundreds of years), organic material is often also part of the collected material. If samples are not preserved this organic matter can degrade and encourage the growth of microbes on the surface of the microplastics, which can impact their retrieval, identification and chemical analysis. 
 
- 
-
-Sample preservation methods include low temperature (e.g., ice, -4°C fridge, -20°C freezers), or chemical treatments (e.g., Ethanol, 3% hydrochloric acid), the latter with the caveat that only chemicals that do not impact plastics should be used (Pfeiffer & Fischer, 2020). Where possible, preliminary processing to clarify samples and enhance their long-term storage should be applied. For example, filtration can reduce volume, washing with ultrapure water (e.g., Milli-Q), &lt;20% Ethanol, or sonication (three cycles for five minutes each based on Kaiser et al., (2017)), can dislodge any biofilms attached to the microplastic surface, thereby enhancing buoyancy and contributing to more accurate and effective separation, identification and subsequent analyses.
-
- 
+Sample preservation methods include low temperature (e.g., ice, -4°C fridge, -20°C freezers), or chemical treatments (e.g., ethanol, 3% hydrochloric acid), the latter with the caveat that only chemicals that do not impact plastics should be used (Pfeiffer & Fischer, 2020). Where possible, preliminary processing to clarify samples and enhance their long-term storage should be applied. For example, filtration can reduce volume, washing with ultrapure water (e.g., Milli-Q), &lt;20% ethanol, or sonication (three cycles for five minutes each based on Kaiser et al., (2017)), can dislodge any biofilms attached to the microplastic surface, thereby enhancing buoyancy and contributing to more accurate and effective separation, identification and subsequent analyses.
 
 In instances where immediate sample preservation or processing is not feasible, considerations need to be made for the influences that biological material can have on the retrieval and identification of microplastic particles. 
 
@@ -184,461 +176,261 @@ In instances where immediate sample preservation or processing is not feasible, 
 
 After collection of the water samples, the microplastics need to be isolated for quantification and identification. Following good laboratory practice, a sample audit should be conducted, and all relevant environmental parameters and sample information entered into a project database or spreadsheet.
 
- 
-
 In this section, we briefly summarise the equipment and materials needed to process water samples. As well as briefly describe the steps to separate and quantify microplastics, physical and chemical characterisation and QA/QC. 
 
 
 ### Processing of microplastics (1 μm - 5 mm)
 
-
 ### Equipment
-
 
 #### Material
 
-
-        -       Glass Petri dishes and beakers
-
-
-        -       Metal forceps/tweezers
-
-
-        -       Stainless steel filters
-
-
-        -       Millipore gridded membrane (nitrocellulose filters)
-
-
-        -       Metal sieve (sieve diameter and mesh aperture size need to be reported; the latter to understand the lower size limit)
-
-
-        -       Density meter (for testing the density of the separation reagent)
+- Glass Petri dishes and beakers
+- Metal forceps/tweezers
+- Stainless steel filters
+- Millipore gridded membrane (nitrocellulose filters)
+- Metal sieve (sieve diameter and mesh aperture size need to be reported; the latter to understand the lower size limit)
+- Density meter (for testing the density of the separation reagent)
 
 
 #### Reagents
 
-
-        -       Ultrapure water (e.g., Milli-Q)
-
-
-        -       Preservation reagent (e.g., 10-20% ethanol, 70% ethanol)
-
-
-        -       Density separation reagent (e.g., sodium chloride, sodium iodide or other outlined below) 
-
-
-        -       Chemical digestion reagents (e.g., 30% hydrogen peroxide, 10% potassium hydroxide or other outlined below)
+- Ultrapure water (e.g., Milli-Q)
+- Preservation reagent (e.g., 10-20% ethanol, 70% ethanol)
+- Density separation reagent (e.g., sodium chloride, sodium iodide or other outlined below) 
+- Chemical digestion reagents (e.g., 30% hydrogen peroxide, 10% potassium hydroxide or other outlined below)
 
 _All reagents and solutions should be filtered (&lt;20 μm) before use, excluding the ultrapure water, which is already filtered. _
 
 
 #### Instruments
 
-
-        -       Temperature controlled oven (optional)
-
-
-        -       Orbital shaker (optional)
-
-
-        -       Heated stirring plate (optional)
-
-
-        -       Glass magnetic stirring rod (optional)
-
-
-        -       Laminar flow (recommended)
-
-
-        -       Filtration equipment (glass or stainless steel), including vacuum pump
-
-
-        -       Stereomicroscope
-
-
-        -       Polymer identification instrument (e.g., FTIR, μ-FTIR, ATR-FTIR, RAMAN, py-GC/MS)
-
- 
-
+- Temperature controlled oven (optional)
+- Orbital shaker (optional)
+- Heated stirring plate (optional)
+- Glass magnetic stirring rod (optional)
+- Laminar flow (recommended)
+- Filtration equipment (glass or stainless steel), including vacuum pump
+- Stereomicroscope
+- Polymer identification instrument (e.g., FTIR, μ-FTIR, ATR-FTIR, RAMAN, py-GC/MS)
 
 ### Pre-treatment and procedures for microplastic separation
-
 
 #### Water samples with low organic content
 
 Water samples that visually appear clear can be fast-tracked through the isolation process to either density separation or filtration, with no chemical digestion needed. If preserved frozen, samples (still covered) should first be defrosted at room temperature. If preserved in a chemical solvent (i.e., 20% ethanol), care should be taken following the chemical solvent’s Safety Data Sheet (e.g., regarding PPE and others).
 
-
 #### Water samples with medium/high organic content
 
 If the water sample contains phytoplankton, zooplankton or other organic matter that hinders the retrieval of microplastics, a clarification step is required prior to filtering. This clarification can be achieved using density separation (see below), but for samples with higher organic content, preliminary chemical digestion may be required (see below). 
-
- 
-
 
 #### Chemical digestion 
 
 Chemical digestion can be applied as a first step to separate microplastics from seawater. There are a range of different chemicals that are appropriate, depending on research question, laboratory facilities and reagent availability (Table 2). The type of chemical digestion chosen is a compromise between efficiency, cost, and the known health and safety risks and potential for polymer degradation (Di Fiore et al., 2024; Miller et al., 2017; Pfeiffer and Fischer, 2020)(Table 2). 
 
- 
-
-As an example, described below is a procedure that has been applied to facilitate the chemical digestion of a surface water samples with a high algae content. Potassium hydroxide (10% KOH) was added directly into seawater samples and then heated to a maximum of 40°C in a controlled oven for up to 72 hours. Where the digestion rate of the organic matter was slow, i.e., there was still organic material present after 72 hours, a second digestion method using hydrogen peroxide (H<sub>2</sub>O<sub>2 </sub>30% w/v) was applied. The sample was again agitated at 40°C on a temperature-controlled magnetic stirrer in a fume hood and the reaction was allowed to go to completion (follow Safety Data Sheet for all chemicals). Thereafter, samples went through density separation.
+As an example, described below is a procedure that has been applied to facilitate the chemical digestion of a surface water samples with a high algae content. Potassium hydroxide (10% KOH) was added directly into the filtered seawater samples and then heated to a maximum of 40°C in a controlled oven for up to 72 hours. Where the digestion rate of the organic matter was slow, i.e., there was still organic material present after 72 hours, a second digestion method using hydrogen peroxide (H<sub>2</sub>O<sub>2 </sub>30% w/v) was applied. The sample was again agitated at 40°C on a temperature-controlled magnetic stirrer in a fume hood and the reaction was allowed to go to completion (follow Safety Data Sheet for all chemicals). Thereafter, samples went through density separation.
 
  
 
 **Table 2. **Summary table of digestion reagents, their concentrations, advantages and limitations. Based on: Di Fiore et al. (2024) and Pfeiffer and Fischer (2020).
 
- 
-
-
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dzaw{background-color:#4F81BD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qblk{background-color:#DEEBF4;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1055px">
+<colgroup>
+<col style="width: 185px">
+<col style="width: 212px">
+<col style="width: 106px">
+<col style="width: 368px">
+<col style="width: 184px">
+</colgroup>
+<thead>
   <tr>
-   <td><strong>Digestion</strong>
-   </td>
-   <td><strong>Recommended concentration </strong>
-   </td>
-   <td><strong>Advantages</strong>
-   </td>
-   <td><strong>Limitations</strong>
-   </td>
-   <td><strong>Degradation of polymers?</strong>
-   </td>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Digestion</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Recommended concentration </span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Advantages</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Limitations</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Degradation of polymers?</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Hydrogen peroxide (H</span>2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">O</span>2<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">15-30% </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Efficient, cheap</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corrosive, hazardous </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Yes, at high concentrations</span></td>
   </tr>
   <tr>
-   <td>Hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>)
-   </td>
-   <td>15-30% 
-   </td>
-   <td>Efficient, cheap
-   </td>
-   <td>Corrosive, hazardous 
-   </td>
-   <td>Yes, at high concentrations
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Hydrochloric acid (HCl)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">20%</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Efficient, cheap</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corrosive, hazardous, toxic, can degrade polymers</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Yes</span></td>
   </tr>
   <tr>
-   <td>Hydrochloric acid (HCl)
-   </td>
-   <td>20%
-   </td>
-   <td>Efficient, cheap
-   </td>
-   <td>Corrosive, hazardous, toxic, can degrade polymers
-   </td>
-   <td>Yes
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Nitric acid (HNO</span>3<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> Weak</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Efficient, cheap</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corrosive, hazardous, causes discolouration of plastics, can degrade some polymers</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Yes</span></td>
   </tr>
   <tr>
-   <td>Nitric acid (HNO<sub>3</sub>)
-<p>
- 
-   </td>
-   <td> 
-   </td>
-   <td>Efficient, cheap
-   </td>
-   <td>Corrosive, hazardous, causes discolouration of plastics, can degrade some polymers
-   </td>
-   <td>Yes
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium hydroxide (NaOH)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1 M</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Efficient</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corrosive, hazardous, can degrade some polymers</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Yes</span></td>
   </tr>
   <tr>
-   <td>Sodium hydroxide (NaOH)
-   </td>
-   <td>1 M
-   </td>
-   <td>Efficient
-   </td>
-   <td>Corrosive, hazardous, can degrade some polymers
-   </td>
-   <td>Yes
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Potassium hydroxide (KOH)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">10%</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Efficient</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corrosive, hazardous</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Yes, at high concentrations</span></td>
   </tr>
   <tr>
-   <td>Potassium hydroxide (KOH)
-   </td>
-   <td>10%
-   </td>
-   <td>Efficient
-   </td>
-   <td>Corrosive, hazardous
-   </td>
-   <td>Yes, at high concentrations
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Enzymatic digestion</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Safe, efficient</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Expensive, time intense</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Yes</span></td>
   </tr>
-  <tr>
-   <td>Enzymatic digestion
-   </td>
-   <td> 
-   </td>
-   <td>Safe, efficient
-   </td>
-   <td>Expensive, time intense
-   </td>
-   <td>Yes
-   </td>
-  </tr>
+</tbody>
 </table>
-
-
- 
-
- 
-
 
 #### Density separation 
 
-For large water samples density separation can be applied as a first step to separate microplastics from seawater or following chemical digestion. Concentrated water samples are resuspended in the brine solution of choice with less dense materials (e.g., microplastics) floating and becoming separated from denser materials (sediment, debris, others) present in the matrix. There are a range of different reagents that can be used for for density separation. These differ in their density, and each has advantages or limitations associated with efficiency for microplastic recovery, varying levels of toxicity, and price range  (Rani et al., 2023) (Table 3). Commonly used reagents include sodium chloride, sodium tungstate dihydrate, sodium bromide, sodium polytungstate, lithium metatungstate, zinc chloride, zinc bromide and sodium iodide. The effectiveness of reagents is polymer dependent, e.g., higher density reagents are more effective at removing more dense polymers. The density of the final solution used must be reported, as it will dictate which plastic polymers can or cannot be retrieved with this methodology.
+For large water samples density separation can be applied as a first step to separate microplastics from seawater or following chemical digestion. Concentrated water samples are resuspended in the brine solution of choice with less dense materials (e.g., microplastics) floating and becoming separated from denser materials (sediment, debris, others) present in the matrix. There are a range of different reagents that can be used for density separation. These differ in their density, and each has advantages or limitations associated with efficiency for microplastic recovery, varying levels of toxicity, and price range  (Rani et al., 2023) (Table 3). Commonly used reagents include sodium chloride, sodium tungstate dihydrate, sodium bromide, sodium polytungstate, lithium metatungstate, zinc chloride, zinc bromide and sodium iodide. The effectiveness of reagents is polymer dependent, e.g., higher density reagents are more effective at removing more dense polymers. The density of the final solution used must be reported, as it will dictate which plastic polymers can or cannot be retrieved with this methodology.
 
- 
+Note, samples that have been preserved (e.g., 20% ethanol) or chemically digested, may still contain some of the reagents and there is a risk that these will react with the density separation reagents, therefore, it is important to first neutralise the sample. The preserved or digested sample must be rinsed liberally with ultrapure water onto a filter or sieve before the density separation step. Always refer to the Safety Disposal Sheet of the chemical reagents for appropriate use and disposal. 
 
-Note, samples that have been preserved (e.g., 20% Ethanol) or chemically digested, may still contain some of the reagents and there is a risk that these will react with the density separation reagents, therefore, it is important to first neutralise the sample. The preserved or digested sample must be rinsed liberally with ultrapure water onto a filter or sieve before the density separation step. Always refer to the Safety Disposal Sheet of the chemical reagents for appropriate use and disposal. 
+To achieve density separation, the reagent should be added to the sample first, and then stirred (e.g., with a metal spoon or glass rod) and the solution allowed to settle. Stirring and settlement periods can vary based on sample complexity, and should be tailored with preliminary and spike recovery tests. Once a sample is completely stratified, the established supernatant should be poured over an appropriate filter (i.e., metal mesh, glass microfiber, silicon coated filter) using a filtration device (preferably metal or glass). The walls of the sample container should be rinsed liberally with ultrapure (e.g., Milli-Q) or filtered water to ensure all microplastic items are transferred. The filter should be stored in a labelled petri dish and covered with a glass lid. To identify microplastics, captured items should be observed under a microscope using any one of the microplastic quantification steps outlined below. 
 
- 
-
-To achieve density separation, the reagent should be added to the sample first, and then stirred (e.g., with a metal spoon or glass rod) and the solution allowed to settle. Stirring and settlement periods can vary based on sample complexity, and should be tailored with preliminary and spike recovery tests. Once a sample is completely stratified, the established supernatant should be poured over an appropriate filter (i.e., metal mesh, glass microfiber, silicon coated filter) using a filtration device (preferably metal or glass). The walls of the sample container should be rinsed liberally with ultrapure (e.g., Milli-Q) or filtered water to ensure all microplastic items are transferred. The filter should be stored in a labelled Petri dish and covered with a glass lid. To identify microplastics, captured items should be observed under a microscope using any one of the microplastic quantification steps outlined below. 
-
- 
 
 **Table 3. **Commonly used density separation reagents, highlighting their advantages and limitations. 
 
-
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dzaw{background-color:#4F81BD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qblk{background-color:#DEEBF4;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1209px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 137px">
+<col style="width: 401px">
+<col style="width: 401px">
+</colgroup>
+<thead>
   <tr>
-   <td><strong>Density separation reagent</strong>
-   </td>
-   <td><strong>Density of solution</strong>
-   </td>
-   <td><strong>Advantages</strong>
-   </td>
-   <td><strong>Limitations</strong>
-   </td>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Density separation reagent</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Density of solution</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Advantages</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Limitations</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium chloride (NaCl)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.2 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Cost effective</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Readily available</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)</span></td>
   </tr>
   <tr>
-   <td>Sodium chloride (NaCl)
-   </td>
-   <td>1.2 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)
-<p>
-
-        -       Cost effective
-<p>
-
-        -       Non-toxic 
-<p>
-
-        -       Readily available
-   </td>
-   <td>
-        -       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium tungstate dihydrate (H4Na2O6W)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.4 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Cost-effective</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)</span></td>
   </tr>
   <tr>
-   <td>Sodium tungstate dihydrate (H4Na2O6W)
-   </td>
-   <td>1.4 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)
-<p>
-
-        -       Cost-effective
-<p>
-
-        -       Non-toxic
-   </td>
-   <td>
-        -       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium bromide (NaBr)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.37 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span></td>
   </tr>
   <tr>
-   <td>Sodium bromide (NaBr)
-   </td>
-   <td>1.37 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-<p>
-
-        -       Non-toxic
-   </td>
-   <td>
-        -       Expensive
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Lithium metatungstate </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">(Li2O13W4</span>-24<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.62 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Unknown effect on polymers</span></td>
   </tr>
   <tr>
-   <td>Lithium metatungstate 
-<p>
-(Li2O13W4<sup>-24</sup>)
-<p>
- 
-   </td>
-   <td>1.62 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Unknown effect on polymers
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Zinc chloride (ZnCl2)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.5 - 1.7 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
-   <td>Zinc chloride (ZnCl2)
-   </td>
-   <td>1.5 - 1.7 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Toxic to the environment 
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Zinc bromide (ZnBr2)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.71 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
-   <td>Zinc bromide (ZnBr2)
-   </td>
-   <td>1.71 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Toxic to the environment 
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium iodide (NaI)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.6 - 1.8 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
-   <td>Sodium iodide (NaI)
-   </td>
-   <td>1.6 - 1.8 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Toxic to the environment 
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Calcium chloride (CaCl2)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.5 - 3 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
-   <td>Calcium chloride (CaCl2)
-   </td>
-   <td>1.5 - 3 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Toxic to the environment 
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Potassium Iodide (KI)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.7 g cm<sup>-3</sup></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span></td>
   </tr>
-  <tr>
-   <td>Potassium Iodide (KI)
-   </td>
-   <td>1.7 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-<p>
-
-        -       Non-toxic
-   </td>
-   <td>
-        -       Expensive
-   </td>
-  </tr>
+</tbody>
 </table>
-
-
-** **
-
 
 #### Filtration
 
-Water can be poured through the filter or sieve and gravity will drain the sample, or a vacuum pump can be used to accelerate the and if there is a high particulate content. The configuration of the filter or sieve can vary, i.e., an individual filter or sieve can be used, or a tiered filtration unit (Schlawinsky et al., 2022).  Either way, the smallest filter size must be recorded, as this will define the smallest microplastic sample that can be collected (e.g., if the sieve is 100 μm, microplastics smaller than 100 μm will not be accurately or consistently captured). 
-
- 
+Water can be poured through the filter or sieve and gravity will drain the sample, or a vacuum pump can be used to accelerate the filtration and if there is a high particulate content. The configuration of the filter or sieve can vary, i.e., an individual filter or sieve can be used, or a tiered filtration unit (Schlawinsky et al., 2022).  Either way, the smallest filter size must be recorded, as this will define the smallest microplastic sample that can be collected (e.g., if the sieve is 100 μm, microplastics smaller than 100 μm will not be accurately or consistently captured). 
 
 For samples preserved in a chemical solvent, the dilution of the preservation chemical should be such that there is &lt;1% in the final washings. Crystallization and retention of inorganic salts in the sample solids can occur after filtering and may hinder both the physical and chemical analysis of microplastics. To prevent this, it is crucial to thoroughly and liberally rinse the filtrate with ultrapure water (e.g., Milli-Q). 
 
- 
-
-Following filtering, filters with solids can be stored in labelled glass jars or covered Petri dishes until microscope examination. The filtration unit should then be thoroughly rinsed with ultrapure water (e.g., Milliq Q) and carefully inspected to ensure no residual solids remain and to prevent cross-contamination of the next sample. 
-
-
-# 
-
+Following filtering, filters with solids can be stored in labelled glass jars or covered petri dishes until microscope examination. The filtration unit should then be thoroughly rinsed with ultrapure water (e.g., Milli Q) and carefully inspected to ensure no residual solids remain and to prevent cross-contamination of the next sample. 
 
 # Sediment 
-
 
 ## Pre-Survey Preparations
 
 The methods for the collection of microplastics in marine, coastal, and riverine sediment can vary depending on the sediment composition (i.e., grain size, organic content) and environment (i.e., subtidal - always submerged; intertidal - the area between high and low tide; and supratidal - the area above the high tide line and only flooded occasionally during storms).
 
- 
-
-
 ### Sampling design 
 
 Before commencing field sediment sampling, it is necessary to formulate the research question(s) (see What are the goals of my research?). Different research questions may require different sampling designs and, likely, different sample collection methods. Furthermore, sampling designs should consider the post-survey requirements, including the time required to accurately process samples, the techniques to be used to analyse them and the units of reporting.
 
- 
-
 The next step is to define the spatial and temporal extent of the research question. Spatial studies can provide information on the presence of and changes in the distribution of microplastics across sites. Therefore, the sampling design must consider the number and spatial dispersion of the collection sites to answer the research question, site accessibility, the zone to be surveyed (i.e., intertidal vs supratidal), the site profile, geographical and oceanographic features, accumulation dynamics, the expanse of the area, and other environmental characteristics that may influence results. Temporal studies can provide information on changes in microplastic concentrations at a specific location over time, therefore the sampling design must also consider site accessibility across seasons and during/after significant weather events. For example, coastal environments are prone to significant shifts and fluxes in features (i.e., coastal erosion or submergence) due to rises in sea levels (i.e., king tides) and changes in wave action and currents from events such as flooding and cyclones.
-
- 
 
 Research conducted across spatial and/or temporal scales requires a stratified sampling design that enables an estimate of the true microplastic density (or type, weight, volume) at different scales or “strata” that represent clearly defined groups (Quinn and Keough, 2002). Samples should be collected randomly from each group. Stratified sampling should also be used when within-habitat variation is high, and it is not feasible to sample entire sites (CSIRO 2022). Refer to the [Survey Design SOP](https://survey-design-field-manual.github.io/) for further details.
 
- 
-
 Sampling design and approach is dependent on study objective and the environment being sampled, e.g. quadrats or transects for intertidal habitats, grabs, quadrats, or cores for subtidal habitats (see descriptions below). Budget and logistical constraints also need to be considered as does the translation of methods for uptake by citizen science monitoring programs (which are now a key vehicle for conducting global surveys). Sampling approach can also define limitations on the size class of microplastics that can be analysed. 
-
- 
 
 The number of samples collected will be determined by the research question as well as the budget, logistics and resources available; with the caveat that a high number of samples allows for greater accuracy (through power and replication) in the estimation of microplastic concentrations in the environment and will ensure greater statistical rigour. It is important to consider what would be an acceptable difference between the estimate and the true density or volume of microplastics (i.e., the effect size). Before commencing sample collection, a power analysis can be performed to assist in this decision. G*Power  (Faul et al., 2007) or pwr package in R (Champley et al., 2020) are suitable for simple sampling designs and can determine the number of samples required to achieve the desired effect size.
 
- 
-
 There are two main approaches when examining transects for microplastic presence in subtidal, intertidal or beach environments (note this can include monitoring the entire transect, or quadrats along the transect, depending on the research question). The first is the parallel to shoreline, including the ‘strandline’ approach (which will record debris from the last high tide), where a set length of the beach is measured, and microplastic quantified (example in Figure 2, shows collection along the high tide line). The second is the perpendicular to shoreline approach, which records changes in microplastic density towards the tideline if/when the transect is surveyed in discrete sections. Both strandline and perpendicular methods are appropriate, and their use will depend on the research question. It is important to record details of environmental conditions, physical features at the site (e.g. sandy vs rocky beach, long beach vs small cove), and weather conditions (e.g., tides, storm surge, wind, wave action) (see environmental variables and the Reporting information section). 
-
- 
 
 It is essential to record information on sampling effort as this can create variability in the results. This is particularly important with community-led beach surveys (e.g., citizen science monitoring programs), where there is variation in the number of people participating across time, how many hours are spent searching, level of competency, and area searched. These are important aspects that should be considered during sampling design and prior to commencing collection. Whilst other methods (e.g., grabs) are not impacted by the number of surveyors, it is essential that the number of samples and replicates are clearly identified. 
 
 
-<table>
-  <tr>
-   <td>
-   </td>
-   <td>
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-</table>
-
+<img src="images/figures/figure2.png" width="" alt="alt_text" title="image_tooltip">
 
 **Figure 2.** Sampling approaches for microplastic monitoring in intertidal environments. 
 
@@ -648,314 +440,200 @@ It is essential to record information on sampling effort as this can create vari
 
 ### Materials and equipment for collection 
 
-**Table 4.** List of equipment and materials required for field sample collection in intertidal/supratidal and subtidal habitats. Asteriscks* indicate items that are essential for microplastic sampling.  
+**Table 4.** List of equipment and materials required for field sample collection in intertidal/supratidal and subtidal habitats. Asterisks* indicate items that are essential for microplastic sampling.  
 
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-co9i{background-color:#4F81BD;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qblk{background-color:#DEEBF4;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1102px">
+<colgroup>
+<col style="width: 551px">
+<col style="width: 551px">
+</colgroup>
+<thead>
   <tr>
-   <td>
-<h4><strong>Intertidal and supratidal</strong></h4>
-
-
-   </td>
-   <td>
-<h4><strong>Subtidal </strong></h4>
-
-
-   </td>
+    <th class="tg-co9i"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Intertidal and supratidal</span></th>
+    <th class="tg-co9i"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Subtidal </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Measuring tape*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Grab or coring device (e.g., box corer, van Veen grab, sediment corer) *</span></td>
   </tr>
   <tr>
-   <td>Measuring tape*
-   </td>
-   <td>Grab or coring device (e.g., box corer, van Veen grab, sediment corer) *
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">GPS start and end coordinates*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">GPS start and end coordinates*</span></td>
   </tr>
   <tr>
-   <td>GPS start and end coordinates*
-   </td>
-   <td>GPS start and end coordinates*
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Quadrat*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Quadrat (for scuba diving survey)</span></td>
   </tr>
   <tr>
-   <td>Quadrat*
-   </td>
-   <td>Quadrat (for scuba diving survey)
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Metal shovel or spoon*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Metal shovel or spoon</span></td>
   </tr>
   <tr>
-   <td>Metal shovel or spoon*
-   </td>
-   <td>Metal shovel or spoon
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Depth gauge </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Metal ruler</span></td>
   </tr>
   <tr>
-   <td>Depth gauge 
-   </td>
-   <td>Metal ruler
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Stainless steel sieves or filters</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Stainless steel sieves or filters</span></td>
   </tr>
   <tr>
-   <td>Stainless steel sieves or filters
-   </td>
-   <td>Stainless steel sieves or filters
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Glass petri dishes </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Glass petri dishes</span></td>
   </tr>
   <tr>
-   <td>Glass petri dishes 
-   </td>
-   <td>Glass petri dishes
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-        </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Syringe and suction tube*</span></td>
   </tr>
   <tr>
-   <td>
-        -        
-   </td>
-   <td>Syringe and suction tube*
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Glass jars, aluminium tray or sterile press-and-seal plastic bags or paper envelopes (for dry sediment samples) *</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Glass jars or zip lock plastic bags*</span></td>
   </tr>
   <tr>
-   <td>Glass jars, aluminium tray or sterile press-and-seal plastic bags or paper envelopes (for dry sediment samples) *
-   </td>
-   <td>Glass jars or zip lock plastic bags*
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Labels*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Labels*</span></td>
   </tr>
   <tr>
-   <td>Labels*
-   </td>
-   <td>Labels*
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Field observation datasheet*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Field observation datasheet*</span></td>
   </tr>
   <tr>
-   <td>Field observation datasheet*
-   </td>
-   <td>Field observation datasheet*
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pencils, permanent marker*</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pencils, permanent marker*</span></td>
   </tr>
   <tr>
-   <td>Pencils, permanent marker*
-   </td>
-   <td>Pencils, permanent marker*
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Camera</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Camera</span></td>
   </tr>
   <tr>
-   <td>Camera
-   </td>
-   <td>Camera
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Glass filtering flask</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Glass filtering flask</span></td>
   </tr>
-  <tr>
-   <td>Glass filtering flask
-   </td>
-   <td>Glass filtering flask
-   </td>
-  </tr>
+</tbody>
 </table>
-
-
- 
-
 
 ### General principles
 
 Ocean and coastal environments are dynamic and can be highly variable, so it is recommended to sample over time (e.g., seasonally) if feasible. Seasons may vary depending on the region being sampled, in some areas of Australia there will typically be four seasons (summer, autumn, winter and spring) or two (wet and dry), but these may be further split based on local microclimates and different cultural group definitions. When sampling over time is not feasible, recording and reporting information on weather and other environmental conditions at the time of sample collection is important for contextual information (see Reporting section).
 
- 
-
 In the field during intertidal/supratidal, subtidal, and other environments, transects for perpendicular or strandline sampling (depending on the research question) should be measured for length. Additionally, GPS coordinates at both the beginning and end of the transect recorded. Photographs of the sampling transect should be taken. A randomised and stratified sampling design should be implemented, with a minimum of three replicate samples taken randomly along the transect. It is important to note, however, that the number of replications needed along the transect will depend on the microplastic load and the accumulation dynamics of the site. If there are large abundances of microplastic counted, three replications are needed, however, if there are low counts of microplastics, variations in the environmental conditions (e.g., variations in sediment type or grain size across transects), or other confounding factors, more replications are required. Likewise, sampling locations can be randomised (i.e., using a random number generator) along the transect. The GPS coordinates for each sampling location must be recorded. 
 
- 
-
 Airborne and handling contamination can occur during field sampling, so appropriate quality assurance and quality control (QA/QC) procedures must be consistently applied throughout sample collection (see Quality assurance and control section). This includes the use of positive controls and blanks during sample collection. 
-
- 
-
 
 ### Intertidal/supratidal
 
 The collection methods employed in the intertidal and supratidal zones are similar. There are two main approaches for investigating microplastics in these two zones - standing stock assessments, and accumulation assessments. The first (standing stock assessment) involves collecting or counting the microplastic pieces which are already present on the beach (Fisner et al., 2017). This type of survey method gives a value about the microplastics at a given time in a given area. The latter approach (accumulation assessment) involves clearing the plastic away from the tideline initially, and then counting and/or collecting the microplastics that are carried by the waves (Galgani et al., 2013; GESAMP, 2019). This allows for information on the microplastic accumulation from the water. 
 
- 
-
 There are a number of ways to count and/or collect microplastics, depending on the research objectives in intertidal and supratidal zones. Investigation of visible microplastics (1 mm - 5 mm) is usually done by counting the number of microplastics within a defined quadrat (e.g., 25 cm x 25 cm, 50 cm x 50 cm or other) often along a transect, with microplastics counted visually from standing height (estimated to be one metre directly above). This method does not require handling of the sediment, however, if desired, the top layer (1-5 cm) of sediment from the quadrat can be collected and sieved (i.e., using a 1 mm aperture metal sieve) to capture microplastics for subsequent chemical analysis.
 
- 
-
 If microscopic microplastics (1 μm - 1 mm) are to be counted the sediment will need to be collected and transported for further processing. The sediment can be collected in a number of ways and is dependent on the site accessibility and storage and transport capacity. Recommended approaches include, collecting the top layer of sediment (between 1 - 5 cm) within the entire quadrat using a metal shovel and depth gauge (Piperagkas et al., 2019; Wessel et al., 2016). The size and depth of the sample collected should be recorded, along with sample mass (can be measured retrospectively). Alternatively, a quadrat can be placed and randomised replicate samples within the quadrat collected (e.g., using a small corer, vial, or shovel). A minimum of three replicates are recommended to allow for variance to be calculated within each quadrat. 
-
- 
-
 
 ### Subtidal
 
 There are generally five approaches used to collect subtidal sediment – grab samplers, core samplers, dredge samplers, or quadrats via SCUBA and Remotely Operated Vehicles (ROVs).
 
- 
-
 The depth and sediment type to be collected, and the mode of collection, will depend on the research question. Where possible, retrospective sampling design needs to be optimised to collection mode, i.e., whether the mode of collection is manual or automated, and to the site. 
 
- 
-
 If using grab, core, dredge or ROV samplers, consideration must be given to the grain size, the sampling regime (i.e., top 5 cm of sediment surface vs subsurface cores), the effort required to sample, and the potential for incidental resuspension of microplastics, which can result in an underestimation of microplastic concentrations. In some cases, collections by grab can be further subsampled using a corer. 
-
- 
-
 
 ### Other environments
 
 The methods outlined above can be tailored and transferred to additional land and aquatic habitats, both freshwater, estuarine, and marine. For land habitats, (e.g., sand dunes beyond the supratidal zone, mudflats, riverbanks, mangroves) the intertidal/supratidal methods should be followed. While for aquatic habitats (e.g., river sediment, estuaries, coral reefs) the subtidal methods are likely more appropriate (Skalska et al., 2020). When tailoring these sample collection methods, the sampling design should always be considered, and the modified method validated. Likewise, the accessibility and features of the site may dictate the ability to perform transects, so changes may be required. Overall, providing detailed information on sample collection is an essential step to ensuring broad study comparisons (see Reporting information).
 
- 
-
-
 ### Storage
 
 Following collection, and regardless of the collection method, all samples should be processed immediately or preserved until post-survey processing procedures can be completed (see Quality assurance and quality control section). In specific circumstances samples may need to be frozen (e.g., for cores, and to minimise disturbance of layers) or dried to reduce the likelihood of microbial and algal growth (Adomat et al., 2022). Storage containers and vials should only be opened whilst transferring the sample to minimise any extraneous airborne contamination.
 
- 
-
 Where possible, preliminary processing either in the field or as soon as possible after collection should be applied to enhance their long-term storage. For example, elutriation and/or density separation methods can quickly reduce sediment mass, but note both require optimising to the sediment type. 
 
- 
-
 Although plastic items do not themselves require preservation (i.e., many are expected to persist in the sediment for many hundreds of years) organic matter is often also part of the collected material. If samples are not preserved, this organic matter can impact the processing, retrieval, identification and chemical analysis of microplastics. Where needed, samples should be stored cool at -4°C (limited time) or frozen at -20°C or -70°C (for cores). In instances where immediate sample preservation or processing is not feasible, considerations need to be made for the influences that biological organisms can have on the retrieval and identification of microplastic particles.
-
 
 ## Sample processing and analyses
 
 After the collection of sediment samples, the microplastics need to be isolated for quantification and identification. Following good laboratory practice, a sample audit should be conducted, and all relevant environmental parameters and sample information entered into a project database or spreadsheet. 
 
- 
-
 This section briefly summarises the equipment and materials needed to process sediment samples and describes the steps to separate and quantify microplastics, including their physical and chemical characterisation and QA/AC considerations. These procedures can be undertaken either in the field or laboratory, depending on environment, safety considerations, and available facilities in the field.  
-
 
 ### Processing of visible microplastics (1 mm - 5 mm)
 
-
 ### Equipment 
-
 
 #### Material
 
-
-        -       Glass Petri dishes and beakers
-
-
-        -       Metal forceps/tweezers
-
-
-        -       Metal sieves [sieve diameter and mesh aperture sizes need to be reported; the latter to understand lower size limit (e.g., 1 mm)]
-
+- Glass Petri dishes and beakers
+- Metal forceps/tweezers
+- Metal sieves [sieve diameter and mesh aperture sizes need to be reported; the latter to understand lower size limit (e.g., 1 mm)]
 
 #### Reagents
 
-
-        -       Density separation solutions (e.g., Sodium chloride, Potassium iodide, Zinc chloride). See Table 5 below for details
-
-
-        -       Chemical digestion reagents (e.g., 30% hydrogen peroxide, 10% potassium hydroxide)
-
-
-        -       Ultrapure water (e.g., Milli-Q) or filtered water 
-
+- Density separation solutions (e.g., Sodium chloride, Potassium iodide, Zinc chloride). See Table 5 below for details
+- Chemical digestion reagents (e.g., 30% hydrogen peroxide, 10% potassium hydroxide)
+- Ultrapure water (e.g., Milli-Q) or filtered water 
 
 #### Instruments
 
-
-        -       Stereomicroscope (recommended, but will be essential for microplastics &lt;1 mm)
-
-
-        -       Polymer identification instruments (e.g., FTIR, u-FTIR, ATR-FTIR, RAMAN, py-GC/MS, LDIR) (desirable for polymer type)
-
-
-     
-
+- Stereomicroscope (recommended, but will be essential for microplastics &lt;1 mm)
+- Polymer identification instruments (e.g., FTIR, u-FTIR, ATR-FTIR, RAMAN, py-GC/MS, LDIR) (desirable for polymer type)
 
 ### Procedure
 
 Sediment should be sieved through an appropriately sized metal sieve (e.g., 1 mm) and retained microplastics sorted, counted, and identified (see Microplastic characterisation and quantification). Larger natural debris (i.e., algae, shell, sticks, biota) should be removed with forceps or tweezers and liberally rinsed with ultrapure water (e.g., Milli-Q) or filtered water over the sieve to remove any microplastics adhering to their surface. It is recommended a microscope be used where feasible. 
 
- 
-
 Sediment type, range in grain size, and levels of organic matter can influence the ease of sieving and the downstream separation and identification of microplastic. In the case of finer sediments (i.e., silt, mud, clay), density separation or pre-treatments (i.e., chemical digestion) may assist in separating the microplastics from the sediment and/or organic matter. See below for more details on density separation and chemical digestion. While recommended, it may not always be feasible to include these steps, e.g., in field surveys associated with citizen science monitoring programs. In these and other circumstances, it is critical to accurately report collection information and the minimum size range of plastics that can be captured and visually detected (see Reporting section).
-
 
 ### Processing of microscopic microplastics (1 μm - 5 mm)
 
-
 ### Equipment 
-
 
 #### Materials
 
-
-        -       Glass Petri dishes and beakers
-
-
-        -       Metal forceps/tweezers
-
-
-        -       Stainless steel filters
-
-
-        -       Metal sieves (varied sized, sieve diameter and mesh aperture size need to be reported; the latter to understand lower size limit (e.g., 1 µm))
-
-
-        -       Acid-resistant plastic box with lid
-
+- Glass Petri dishes and beakers
+- Metal forceps/tweezers
+- Stainless steel filters
+- Metal sieves (varied sized, sieve diameter and mesh aperture size need to be reported; the latter to understand lower size limit (e.g., 1 µm))
+- Acid-resistant plastic box with lid
 
 #### Reagents
 
-
-        -       30% w/v hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) - for organic matter removal 
-
-
-        -       Fenton’s reagent (H<sub>2</sub>O<sub>2</sub> and FeSO4)
-
-
-        -       Density separation solutions (e.g., Sodium chloride, Potassium iodide, Zinc chloride. See Table 2 below for details on appropriateness of different reagents). 
-
-
-        -       Ultrapure water (e.g., Milli-Q) or filtered water 
+- 30% w/v hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) - for organic matter removal 
+- Fenton’s reagent (H<sub>2</sub>O<sub>2</sub> and FeSO4)
+- Density separation solutions (e.g., Sodium chloride, Potassium iodide, Zinc chloride. See Table 2 below for details on appropriateness of different reagents). 
+- Ultrapure water (e.g., Milli-Q) or filtered water 
 
 _All reagents and solutions should be filtered (&lt;20 μm) prior to use, excluding the ultrapure water, which is already filtered. _
-
-_ _
 
 
 #### Instruments 
 
-
-        -       Laminar flow cabinet (optional)
-
-
-        -       Filtration equipment, including vacuum pump
-
-
-        -       Stereomicroscope (essential for microplastics &lt;1 μm)
-
-
-        -       Oven or freeze drier
-
-
-        -       Polymer identification instruments (e.g., FTIR, μ-FTIR, ATR-FTIR, RAMAN, py-GC/MS, LDIR)
+- Laminar flow cabinet (optional)
+- Filtration equipment, including vacuum pump
+- Stereomicroscope (essential for microplastics &lt;1 μm)
+- Oven or freeze drier
+- Polymer identification instruments (e.g., FTIR, μ-FTIR, ATR-FTIR, RAMAN, py-GC/MS, LDIR)
 
 
 ### Procedures
-
 
 #### Sediment drying
 
 Depending on the processing method and units of reporting, sediment samples may need to be dried, either in a freeze drier (loosely covered), or in a low heat oven (covered). The time and temperature required to dry the sample will vary depending on the sediment type, grain size, organic load, sample mass, and mode of drying. Caution should be taken when heating sediment samples as plastics may be impacted at temperatures above 40°C. Following drying and depending on the research question, the sample can be homogenised by sieving with a mechanical mixer or hand mixing (with care to ensure no fragmentation of plastic occurs). For larger samples, a subsample of a specific weight (e.g., 100 grams) can be collected (i.e., using a metal corer), ideally this should be done in triplicate to ensure sample representativeness. 
 
-
 #### Chemical digestion
 
 A pre-treatment to remove organic matter from organic-rich sediments is recommended. This aids in the clarification of the sample and means that the subsequent application of density separation solutions is likely to be more effective, it also allows for the use and re-use of more expensive density separation solutions which are often needed to isolate higher density microplastics. 
 
- 
-
-There are a number of methods that can be used to digest sediment bound organic matter including 30% w/v H<sub>2</sub>O<sub>2</sub> solution or Fenton’s reagent (H<sub>2</sub>O<sub>2</sub> and FeSO4; the ferric ions act as a catalyst). However, care should be taken when considering degredation of polymers when certain reagents are left for periods of time or temperatures (Di Fiore et al., 2024; Miller et al., 2017; Pfeiffer and Fischer, 2020). When using H<sub>2</sub>O<sub>2</sub> and Fenton’s reagent, the solution should be added to the sediment, mixed with a metal spoon or glass rod for one minute and left covered (e.g., watch glass) for up to 18 hours (depending on the amount of organic matter). To increase the efficiency of this reaction, the solution can be heated to 40 - 50°C to enhance the digestion process (note that temperatures above 40°C may impact and degrade particular polymers more than others). Based on time (i.e., 18 hours) or clarity (i.e., no visible organic matter remaining) or temperature (the reaction is exothermic and will cool once digestion is complete), the reaction should be quenched by washing thoroughly with ultrapure (e.g., Milli-Q) or filtered water (i.e., formation of carbon dioxide bubbles stops). Fenton’s reagent can be challenging with the efficiency of the digestion dependent on the pH of the sample, therefore prior to use further reading on the use of Fenton’s reagent is recommended (e.g., Tagg et al., 2017).  
+There are a number of methods that can be used to digest sediment bound organic matter including 30% w/v H<sub>2</sub>O<sub>2</sub> solution or Fenton’s reagent (H<sub>2</sub>O<sub>2</sub> and FeSO4; the ferric ions act as a catalyst). However, care should be taken when considering degradation of polymers when certain reagents are left for periods of time or temperatures (Di Fiore et al., 2024; Miller et al., 2017; Pfeiffer and Fischer, 2020). When using H<sub>2</sub>O<sub>2</sub> and Fenton’s reagent, the solution should be added to the sediment, mixed with a metal spoon or glass rod for one minute and left covered (e.g., watch glass) for up to 18 hours (depending on the amount of organic matter). To increase the efficiency of this reaction, the solution can be heated to 40 - 50°C to enhance the digestion process (note that temperatures above 40°C may impact and degrade particular polymers more than others). Based on time (i.e., 18 hours) or clarity (i.e., no visible organic matter remaining) or temperature (the reaction is exothermic and will cool once digestion is complete), the reaction should be quenched by washing thoroughly with ultrapure (e.g., Milli-Q) or filtered water (i.e., formation of carbon dioxide bubbles stops). Fenton’s reagent can be challenging with the efficiency of the digestion dependent on the pH of the sample, therefore prior to use further reading on the use of Fenton’s reagent is recommended (e.g., Tagg et al., 2017).  
 
 
 #### Elutriation
@@ -969,362 +647,181 @@ To separate microplastics from sediments, samples are resuspended in a density s
 
 varying levels of toxicity, and price ranges (Rani et al., 2023)(Table 5). These include sodium chloride, sodium tungstate dihydrate, sodium bromide, sodium polytungstate, lithium metatungstate, zinc chloride, zinc bromide, sodium iodide (Crutchett and Bornt, 2024). Higher density reagents are more effective at removing higher density polymers and are often employed when studying sediments, particularly those from intertidal and subtidal environments where heavier plastics sink and settle into the benthic zone. The density of the final solution used must be reported, as it will dictate which plastic polymers can or cannot be retrieved with this methodology.
 
- 
-
 To extract the microplastics using density separation reagents, the sediment should be transferred into a previously decontaminated glass beaker and the density separation reagent added. The sediment and density separation solution should be gently stirred with a metal spoon or glass rod and allowed to settle. Using a filtration kit (preferably glass or stainless steel), pour the supernatant over an appropriate filter (i.e., metal mesh, glass microfiber, silicon coated filter). The walls of the glass beaker should be rinsed liberally with ultrapure (e.g., Milli-Q) or filtered water to ensure all microplastic items are transferred to the filter. The loaded filter should be stored in a labelled Petri dish and covered with a glass lid. To identify microplastics, captured items should be observed under a microscope. 
 
- 
 
 **Table 5. **Commonly used density separation reagents, highlighting their advantages and limitations. 
 
-
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dzaw{background-color:#4F81BD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qblk{background-color:#DEEBF4;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1221px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 109px">
+<col style="width: 421px">
+<col style="width: 421px">
+</colgroup>
+<thead>
   <tr>
-   <td><strong>Density separation reagent</strong>
-   </td>
-   <td><strong>Density</strong>
-   </td>
-   <td><strong>Advantages</strong>
-   </td>
-   <td><strong>Limitations</strong>
-   </td>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Density separation reagent</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Density</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Advantages</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Limitations</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium chloride (NaCl)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.2 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Cost effective</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Readily available</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)</span></td>
   </tr>
   <tr>
-   <td>Sodium chloride (NaCl)
-   </td>
-   <td>1.2 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)
-<p>
-
-        -       Cost effective
-<p>
-
-        -       Non-toxic 
-<p>
-
-        -       Readily available
-   </td>
-   <td>
-        -       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium tungstate dihydrate (H4Na2O6W)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.4 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Cost-effective</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-        </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)</span></td>
   </tr>
   <tr>
-   <td>Sodium tungstate dihydrate (H4Na2O6W)
-   </td>
-   <td>1.4 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers low density polymers (e.g., PE, PS, PP, PMMA, PC)
-<p>
-
-        -       Cost-effective
-<p>
-
-        -       Non-toxic
-<p>
-
-        -        
-   </td>
-   <td>
-        -       Less efficient at recovering high density polymers (e.g., PC, PU, PET, PVC, PTFE)
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium bromide (NaBr)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.37 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span></td>
   </tr>
   <tr>
-   <td>Sodium bromide (NaBr)
-   </td>
-   <td>1.37 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-<p>
-
-        -       Non-toxic
-   </td>
-   <td>
-        -       Expensive
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Lithium metatungstate </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">(Li2O13W4</span>-24<span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.62 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Unknown effect on polymers</span></td>
   </tr>
   <tr>
-   <td>Lithium metatungstate 
-<p>
-(Li2O13W4<sup>-24</sup>)
-   </td>
-   <td>1.62 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Unknown effect on polymers
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Zinc chloride (ZnCl2)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.5 - 1.7 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
-   <td>Zinc chloride (ZnCl2)
-   </td>
-   <td>1.5 - 1.7 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Toxic to the environment 
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Zinc bromide (ZnBr2)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.71 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
-   <td>Zinc bromide (ZnBr2)
-   </td>
-   <td>1.71 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Toxic to the environment 
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sodium iodide (NaI)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.6 - 1.8 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
-   <td>Sodium iodide (NaI)
-   </td>
-   <td>1.6 - 1.8 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Toxic to the environment 
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Calcium chloride (CaCl2)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.5 - 3 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Toxic to the environment </span></td>
   </tr>
   <tr>
-   <td>Calcium chloride (CaCl2)
-   </td>
-   <td>1.5 - 3 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers
-   </td>
-   <td>
-        -       Expensive
-<p>
-
-        -       Toxic to the environment 
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Potassium Iodide (KI)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1.7 g cm</span>-3</td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Recovers a wide range of polymers </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-toxic</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Expensive</span></td>
   </tr>
-  <tr>
-   <td>Potassium Iodide (KI)
-   </td>
-   <td>1.7 g cm<sup>-3</sup>
-   </td>
-   <td>
-        -       Recovers a wide range of polymers 
-<p>
-
-        -       Non-toxic
-   </td>
-   <td>
-        -       Expensive
-   </td>
-  </tr>
+</tbody>
 </table>
-
-
- 
-
-
-# 
-
 
 # Biota
 
-**_<span style="text-decoration:underline;">IMPORTANT NOTE:</span> Prior to conducting any work on marine or coastal biota in relation to plastic and microplastic contamination, you must confirm what the permit, ethics, biosecurity, and work health safety requirements are for each specific species of interest. On confirming what is required, no work on marine and coastal organisms can begin until all relevant authorities have granted approval and formal documentation has been attained. Please assess both state and federal requirements._**
+**_<span style="text-decoration:underline;">IMPORTANT NOTE:</span> Prior to conducting any work on marine or coastal biota in relation to plastic and microplastic contamination, you must confirm what the permit, ethics, biosecurity, and work health safety requirements are for each specific species of interest. On confirming what is required, no work on marine and coastal organisms should begin until all relevant authorities have granted approval and formal documentation has been attained. Please assess both state and federal requirements._**
 
 
 ## Pre-Survey Preparations
 
- 
-
-The methods to acquire samples (i.e., capture, collection) of aquatic biota for microplastic assessment may vary according to the environment (e.g., pelagic vs benthic) and status (e.g., live vs dead) of the target species. This information in this section is organised into distinct sampling approaches tailored to major categories of marine and coastal biota. 
-
- 
-
+The methods to acquire samples (i.e., capture, collection) of aquatic biota for microplastic assessment may vary according to the environment (e.g., pelagic vs benthic) and status (e.g., live vs dead) of the target species. The information in this section is organised into distinct sampling approaches tailored to major categories of marine and coastal biota. 
 
 ### Monitoring microplastic in marine and coastal biota
 
 Analysis of microplastics in aquatic biota is generally conducted under one of the following overarching themes:
 
- 
+- To monitor microplastic presence in the aquatic environment. Bioindicator species, such as bivalves (e.g., mussels, oysters) or plankton, can accumulate microplastics and reflect the presence of contaminants in the ecosystem. Analysing these species over time and space, allows assessing the extent and variations in the presence of microplastics in coastal and marine ecosystems to be assessed. 
 
+- To investigate microplastic  occurrence, accumulation and impacts on biota and across food webs. This involves examining, for instance, the ingestion, accumulation, and potential biological effects of microplastics on organisms, including bivalves, fish, marine mammals, and seabirds, among others. These investigations generally aim to assess the risks posed by microplastics to species and to provide valuable insights into the broader ecological implications of microplastics. This includes biota sampled opportunistically, such as carcasses of deceased individuals, and investigation of plastic presence in the gastrointestinal tract (GIT).
 
-        -       To monitor for microplastic presence in the aquatic environment. Bioindicator species, such as bivalves (e.g., mussels, oysters) or plankton, can accumulate microplastics and reflect the presence of contaminants in the ecosystem. Analysing these species over time and space, allows assessing the extent and variations in the presence of microplastics in coastal and marine ecosystems. 
-
-** **
-
-
-        -       To investigate microplastic  occurrence, accumulation and impacts on biota and across food webs. This involves examining, for instance, the ingestion, accumulation, and potential biological effects of microplastics on organisms, including bivalves, fish, marine mammals, and seabirds, among others. These investigations generally aim to assess the risks posed by microplastics to species and to provide valuable insights into the broader ecological implications of microplastics. This includes biota sampled opportunistically, such as carcasses of deceased individuals, and investigation of plastic presence in the gastrointestinal tract (GIT).
-
- 
-
-At the time of writing, microplastics have been detected in 1,565 species of wild animals (Santos et al., 2021)from aquatic and terrestrial ecosystems, and this number grows as more species are assessed. However, approaches to monitor microplastics in different biota differ widely due to the inherent differences in size, morphology, digestion, the way the species interact with plastic, the species accessibility for research, animal ethics considerations and permissions, as well as the cultural norms/attitudes surrounding research on different taxa. This is especially the case when it comes to lethal sampling designs, which are sometimes utilised to achieve non (or less) biased sampling for plastic ingestion research, given that many species reduce or alter their feeding behaviour before death. Non-lethal and opportunistic sampling designs can also yield valuable information on microplastic exposure without the need to sacrifice living animals, although these designs are also prone to sampling biases, which will be explored later. 
-
- 
+At the time of writing, microplastics have been detected in 1,565 species of wild animals (Santos et al., 2021) from aquatic and terrestrial ecosystems, and this number continues to grow as more species are assessed. However, approaches to monitor microplastics in different biota differ widely due to the inherent differences in size, morphology, digestion, the way the species interact with plastic, the species accessibility for research, animal ethics considerations and permissions, as well as the cultural norms/attitudes surrounding research on different taxa. This is especially the case when it comes to lethal sampling designs, which are sometimes utilised to achieve non (or less) biased sampling for plastic ingestion research, given that many species reduce or alter their feeding behaviour before death. Non-lethal and opportunistic sampling designs can also yield valuable information on microplastic exposure without the need to sacrifice living animals, although these designs are also prone to sampling biases, which will be explored later. 
 
 Generally, it is more common to conduct targeted lethal microplastic exposure baseline and monitoring sampling designs on smaller organisms such as smaller invertebrates (non-cephalopods), although there are exceptions. Lethal sampling designs typically involve the collection or harvest of live animals for the explicit purpose of scientific research. These animals are sacrificed, and plastics contained within them are separated from the organic matter through chemical digestion of the entire animal, post necropsy, or from GIT contents (i.e., ingesta and digesta), and then microplastics quantified. Non-lethal sampling designs, on the other hand, are usually employed when investigating larger organisms (non-fish vertebrates). These often involve either the collection of scats/faeces or regurgitated material from living animals, which can be collected from the environment, or by capturing the animal to procure the sample (i.e., via gastric lavage, or as part of routine health assessments). 
 
- 
-
 Opportunistic sampling designs are common for larger vertebrates, especially those that are either logistically difficult to access (for example rare or dispersive species) or where ethical and cultural values would curtail permissions to disturb the animal or its habitat for microplastic research (e.g., threatened and otherwise protected species). Opportunistic sampling design often involves the collection of carcasses of animals that have died of natural/incidental causes, been euthanised for veterinary/welfare purposes, or killed for a purpose that is removed from research goals such as aquaculture, wild harvest or by-catch of harvest for human consumption.
-
- 
 
 While it is not feasible here to include a sampling design for all the species that are investigated for microplastic research, general principles of sampling design, microplastic separation and plastic characterisation and reporting apply. Included here are the main general principles and an overview of approaches for different taxa. 
 
 
 ### Species selection 
 
-For vertebrates, most of the microplastic research around the world has used opportunistic samples, typically necropsy of animals that have died due to a variety of causes. Opportunistic samples are typically sourced from beach-cast individuals, euthanised for welfare purposes, or by-caught (and died) in fishing and other commercial activities. However, the number of animals that can be sourced this way in Australia is generallylow, not only because of the low numbers of animals dying, but also a lack of organised, accessible centralised systems for reporting and collecting carcasses (e.g., centralised beach monitoring networks, though some jurisdictions have local, site-level or informal citizen-science monitoring networks), which is the case even if the scope of sampling effort is Australia-wide. For example, fisheries by-catch is only reported in specific fisheries, or when there are observers onboard, and carcasses of by-caught animals are typically discarded at sea rather than collected for scientific purposes. For cetaceans, it is unlikely to procure more than ten individuals each year unless there is a mass mortality event, such as a mass stranding. Noting, permits are still required to investigate these animal carcasses. Therefore, for sampling wild organisms, it is important to plan ahead for the logistic reality of potential low sample numbers, difficulty achieving scientifically robust replication, stratification, and other best practice sampling goals. 
+For vertebrates, most of the microplastic research around the world has used opportunistic samples, typically necropsy of animals that have died due to a variety of causes. Opportunistic samples are typically sourced from beach-cast individuals, euthanised for welfare purposes, or by-catch (and deceased) in fishing and other commercial activities. However, the number of animals that can be sourced this way in Australia is generally low, not only because of the low numbers of animals dying, but also a lack of organised, accessible centralised systems for reporting and collecting carcasses (e.g., centralised beach monitoring networks, though some jurisdictions have local, site-level or informal citizen-science monitoring networks), which is the case even if the scope of sampling effort is Australia-wide. For example, fisheries by-catch is only reported in specific fisheries, or when there are observers onboard, and carcasses of by-catch animals are typically discarded at sea rather than collected for scientific purposes. For cetaceans, it is unlikely that more than ten individuals are likely to be procured each year unless there is a mass mortality event, such as a mass stranding. It is important to note that permits are still required to investigate these animal carcasses. Therefore, for sampling wild organisms, it is important to plan ahead for the logistic reality of potential low sample numbers, difficulty achieving scientifically robust replication, stratification, and other best practice sampling goals.
 
- 
 
 The following criteria should be considered when selecting species to investigate and/or monitor:
 
-
-        -       Naturally occurring species with a high abundance,
-
-
-        -       Species for which robust sampling and processing methods are already established,
-
-
-        -       Ease of sampling and laboratory processing,
-
-
-        -       Species already commonly used as bioindicators in other areas of research, i.e., marine pollution and conservation monitoring programs,
-
-
-        -       Species of ecological, socio-economic and cultural importance,
-
-
-        -       Species with a broad coverage of ecological niches, and feeding types,
-
-
-        -       Species that do not require ethics for sampling (e.g., those not considered sentient),
-
-
-        -       Or, species for which structured/standardised sampling already occurs, and for which the addition of microplastic sampling is possible.
-
- 
+- Naturally occurring species with a high abundance,
+- Species for which robust sampling and processing methods are already established,
+- Ease of sampling and laboratory processing,
+- Species already commonly used as bioindicators in other areas of research, i.e., marine pollution and conservation monitoring programs,
+- Species of ecological, socio-economic and cultural importance,
+- Species with a broad coverage of ecological niches, and feeding types,
+- Species that do not require ethics for sampling (e.g., those not considered sentient),
+- Or, species for which structured/standardised sampling already occurs, and for which the addition of microplastic sampling is possible.
 
 As an example, bivalves are a popular choice given that they fulfil most of these criteria (Ding et al., 2021; Li et al., 2019):
 
+- they are not currently considered to be sentient, 
+- do not require ethics,
+- are common in intertidal zones and coastal locations globally,
+- are relatively easy to collect from the wild, 
+- can be sourced from commercial growers or raised in laboratory settings,
+- have high economic and ecological value, and
+- there is a plethora of literature describing validated methods and their successful implementation in biomonitoring programs.
 
-        -       they are not currently considered to be sentient, 
-
-
-        -       do not require ethics,
-
-
-        -       are common in intertidal zones and coastal locations globally,
-
-
-        -       are relatively easy to collect from the wild, 
-
-
-        -       can be sourced from commercial growers or raised in laboratory settings,
-
-
-        -       have high economic and ecological value, and
-
-
-        -       there is a plethora of literature describing validated methods and their successful implementation in biomonitoring programs.
-
- 
-
-Other species that have been used as indicator species include small fish (specifically, by sampling their GIT contents) and sediment-dwelling organisms (e.g., worms). A review of plastic bioindicator literature for the North Pacific has identified a suite of 12 candidate bioindicator species covering a variety of ecosystem components and a wide range of plastic size classes, including two bivalves, three fish and two sea turtles species that are also present in Australia (Savoca et al., 2022).
-
- 
-
+Other species that have been used as indicator species include small fish (specifically, by sampling their GIT contents) and sediment-dwelling organisms (e.g., worms). A review of plastic bioindicator literature for the North Pacific identified a suite of 12 candidate bioindicator species covering a variety of ecosystem components and a wide range of plastic size classes, including two bivalves, three fish and two sea turtles species that are also present in Australia (Savoca et al., 2022).
 
 #### Note on Listed marine wildlife (EPBC Act, Marine and Migratory or Threatened)
 
 Marine mammals, marine turtles, sea snakes, and several species of seabirds and elasmobranchs are listed as Matters of National Environmental Significance (EPBC Act). This means they are subject to many levels of protection and there is a high barrier for entry for disturbance of these taxa for research generally. Due to this, lethal sampling methods for protected species are very unlikely to be permitted by any authority in Australia. Non-lethal sampling methods are difficult to apply to vertebrate marine wildlife that do not routinely regurgitate, and whose faeces are passed in the seawater, making scat collection logistically difficult. 
 
- 
-
 
 ### Sampling design 
-
 
 #### General principles
 
 The first thing that must be considered before commencing field sampling is what question(s) are you trying to answer (see What are the specific goals of my research?). Different research questions may require different sampling designs and most likely different sample collection methods. Refer to the [Survey Design SOP](https://survey-design-field-manual.github.io/) for further details. Sampling designs should also ensure post-survey requirements are adequately considered, as well as the time required to accurately process microplastic samples from biota. Overall, sampling design principles are similar irrespective of whether you are seeking to use biota as a proxy to monitor for the presence of microplastic in the environment or whether you are specifically concerned with monitoring microplastic impacts on specific biota.
 
- 
-
-Sampling frequency is also dependent on the research question and species being investigated. If variations over time or between seasons are under question, then multiple sampling efforts across seasons or time are required. Ideally, replication is required within each spatial or temporal unit. If simply trying to quantify whethermicroplastic is present, then a single targeted sampling effort may be appropriate. Notwithstanding, following these guidelines will ensure the comparability of microplastic data from biota.
-
- 
-
+Sampling frequency is also dependent on the research question and species being investigated. If variations over time or between seasons are under question, then multiple sampling efforts across seasons or time are required. Ideally, replication is required within each spatial or temporal unit of interest. If simply trying to quantify whether microplastic is present, then a single targeted sampling effort may be appropriate. Notwithstanding, following these guidelines will ensure the comparability of microplastic data from biota.
 
 ### Pros and cons of designed vs opportunistic sampling
-
 
 #### Designed sampling approaches
 
 Biota can be sampled through structured designed sampling approaches - for example, the targeted harvest of a species through a well-planned sampling design.
 
- 
-
 Examples of designed sampling approaches include:
 
+- Bivalves placed in sea cages at predetermined distances from a river mouth to monitor the reach of microplastic outflow.
+- Microplastic loads in polychaete worms sampled in the intertidal zone every kilometre along a coastline of interest.
+- Microplastic load in every 50<sup>th</sup> sardine harvested from wild-caught sardine fished commercially for human consumption.
+- Microplastic frequency and loads in scats collected weekly over 12 months across a suite of pinniped colonies.
 
-        -       Bivalves placed in sea cages at predetermined distances from a river mouth to monitor the reach of microplastic outflow.
+&nbsp;&nbsp; **Strengths**
 
-
-        -       Microplastic loads in polychaete worms sampled in the intertidal zone every kilometre along a coastline of interest.
-
-
-        -       Microplastic load in every 50<sup>th</sup> sardine harvested from wild-caught sardine fished commercially for human consumption.
-
-
-        -       Microplastic frequency and loads in scats collected weekly over 12 months across a suite of pinniped colonies.
-
- 
-
-
-    **Strengths**
-
-
-        -       Careful control over sampling design means that robust sampling principles such as stratification, randomisation, replication and adequate sampling power can be built in at the design phase,
-
-
-        -       Allows for standardisation and comparability,
-
-
-        -       Often larger sample sizes, i.e., can assess multiple individuals of a population at any given sampling time,
-
-
-        -       Can assess how representative the sample is of the wider population,
-
-
-        -       Suitable for long-term monitoring to understand trends in microplastic concentrations, and
-
-
-        -       Ideal for differentiating any observed trends.
-
-
-     
+&nbsp;&nbsp; - Careful control over sampling design means that robust sampling principles such as stratification, randomisation, replication and adequate sampling power can be built in at the design phase,
+&nbsp;&nbsp; - Allows for standardisation and comparability,
+&nbsp;&nbsp; - Often larger sample sizes, i.e., can assess multiple individuals of a population at any given sampling time,
+&nbsp;&nbsp; - Can assess how representative the sample is of the wider population,
+&nbsp;&nbsp; - Suitable for long-term monitoring to understand trends in microplastic concentrations, and
+&nbsp;&nbsp; - Ideal for differentiating any observed trends.
 
 **Weaknesses**
 
