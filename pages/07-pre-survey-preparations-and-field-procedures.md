@@ -331,8 +331,8 @@ To achieve density separation, the reagent should be added to the sample first, 
 <colgroup>
 <col style="width: 250px">
 <col style="width: 130px">
-<col style="width: 300px">
-<col style="width: 300px">
+<col style="width: 275px">
+<col style="width: 275px">
 </colgroup>
 <thead>
   <tr>
@@ -670,8 +670,8 @@ To extract the microplastics using density separation reagents, the sediment sho
 <colgroup>
 <col style="width: 250px">
 <col style="width: 130px">
-<col style="width: 300px">
-<col style="width: 300px">
+<col style="width: 275px">
+<col style="width: 275px">
 </colgroup>
 <thead>
   <tr>
@@ -878,85 +878,97 @@ To correctly represent a population, an appropriate sample size that takes into 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dzaw{background-color:#4F81BD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-tjft{background-color:#DEEBF4;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-i6rb{background-color:#DEEBF4;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-j7cb{background-color:#DEEBF4;border-color:inherit;color:#313130;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1f03{background-color:#4F81BD;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5cf7{background-color:#DEEBF4;border-color:inherit;color:#313130;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 1110px">
+<colgroup>
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+</colgroup>
 <thead>
   <tr>
-    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Sample Type</span></th>
-    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Cetaceans &amp; Dugongs</span></th>
-    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Pinnipeds</span></th>
-    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Marine Turtles &amp; Marine Reptiles</span></th>
-    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Marine Birds</span></th>
-    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Fish &amp; Elasmobranchs</span></th>
-    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Bivalves</span></th>
-    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Larger Crustaceans</span></th>
-    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Pelagic Invertebrates</span></th>
-    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Benthic Invertebrates</span></th>
+    <th class="tg-1f03"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Sample Type</span></th>
+    <th class="tg-1f03"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Cetaceans &amp; Dugongs</span></th>
+    <th class="tg-1f03"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Pinnipeds</span></th>
+    <th class="tg-1f03"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Marine Turtles &amp; Marine Reptiles</span></th>
+    <th class="tg-1f03"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Marine Birds</span></th>
+    <th class="tg-1f03"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Fish &amp; Elasmobranchs</span></th>
+    <th class="tg-1f03"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Bivalves</span></th>
+    <th class="tg-1f03"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Larger Crustaceans</span></th>
+    <th class="tg-1f03"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Pelagic Invertebrates</span></th>
+    <th class="tg-1f03"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Benthic Invertebrates</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Whole organism</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-j7cb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Whole organism</span></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
   </tr>
   <tr>
-    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Trawl</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-j7cb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Trawl</span></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-j7cb"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"></td>
   </tr>
   <tr>
-    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Faeces</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-j7cb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Faeces</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
   </tr>
   <tr>
-    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Opportunistic necropsy</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-j7cb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Opportunistic necropsy</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
   </tr>
   <tr>
-    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Opportunistic regurgitation</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-tjft"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-j7cb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Opportunistic regurgitation</span></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">✓</span></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
+    <td class="tg-5cf7"></td>
   </tr>
 </tbody>
 </table>
@@ -977,16 +989,16 @@ To correctly represent a population, an appropriate sample size that takes into 
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 1319px">
 <colgroup>
-<col style="width: 230px">
-<col style="width: 121px">
-<col style="width: 121px">
-<col style="width: 121px">
-<col style="width: 121px">
-<col style="width: 121px">
-<col style="width: 121px">
-<col style="width: 121px">
-<col style="width: 121px">
-<col style="width: 121px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
+<col style="width: 115px">
 </colgroup>
 <thead>
   <tr>
@@ -1527,8 +1539,8 @@ To extract the microplastics using density separation reagents, first, combine t
 <colgroup>
 <col style="width: 250px">
 <col style="width: 130px">
-<col style="width: 300px">
-<col style="width: 300px">
+<col style="width: 275px">
+<col style="width: 275px">
 </colgroup>
 <thead>
   <tr>
