@@ -821,24 +821,18 @@ Examples of designed sampling approaches include:
 
 &nbsp;&nbsp; **Strengths**
 
-- Careful control over sampling design means that robust sampling principles such as stratification, randomisation, replication and adequate sampling power can be built in at the design phase,
+- &nbsp;&nbsp; Careful control over sampling design means that robust sampling principles such as stratification, randomisation, replication and adequate sampling power can be built in at the design phase,
 - Allows for standardisation and comparability,
 - Often larger sample sizes, i.e., can assess multiple individuals of a population at any given sampling time,
 - Can assess how representative the sample is of the wider population,
 - Suitable for long-term monitoring to understand trends in microplastic concentrations, and
 - Ideal for differentiating any observed trends.
 
-**Weaknesses**
+&nbsp;&nbsp; **Weaknesses**
 
-
-        -       Often inappropriate for studies involving whole-organism examination, such as the necropsy of vertebrates (except for fish harvested for human consumption) due to the ethical and legislative hurdles of collecting/harming/disturbing these species for a research purpose,
-
-
-        -       Not suited to the investigation of threatened or endangered species in the event biota is sacrificed, and
-
-
-        -       Sampling to achieve adequate replication likely to be resource intensive.
-
+- Often inappropriate for studies involving whole-organism examination, such as the necropsy of vertebrates (except for fish harvested for human consumption) due to the ethical and legislative hurdles of collecting/harming/disturbing these species for a research purpose,
+- Not suited to the investigation of threatened or endangered species in the event biota is sacrificed, and
+- Sampling to achieve adequate replication likely to be resource intensive.
 
 #### Opportunistic sampling approaches:
 
