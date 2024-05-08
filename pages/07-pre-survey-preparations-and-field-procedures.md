@@ -11,9 +11,9 @@ layout: home
 
 
 <style type="text/css">
-.outline {border-collapse:collapse;border-spacing:0;}
+.outline {border-collapse:collapse;border-spacing:0;border-radius:6px;}
 .outline td{border-color:#e1e1e1;border-style:solid;border-width:1px;}
-.outline th{border-color:#e1e1e1;border-style:solid;border-width:1px;}
+.outline th{border-color:#e1e1e1;border-style:solid;border-width:1px;background-color:#e1e1e1;}
 </style>
 
 
