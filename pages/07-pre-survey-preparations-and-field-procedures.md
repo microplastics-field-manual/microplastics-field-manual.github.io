@@ -1840,119 +1840,63 @@ There are several spectroscopy and spectrometry options for the chemical identif
 
 The chemical identification of microplastics involve comparisons of measured spectroscopic/spectrometric data compared to reference libraries of known materials. Reference libraries are usually a built-in functionality of commercial software used to operate the equipment, but the selection and breadth of available libraries vary between manufacturers and equipment. Furthermore, identification of plastics by spectroscopic FTIR and Raman methods can be complicated by chemical weathering, which alters the signature of the base material, and by biological and chemical contamination, which may introduce substantial secondary peaks in FTIR measurements and background fluorescence in Raman measurements (Fernández-González et al., 2021; Phan et al., 2022). Because library matching is a mathematical comparison, it may be misled by the appearance of altered or additional peaks, or by changes in background. To avoid erroneous assignments of weathered/degraded/contaminated plastics to inappropriate materials, matches should be assessed by an expert. Always consider whether the closest matching material spectrum is appropriate given the observed peaks, as well as the shape, colour, and texture of the sample.
 
-**Table 13. **Summary table of polymer identification instrumentation and their advantages, limitations, and minimum size that can be sampled. 
+**Table 13.** Summary table of polymer identification instrumentation and their advantages, limitations, and minimum size that can be sampled. 
 
-
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dzaw{background-color:#4F81BD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-i6rb{background-color:#DEEBF4;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qblk{background-color:#DEEBF4;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1068px">
+<colgroup>
+<col style="width: 84px">
+<col style="width: 182px">
+<col style="width: 401px">
+<col style="width: 401px">
+</colgroup>
+<thead>
   <tr>
-   <td><strong>Machine</strong>
-   </td>
-   <td><strong>Size limit</strong>
-   </td>
-   <td><strong>Advantages</strong>
-   </td>
-   <td><strong>Limitations</strong>
-   </td>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Machine</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Size limit</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Advantages</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Limitations</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">μ-FTIR</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">20 μm</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Sample retained</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Broadly applicable to a range of samples</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Commercial and open-source libraries of polymer spectra available</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Time intensive</span></td>
   </tr>
   <tr>
-   <td><strong>μ-FTIR</strong>
-   </td>
-   <td>20 μm
-   </td>
-   <td>
-        -       Sample retained
-<p>
-
-        -       Broadly applicable to a range of samples
-<p>
-
-        -       Commercial and open-source libraries of polymer spectra available
-   </td>
-   <td>
-        -       Time intensive
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">ATR-FTIR</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">20 μm</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Sample retained </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Broadly applicable to a range of samples</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Commercial libraries of polymer spectra available</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Time intensive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Soft/brittle samples may be damaged </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Can only be done efficiently for larger microplastics (&gt; 500 um)</span></td>
   </tr>
   <tr>
-   <td><strong>ATR-FTIR</strong>
-   </td>
-   <td>20 μm
-   </td>
-   <td>
-        -       Sample retained 
-<p>
-
-        -       Broadly applicable to a range of samples
-<p>
-
-        -       Commercial libraries of polymer spectra available
-   </td>
-   <td>
-        -       Time intensive
-<p>
-
-        -       Soft/brittle samples may be damaged 
-<p>
-
-        -       Can only be done efficiently for larger microplastics (> 500 um)
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Raman</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1 μm</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       No contact and sample retained</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Broadly applicable to a range of samples</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Background fluorescence from plastic additives and/or contaminants can increase identification complexity</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Time intensive</span></td>
   </tr>
   <tr>
-   <td><strong>Raman</strong>
-   </td>
-   <td>1 μm
-   </td>
-   <td>
-        -       No contact and sample retained
-<p>
-
-        -       Broadly applicable to a range of samples
-   </td>
-   <td>
-        -       Background fluorescence from plastic additives and/or contaminants can increase identification complexity
-<p>
-
-        -       Time intensive
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pyr-GC/MS</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Independent of particle size</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Broadly applicable to a range of samples</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Suitable for simultaneous identification and mass quantification of plastics</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-        Reduces sample treatment</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Polymer types and abundance cannot be associated with particle size, color, shape, or numbers</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Costly</span></td>
   </tr>
   <tr>
-   <td><strong>Pyr-GC/MS</strong>
-   </td>
-   <td>Independent of particle size
-   </td>
-   <td>
-        -       Broadly applicable to a range of samples
-<p>
-
-        -       Suitable for simultaneous identification and mass quantification of plastics
-<p>
-
-        -        Reduces sample treatment
-   </td>
-   <td>
-        -       Polymer types and abundance cannot be associated with particle size, color, shape, or numbers
-<p>
-
-        -       Costly
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">LDIR</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">20 μm</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Non-destructive</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Quicker analysis</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Costly</span></td>
   </tr>
-  <tr>
-   <td><strong>LDIR</strong>
-   </td>
-   <td>20 μm
-   </td>
-   <td>
-        -       Non-destructive
-<p>
-
-        -       Quicker analysis
-   </td>
-   <td>
-        -       Costly
-   </td>
-  </tr>
+</tbody>
 </table>
-
-
- 
-
- 
