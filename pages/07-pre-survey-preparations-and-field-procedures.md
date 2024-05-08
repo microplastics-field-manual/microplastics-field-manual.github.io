@@ -8,6 +8,39 @@ image:
 layout: home
 
 ---
+<nav class="toc">
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Overview</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Water</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Pre-Survey Preparations</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Field Procedures</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sample processing and analyses</td>
+  </tr>
+</tbody>
+</table>
+
+</nav>
 
 <nav class="toc">
 <ul id="markdown-toc">
