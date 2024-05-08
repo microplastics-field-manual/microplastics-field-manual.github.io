@@ -13,7 +13,7 @@ layout: home
 <style type="text/css">
 .outline {border-collapse:collapse;border-spacing:0;border-radius:6px;}
 .outline td{border-color:#e1e1e1;border-style:solid;border-width:1px;}
-.outline th{border-color:#e1e1e1;border-style:solid;border-width:1px;background-color:#e1e1e1;}
+.outline th{border-color:#e1e1e1;border-style:solid;border-width:1px;background-color:#e1e1e1;font-size: 18px}
 a {
   color: black;
 }
@@ -24,7 +24,7 @@ a {
 
 <thead>
   <tr>
-    <th class="cell-highlight">&nbsp;&nbsp;&nbsp;&nbsp;<p style="font-size: 18px">Overview</p></th>
+    <th class="cell-highlight">&nbsp;&nbsp;&nbsp;&nbsp;Overview</th>
   </tr>
 </thead>
 <tbody>
