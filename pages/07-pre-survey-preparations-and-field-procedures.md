@@ -10,14 +10,12 @@ layout: home
 ---
 
 
-thead {
-  background-color: #04AA6D;
-  color: white;
-}
+<style type="text/css">
+.outline {border-collapse:collapse;border-spacing:0;}
+</style>
 
 
-
-<table style="undefined;border-color:#e1e1e1;">
+<table class="outline">
 
 <thead>
   <tr>
