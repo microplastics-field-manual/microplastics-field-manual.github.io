@@ -1770,7 +1770,7 @@ Plastic type is potentially indicative of its original form and function (e.g., 
 
 **Table 12.** Classification of various plastic types observed in environmental samples. Shapes include fibres, fragments, films, beads, and others, providing insights into the diverse forms of plastic pollution. Photo credit: Thomas Crutchett.
 
- <style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -1780,10 +1780,10 @@ Plastic type is potentially indicative of its original form and function (e.g., 
 .tg .tg-i6rb{background-color:#DEEBF4;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-qblk{background-color:#DEEBF4;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1134px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1063px">
 <colgroup>
 <col style="width: 83px">
-<col style="width: 832px">
+<col style="width: 761px">
 <col style="width: 219px">
 </colgroup>
 <thead>
