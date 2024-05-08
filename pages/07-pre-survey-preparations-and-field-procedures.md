@@ -24,7 +24,7 @@ a {
 
 <thead>
   <tr>
-    <th class="cell-highlight">&nbsp;&nbsp;&nbsp;&nbsp;Overview</th>
+    <th class="cell-highlight">&nbsp;&nbsp;&nbsp;&nbsp;<p style="font-size: 1.125rem">Overview</p></th>
   </tr>
 </thead>
 <tbody>
