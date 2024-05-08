@@ -12,10 +12,12 @@ layout: home
 
 <style type="text/css">
 .outline {border-collapse:collapse;border-spacing:0;}
+.outline td{border-color:#e1e1e1;border-style:solid;border-width:1px;}
+.outline th{border-color:#e1e1e1;border-style:solid;border-width:1px;}
 </style>
 
 
-<table class="outline">
+<table class="outline"  style="undefined;">
 
 <thead>
   <tr>
