@@ -1770,129 +1770,75 @@ Plastic type is potentially indicative of its original form and function (e.g., 
 
 **Table 12.** Classification of various plastic types observed in environmental samples. Shapes include fibres, fragments, films, beads, and others, providing insights into the diverse forms of plastic pollution. Photo credit: Thomas Crutchett.
 
- 
-
-
-<table>
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dzaw{background-color:#4F81BD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-i6rb{background-color:#DEEBF4;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qblk{background-color:#DEEBF4;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1134px">
+<colgroup>
+<col style="width: 83px">
+<col style="width: 832px">
+<col style="width: 219px">
+</colgroup>
+<thead>
   <tr>
-   <td><strong>Type</strong>
-   </td>
-   <td><strong>Description</strong>
-   </td>
-   <td><strong>Photo example </strong>
-   </td>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Type</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Description</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Photo example </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pellets</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Small, bead-like plastic particles, from raw materials in industrial plastic production. Normall bigger in size. </span></td>
+    <td class="tg-qblk"><img src="https://lh7-us.googleusercontent.com/931sIej2or7wFp1Qei-ERQ0MSzI4aqQDdTUekstJQcK2YusvhvdC8FR357dIqoaHmi4tuFsMroeUaPV9PWm_6KmcWrVoHb3iIvt_qBUSKZ8O01NjOVZWUvELL7M9yxMQiwDnbqyErnEZ60OZZMWs654" width="208" height="147"></td>
   </tr>
   <tr>
-   <td><strong>Pellets</strong>
-   </td>
-   <td>Small, bead-like plastic particles, from raw materials in industrial plastic production. Normall bigger in size. 
-   </td>
-   <td>
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image5.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fragments</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Originate from the breakdown of larger hard plastic objects, like bottles or containers. These fragments can take various shapes and sizes, often with irregular edges. </span></td>
+    <td class="tg-qblk"><img src="https://lh7-us.googleusercontent.com/K5yz2oN16iRGiw6Qxtb0auyC9ojHVpBEmuYUkRK5FAr0U7f3bFGpBLwXfB6unBP7VbVCJhOkE7v76o-3J7WLSUc_-miRYIws6wTLsmJ7f76zijqrV7U-Wg5hcX28aTe2Zaruh24MfV3s5XblnqVM9KU" width="208" height="147"></td>
   </tr>
   <tr>
-   <td><strong>Fragments</strong>
-   </td>
-   <td>Originate from the breakdown of larger hard plastic objects, like bottles or containers. These fragments can take various shapes and sizes, often with irregular edges. 
-   </td>
-   <td>
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image6.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Filaments</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Strands of synthetic materials. These are often shed from clothing, textiles, and fabrics during washing and wear (fibres) or strands of fishing line which may be in monofilament or braided forms (line). Filaments can generally bend and are of uniform thickness across their length. </span></td>
+    <td class="tg-qblk"><img src="https://lh7-us.googleusercontent.com/SBFfVbfks09VEmRU0tkLya1r95_2ftbGnXor9JH2FiG3HN2qOF1mnW0PQhgIoMc1J67xEtUlPCcWXTJpvHs1z6eDjtG0aISnXRA7M5wXgkNsiOxMUsTcZ08S2Um3Nz3M4RJ62JHs8MekvHUSkX58aNk" width="208" height="147"></td>
   </tr>
   <tr>
-   <td><strong>Filaments</strong>
-   </td>
-   <td>Strands of synthetic materials. These are often shed from clothing, textiles, and fabrics during washing and wear (fibres) or strands of fishing line which may be in monofilament or braided forms (line). Filaments can generally bend and are of uniform thickness across their length. 
-   </td>
-   <td>
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image7.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Foams</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Expanded plastic foam materials, like foam cups, packaging, rubbers and insulation. These particles are lightweight and will compress if squeezed.</span></td>
+    <td class="tg-qblk"><img src="https://lh7-us.googleusercontent.com/87o0sSmr9w6A9rw-pvxul4sB50U5EYqx5dkfq2gFCQL9QvXesKfUf739s2TAMmlpYQzeoX-PXyNCW-X3RgTCs46DzCaKfvd3enpgngi61pG4AdP9hcJLf5d3DF_mjzfLJ50ensHEqZLjv9L0zi6At28" width="208" height="147"></td>
   </tr>
   <tr>
-   <td><strong>Foams</strong>
-   </td>
-   <td>Expanded plastic foam materials, like foam cups, packaging, rubbers and insulation. These particles are lightweight and will compress if squeezed.
-   </td>
-   <td>
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image8.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Films</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Originate from larger soft plastic materials, such as plastic bags and packaging. They are typically thin (and often transparent) and flexible, resembling miniature sheets or layers of plastic. </span></td>
+    <td class="tg-qblk"><img src="https://lh7-us.googleusercontent.com/wiGfD6g1rgEhgRDijSvJpBlcZnlnvIizk4AIqNLeupNnOAauQswbzCBkBrK0SLdo4ZNnfustQzF8NhIev80tO5Rq5Bgkp-C1xZ9Bbh7vrYn9uaPhudEJtQhC4G_2Jzm88AB2XbqdxTGJs2KwAQR560Q" width="208" height="147"></td>
   </tr>
   <tr>
-   <td><strong>Films</strong>
-   </td>
-   <td>Originate from larger soft plastic materials, such as plastic bags and packaging. They are typically thin (and often transparent) and flexible, resembling miniature sheets or layers of plastic. 
-   </td>
-   <td>
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image9.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Tyre dust</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Shavings of pieces of tyre, commonly composed of rubber. These plastics are commonly soft to the touch and will compress if squeezed. Further validation using chemical characterisation is often needed to accurately identify. </span></td>
+    <td class="tg-qblk"><img src="https://lh7-us.googleusercontent.com/-MAcoH7Si3zRGwIV5hZYniPAXDQ8AI_tw13cRVuOPKDXjpMy7tGO-Hngmz6cyHA8ZmF6OxJM5aeM0ERAPnuevDxXNZTF22fFo2zLgaAAWoxgZq4pJaj-_mMVQNU-xZRQyb605qOSjbz1gpcB9X8I6z0" width="208" height="147"></td>
   </tr>
-  <tr>
-   <td><strong>Tyre dust</strong>
-   </td>
-   <td>Shavings of pieces of tyre, commonly composed of rubber. These plastics are commonly soft to the touch and will compress if squeezed. Further validation using chemical characterisation is often needed to accurately identify. 
-   </td>
-   <td>
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image10.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
+</tbody>
 </table>
-
-
-
-     
-
 
 #### Colour
 
 The colour of microplastics may be indicative of the original object or the extent of weathering or contamination (e.g., absorption of contaminants and biofilm), and may also influence the likelihood of ingestion by wildlife. Colour has conventionally been reported by assigning each plastic to a colour category based on visual assessment, but human judgment of colour is extremely subjective and the list of colour categories used is far from consistent between different studies. Recent efforts to standardise the reporting of plastic colour recommend using the following six categories: white, yellow, red, green, blue, and black (Provencher et al., 2017), or by comparison to 120 standard Pantone colours (Martí et al., 2020).  These standard categories are inherently imprecise and can still be inconsistently applied by different human observers. If photographs/images are available, the average colour of a plastic object should instead be measured in terms of red, green, and blue (RGB) values or hue, saturation value (HSV) as acquired by the camera. RGB values are more precise and less subjective than colour categories and provide semi-continuous data (e.g. suitable for studying trends such as discolouration), but care must be taken to ensure the images are taken under consistent white lighting to correctly reproduce true colours. For larger (>1 mm) plastics that can be imaged using conventional photography, a photographic colour reference card imaged alongside the plastics can provide a point of calibration ensuring greater consistency in colour reproduction. If a colour reference card cannot be included, it is essential to report the lighting used (source, colour, temperature, etc.). It is important to note that for transparent and semi-transparent plastics, apparent colour may also be affected by the colour of the background.
-
- 
 
 
 ## Chemical characterisation 
 
 Due to challenges in identifying some microplastics using visual methods, especially small and/or transparent items, chemical analysis should be used to validate the identification of plastic, and confirm polymer composition and the anthropogenic nature of the particles. Importantly, polymer identification can also help identify the potential sources of microplastic, which in turn can influence regulation and policy. To confirm and validate that all retrieved particles were plastics, the preference should be that 100% of items are assessed. In instances where the number of putative microplastics is high and resources are not commensurate, then subsampling should match the resources available. If subsampling does occur, it is essential that the percentage of microplastics tested is reported, as well as the method used to select this subset and how representative this may be of the entire sample. This is an essential step to validating that the retrieved putative microplastics are indeed plastic, particularly for smaller microplastics. 
 
- 
-
 There are several spectroscopy and spectrometry options for the chemical identification of plastics, with the method employed often dependent on the available equipment and the research question (Table 13). Although any chemical information about the microplastic is useful, Fourier-Transform Infrared Spectroscopy (FTIR) and Raman spectroscopic techniques are routinely used. 
 
- 
-
 The chemical identification of microplastics involve comparisons of measured spectroscopic/spectrometric data compared to reference libraries of known materials. Reference libraries are usually a built-in functionality of commercial software used to operate the equipment, but the selection and breadth of available libraries vary between manufacturers and equipment. Furthermore, identification of plastics by spectroscopic FTIR and Raman methods can be complicated by chemical weathering, which alters the signature of the base material, and by biological and chemical contamination, which may introduce substantial secondary peaks in FTIR measurements and background fluorescence in Raman measurements (Fernández-González et al., 2021; Phan et al., 2022). Because library matching is a mathematical comparison, it may be misled by the appearance of altered or additional peaks, or by changes in background. To avoid erroneous assignments of weathered/degraded/contaminated plastics to inappropriate materials, matches should be assessed by an expert. Always consider whether the closest matching material spectrum is appropriate given the observed peaks, as well as the shape, colour, and texture of the sample.
-
- 
 
 **Table 13. **Summary table of polymer identification instrumentation and their advantages, limitations, and minimum size that can be sampled. 
 
