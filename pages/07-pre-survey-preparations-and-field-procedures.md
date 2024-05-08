@@ -23,10 +23,6 @@ layout: home
 .tg .tg-2w7a{background-color:#e1e1e1;border-color:#e1e1e1;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-woin{border-color:#e1e1e1;font-style:italic;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 810px">
-<colgroup>
-<col style="width: 810px">
-</colgroup>
 <thead>
   <tr>
     <th class="tg-2w7a">Overview</th>
