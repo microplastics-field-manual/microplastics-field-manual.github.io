@@ -8,12 +8,36 @@ image:
 layout: home
 
 ---
+
+table {
+    border-collapse:separate;
+    border:solid black 1px;
+    border-radius:6px;
+}
+
+td, th {
+    border-left:solid black 1px;
+    border-top:solid black 1px;
+}
+
+th {
+    background-color: blue;
+    border-top: none;
+}
+
+td:first-child, th:first-child {
+     border-left: none;
+}
+
+
 <nav class="toc">
+
+
 
 <table>
 <thead>
   <tr>
-    <th>Overview</th>
+    <th><<h6>Overview</h6></th>
   </tr>
 </thead>
 <tbody>
@@ -75,7 +99,7 @@ layout: home
     <td>&nbsp;&nbsp;&nbsp;&nbsp;Physical characterisation</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;hemical characterisation</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Chemical characterisation</td>
   </tr>
 </tbody>
 </table>
