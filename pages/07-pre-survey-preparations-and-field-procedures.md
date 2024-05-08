@@ -1633,97 +1633,48 @@ There are several ways to quantify microscopic microplastics (i.e., not discerni
 
 **Table 10.** Table of the different quantification methods for microplastics including their advantages and limitations.
 
-
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dzaw{background-color:#4F81BD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-i6rb{background-color:#DEEBF4;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qblk{background-color:#DEEBF4;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-   <td><strong>Microplastic quantification method</strong>
-   </td>
-   <td><strong>Advantages</strong>
-   </td>
-   <td><strong>Limitations </strong>
-   </td>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Microplastic quantification method</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Advantages</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Limitations </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i6rb" colspan="3"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Manual counting methods</span></td>
   </tr>
   <tr>
-   <td colspan="3" ><strong>Manual counting methods</strong>
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Gridded method</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Cost-effective</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Straight-forward process</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Time intensive </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Requires experienced operators</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Observer bias</span></td>
   </tr>
   <tr>
-   <td>Gridded method
-   </td>
-   <td>
-        -       Cost-effective
-<p>
-
-        -       Straight-forward process
-<p>
- 
-   </td>
-   <td>
-        -       Time intensive 
-<p>
-
-        -       Requires experienced operators
-<p>
-
-        -       Observer bias
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fluorescent dyes (e.g., Nile Red)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Cost-effective</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       User friendly </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Added processing steps and chemical considerations</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Does not bind to all polymers</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Dyes biological material (false positive)</span></td>
   </tr>
   <tr>
-   <td>Fluorescent dyes (e.g., Nile Red)
-   </td>
-   <td>
-        -       Cost-effective
-<p>
-
-        -       User friendly 
-   </td>
-   <td>
-        -       Added processing steps and chemical considerations
-<p>
-
-        -       Does not bind to all polymers
-<p>
-
-        -       Dyes biological material (false positive)
-   </td>
+    <td class="tg-i6rb" colspan="3"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Automated counting methods</span></td>
   </tr>
   <tr>
-   <td colspan="3" ><strong>Automated counting methods</strong>
-   </td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Image analysis software (e.g., Image J, CellSense image analysis) </span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Highly accurate</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Saves time</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Automated </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Removes human error</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Requires setup and calibration</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Requires specific software</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-       Requires high resolution microphotographs</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
   </tr>
-  <tr>
-   <td>Image analysis software (e.g., Image J, CellSense image analysis) 
-   </td>
-   <td>
-        -       Highly accurate
-<p>
-
-        -       Saves time
-<p>
-
-        -       Automated 
-<p>
-
-        -       Removes human error
-   </td>
-   <td>
-        -       Requires setup and calibration
-<p>
-
-        -       Requires specific software
-<p>
-
-        -       Requires high resolution microphotographs
-<p>
- 
-   </td>
-  </tr>
+</tbody>
 </table>
-
-
- 
-
- 
 
 **Gridded method**
 
