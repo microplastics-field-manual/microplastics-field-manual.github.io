@@ -1713,47 +1713,50 @@ Plastic size is an essential physical attribute for reporting, as it will dictat
 
 **Table 11.** Size classifications used to categorise plastic, from macroplastics (> 2.5 cm) to microplastics (1 μm* - 5 mm), as well as nanoplastics (&lt; 1μm), which require specialised procedures for detection.
 
-
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dzaw{background-color:#4F81BD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-i6rb{background-color:#DEEBF4;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qblk{background-color:#DEEBF4;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 923px">
+<colgroup>
+<col style="width: 614px">
+<col style="width: 309px">
+</colgroup>
+<thead>
   <tr>
-   <td><strong>Plastic category</strong>
-   </td>
-   <td><strong>Size range</strong>
-   </td>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Plastic category</span></th>
+    <th class="tg-dzaw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Size range</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Macroplastics</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">&gt;2.5 cm</span></td>
   </tr>
   <tr>
-   <td><strong>Macroplastics</strong>
-   </td>
-   <td>>2.5 cm
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mesoplastics</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">0.5 - 2.5 cm</span></td>
   </tr>
   <tr>
-   <td><strong>Mesoplastics</strong>
-   </td>
-   <td>0.5 - 2.5 cm
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Visible microplastics</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1 - 5 mm</span></td>
   </tr>
   <tr>
-   <td><strong>Visible microplastics</strong>
-   </td>
-   <td>1 - 5 mm
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Microscopic microplastics</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1 μm<sup>*</sup> - 1 mm</span></td>
   </tr>
   <tr>
-   <td><strong>Microscopic microplastics</strong>
-   </td>
-   <td>1 μm* - 1 mm
-   </td>
+    <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Nanoplastics (outside of the scope of this manual)</span></td>
+    <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">&lt; 1 μm</span></td>
   </tr>
-  <tr>
-   <td><strong>Nanoplastics (outside of the scope of this manual)</strong>
-   </td>
-   <td>&lt; 1 μm
-   </td>
-  </tr>
+</tbody>
 </table>
-
-
 <sup>* Note: This field manual only focuses on microplastics > 20 µm. </sup>
 
  
