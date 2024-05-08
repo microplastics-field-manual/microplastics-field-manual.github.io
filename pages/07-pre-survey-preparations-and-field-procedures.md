@@ -9,143 +9,95 @@ layout: home
 
 ---
 
-table {
-    border-collapse:separate;
-    border:solid black 1px;
-    border-radius:6px;
-}
-
-td, th {
-    border-left:solid black 1px;
-    border-top:solid black 1px;
-}
-
-th {
-    background-color: blue;
-    border-top: none;
-}
-
-td:first-child, th:first-child {
-     border-left: none;
-}
 
 
 <nav class="toc">
 
-
-
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-radius:6px;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-huqa{border-color:#e1e1e1;text-align:left;vertical-align:top}
+.tg .tg-2w7a{background-color:#e1e1e1;border-color:#e1e1e1;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-woin{border-color:#e1e1e1;font-style:italic;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 810px">
+</colgroup>
 <thead>
   <tr>
-    <th><<h6>Overview</h6></th>
+    <th class="tg-2w7a">Overview</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Water</td>
+    <td class="tg-woin">Water</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
+    <td class="tg-huqa">Pre-Survey Preparations</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
+    <td class="tg-huqa">Field Procedures</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
+    <td class="tg-huqa">Sample processing and analyses</td>
   </tr>
   <tr>
-    <td>Sediment</td>
+    <td class="tg-woin">Sediment</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
+    <td class="tg-huqa">Pre-Survey Preparations</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
+    <td class="tg-huqa">Field Procedures</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
+    <td class="tg-huqa">Sample processing and analyses</td>
   </tr>
   <tr>
-    <td>Biota</td>
+    <td class="tg-woin">Biota</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
+    <td class="tg-huqa">Pre-Survey Preparations</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
+    <td class="tg-huqa">Field Procedures</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
+    <td class="tg-huqa">Sample processing and analyses</td>
   </tr>
   <tr>
-    <td>Air</td>
+    <td class="tg-woin">Air</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
+    <td class="tg-huqa">Pre-Survey Preparations</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
+    <td class="tg-huqa">Field Procedures</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
+    <td class="tg-huqa">Sample processing and analyses</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Microplastics quantification and characterisation</td>
+    <td class="tg-huqa">Microplastics quantification and characterisation</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Microplastics quantification</td>
+    <td class="tg-huqa">Microplastics quantification</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Physical characterisation</td>
+    <td class="tg-huqa">Physical characterisation</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Chemical characterisation</td>
+    <td class="tg-huqa">Chemical characterisation</td>
   </tr>
 </tbody>
 </table>
-
 </nav>
 
-<nav class="toc">
-<ul id="markdown-toc">
-  <li><a href="#water" id="markdown-toc-water">Water</a>    <ul>
-      <li><a href="#pre-survey-preparations" id="markdown-toc-pre-survey-preparations">Pre-Survey Preparations</a></li>
-      <li><a href="#field-procedures" id="markdown-toc-field-procedures">Field Procedures</a></li>
-      <li><a href="#sample-processing-and-analyses" id="markdown-toc-sample-processing-and-analyses">Sample processing and analyses</a></li>
-    </ul>
-  </li>
-  <li><a href="#sediment" id="markdown-toc-sediment">Sediment</a>    <ul>
-      <li><a href="#pre-survey-preparations-1" id="markdown-toc-pre-survey-preparations-1">Pre-Survey Preparations</a></li>
-      <li><a href="#field-procedures-1" id="markdown-toc-field-procedures-1">Field Procedures</a></li>
-      <li><a href="#sample-processing-and-analyses-1" id="markdown-toc-sample-processing-and-analyses-1">Sample processing and analyses</a></li>
-    </ul>
-  </li>
-  <li><a href="#biota" id="markdown-toc-biota">Biota</a>    <ul>
-      <li><a href="#pre-survey-preparations-2" id="markdown-toc-pre-survey-preparations-2">Pre-Survey Preparations</a></li>
-      <li><a href="#field-procedures-2" id="markdown-toc-field-procedures-2">Field Procedures</a></li>
-      <li><a href="#sample-processing-and-analyses-2" id="markdown-toc-sample-processing-and-analyses-2">Sample processing and analyses</a></li>
-    </ul>
-  </li>
-  <li><a href="#air" id="markdown-toc-air">Air</a>    <ul>
-      <li><a href="#pre-survey-preparations-3" id="markdown-toc-pre-survey-preparations-3">Pre-Survey Preparations</a></li>
-      <li><a href="#field-procedures-3" id="markdown-toc-field-procedures-3">Field Procedures</a></li>
-      <li><a href="#sample-processing-and-analyses-3" id="markdown-toc-sample-processing-and-analyses-3">Sample processing and analyses</a></li>
-      <li><a href="#microplastics-quantification-and-characterisation" id="markdown-toc-microplastics-quantification-and-characterisation">Microplastics quantification and characterisation</a></li>
-      <li><a href="#microplastics-quantification" id="markdown-toc-microplastics-quantification">Microplastics quantification</a></li>
-      <li><a href="#physical-characterisation" id="markdown-toc-physical-characterisation">Physical characterisation</a></li>
-      <li><a href="#chemical-characterisation" id="markdown-toc-chemical-characterisation">Chemical characterisation</a></li>
-    </ul>
-  </li>
-</ul>
-
-</nav>
-
-
-
-* This will become a table of contents (this text will be scrapped).
 These methods will differ among environments so refer to the relevant section:
-
-{:toc}
 
 {% include toc.html class="toc-left" h_min=1 h_max=2 %} 
 
