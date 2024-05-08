@@ -1680,60 +1680,36 @@ There are several ways to quantify microscopic microplastics (i.e., not discerni
 
 Under a microscope, the gridded method involves examining and counting the microplastics in each square of a real or virtual grid (Brandt et al., 2021). If the microplastics are too numerous a subset could be counted in each square of two diagonals throughout the filter (see Figure 5 below as an example). However, it should be noted that this latter method may not always be representative of the sample. 
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.jpg "image_tooltip")
-
-
-** **
+![alt_text](images/figures/figure5.png "image_tooltip")
 
 **Figure 5.** An example of the counting technique that could be used to quantify a subset of microplastics. 
 
- 
 
 **Fluorescent Dyes**
 
 Fluorescent dyes can be chosen based on their properties, including compatibility with the microplastics of interest, stability, and fluorescence characteristics. Nile Red is the most commonly used dye, however, Rhodamine B, Acridine Orange, Propidium Iodide and others can also be used. It is important to note that the choice of fluorescent dye depends on the research objectives, the specific polymers of interest, and the available instrumentation for detection. The dye is mixed with the environmental sample, processed following the post-survey procedures above, and examined using a fluorescence microscope. When illuminated with a specific wavelength of light (excitation wavelength), the fluorescent dye attached to the microplastics absorbs the light energy and re-emits it at a longer wavelength (emission wavelength), producing visible fluorescence, and highlighting the microplastics. 
 
- 
 
 **Image analysis software**
 
 Software such as ImageJ (Fiji), a free Java-based image processing program (U.S. NIH, MD, USA [https://imagej.nih.gov/ij](https://imagej.nih.gov/ij)), CellSense, Saturna Imaging System ([https://oceandiagnostics.com/microplastics-imaging-technology](https://oceandiagnostics.com/microplastics-imaging-technology)) and others enable semi-automated counting of microplastics. The data can be automatically exported from these software packages into a spreadsheet.  
 
- 
-
 Once counted, the microplastics should be categorised primarily by shape (fibre, fragment, film, foam, bead, etc) and colour, with other visual factors that support the identification of microplastics recorded, i.e., structure homogeneity, absence of cell structure or glossy surface (see Physical characterisation). All items categorised as putative microplastics should be chemically assessed to confirm their identity (see Chemical characterisation). If there are too many items, chemical assessment of a subset should be undertaken, documenting how the subset was selected and its representativeness determined. For microplastics treated with fluorescent dye, it is also important to identify the chemical signature of the dye, as this needs to be accounted for in later chemical analysis. 
-
- 
-
 
 ## Physical characterisation
 
 Accurate physical characterisation lies at the heart of understanding the nature and impact of microplastics in environmental samples. This section discusses the methodologies and considerations essential for characterising microplastic contamination based on their physical attributes. Plastic characterisation provides valuable insights into the size distributions, shapes, and other key physical properties of microplastic. Accurately reporting this information can allow researchers to further investigate the complexities of microplastic contamination and investigate trends. The methodologies outlined herein are designed to enhance the accuracy and consistency of microplastic analysis, contributing to a more comprehensive understanding of their presence and potential effects in various environmental matrices.
 
- 
-
 Reporting of microplastics physical data should be standardised by their size, shape and colour. There are several pre-existing methods for reporting microplastic characteristics, therefore, to ensure comparability, particularly with long-standing datasets, it is recommended that photographs of the different types of microplastic, along with a scale bar, are included in reporting, e.g., as supplementary information in published material. 
-
- 
-
 
 ### Physical properties
 
 Reporting on the physical properties of microplastics is essential in the identification and confirmation of microplastics, while also providing important information on potential sources of contamination. However, care must be taken to avoid human error or bias when measuring the size, shape, and colour of individual microplastics. Automated image analysis methods can be much faster and more reliable than human assessment, but require photographs/images taken under consistent lighting conditions at a known scale and of suitable resolution to ensure accurate and reproducible measurements of physical parameters. Automated image analysis requires plastics to be photographed on a background that is sufficiently distinct in terms of colour and brightness so that each object can be reliably detected, or under different light sources (i.e., UV light). The use of these resources should be considered to mitigate observer bias, however, they may not be readily available to all.
 
- 
-
-
 #### Size
 
 Plastic size is an essential physical attribute for reporting, as it will dictate how plastic interacts with the environment and wildlife. The size of objects can be described in many ways, but for plastics size usually refers to the length of the longest axis (the maximum Feret diameter) and is grouped into different size ranges (Table 2). The simplest method is to categorise the plastic object using visual assessment against a scale bar. For larger objects (> 1mm) length can be measured more precisely using callipers, but this can be time-consuming for large quantities of plastics. If photographs or microscopy images with a known scale are available, automated image analysis software can be used to instantly and precisely measure multiple different size parameters for each detectable object in the image. When reporting size parameters, always specify which parameter was used (e.g. maximum Feret diameter, or major diameter from elliptical approximation) and present size distributions as well as category counts, where possible. It is essential to report the minimum size category in which the approaches used can accurately detect, in line with the size categories in Table 11.
 
- 
 
 **Table 11.** Size classifications used to categorise plastic, from macroplastics (> 2.5 cm) to microplastics (1 μm* - 5 mm), as well as nanoplastics (&lt; 1μm), which require specialised procedures for detection.
 
