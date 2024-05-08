@@ -14,6 +14,9 @@ layout: home
 .outline {border-collapse:collapse;border-spacing:0;border-radius:6px;}
 .outline td{border-color:#e1e1e1;border-style:solid;border-width:1px;}
 .outline th{border-color:#e1e1e1;border-style:solid;border-width:1px;background-color:#e1e1e1;}
+a {
+  color: black;
+}
 </style>
 
 
@@ -21,7 +24,7 @@ layout: home
 
 <thead>
   <tr>
-    <th class="cell-highlight">&nbsp;&nbsp;&nbsp;&nbsp;<h6>Overview</h6></th>
+    <th class="cell-highlight">&nbsp;&nbsp;&nbsp;&nbsp;Overview</th>
   </tr>
 </thead>
 <tbody>
@@ -29,61 +32,61 @@ layout: home
     <td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#water">Water</a></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#pre-survey-preparations">*Pre-Survey Preparations*</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#pre-survey-preparations">Pre-Survey Preparations</a></i></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#field-procedures">Field Procedures</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#field-procedures">Field Procedures</a></i></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#sample-processing-and-analyses">Sample processing and analyses</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#sample-processing-and-analyses">Sample processing and analyses</a></i></td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#sediment">Sediment</a></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#pre-survey-preparations-1">Pre-Survey Preparations</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#pre-survey-preparations-1">Pre-Survey Preparations</a></i></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#field-procedures-1">Field Procedures</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#field-procedures-1">Field Procedures</a></i></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#sample-processing-and-analyses-1">Sample processing and analyses</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#sample-processing-and-analyses-1">Sample processing and analyses</a></i></td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#biota">Biota</a></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#pre-survey-preparations-2">Pre-Survey Preparations</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#pre-survey-preparations-2">Pre-Survey Preparations</a></i></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#field-procedures-2">Field Procedures</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#field-procedures-2">Field Procedures</a></i></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#sample-processing-and-analyses-2">Sample processing and analyses</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#sample-processing-and-analyses-2">Sample processing and analyses</a></i></td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#air">Air</a></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#pre-survey-preparations-3">Pre-Survey Preparations</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#pre-survey-preparations-3">Pre-Survey Preparations</a></i></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#field-procedures-3">Field Procedures</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#field-procedures-3">Field Procedures</a></i></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#sample-processing-and-analyses-3">Sample processing and analyses</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#sample-processing-and-analyses-3">Sample processing and analyses</a></i></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#microplastics-quantification-and-characterisation">Microplastics quantification and characterisation</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#microplastics-quantification-and-characterisation">Microplastics quantification and characterisation</a></i></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#microplastics-quantification">Microplastics quantification</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#microplastics-quantification">Microplastics quantification</a></i></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#physical-characterisation">Physical characterisation</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#physical-characterisation">Physical characterisation</a></i></td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#chemical-characterisation">Chemical characterisation</a></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#chemical-characterisation">Chemical characterisation</a></i></td>
   </tr>
 </tbody>
 </table>
