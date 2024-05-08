@@ -9,7 +9,7 @@ layout: home
 
 ---
 
-
+* This will become a table of contents (this text will be scrapped).
 These methods will differ among environments so refer to the relevant section:
 
 {:toc}
