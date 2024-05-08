@@ -21,69 +21,69 @@ layout: home
 
 <thead>
   <tr>
-    <th class="cell-highlight">Overview</th>
+    <th class="cell-highlight">&nbsp;&nbsp;&nbsp;&nbsp;<h6>Overview</h6></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Water</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Water</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Pre-Survey Preparations*</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
   </tr>
   <tr>
-    <td>Sediment</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Sediment</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
   </tr>
   <tr>
-    <td>Biota</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Biota</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
   </tr>
   <tr>
-    <td>Air</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Air</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Microplastics quantification and characterisation</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microplastics quantification and characterisation</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Microplastics quantification</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microplastics quantification</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Physical characterisation</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Physical characterisation</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;Chemical characterisation</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chemical characterisation</td>
   </tr>
 </tbody>
 </table>
