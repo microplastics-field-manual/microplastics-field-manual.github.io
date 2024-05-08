@@ -93,8 +93,6 @@ a {
 
 These methods will differ among environments so refer to the relevant section:
 
-{% include toc.html class="toc-left" h_min=1 h_max=2 %} 
-
 # Water
 
 ## Pre-Survey Preparations
