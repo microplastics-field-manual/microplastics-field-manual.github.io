@@ -22,82 +22,9 @@ layout: home
 .tg .tg-huqa{border-color:#e1e1e1;text-align:left;vertical-align:top}
 .tg .tg-2w7a{background-color:#e1e1e1;border-color:#e1e1e1;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-woin{border-color:#e1e1e1;font-style:italic;text-align:left;vertical-align:top}
-</style>
-<thead>
-  <tr>
-    <th class="tg-2w7a">Overview</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-woin">Water</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Pre-Survey Preparations</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Field Procedures</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Sample processing and analyses</td>
-  </tr>
-  <tr>
-    <td class="tg-woin">Sediment</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Pre-Survey Preparations</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Field Procedures</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Sample processing and analyses</td>
-  </tr>
-  <tr>
-    <td class="tg-woin">Biota</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Pre-Survey Preparations</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Field Procedures</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Sample processing and analyses</td>
-  </tr>
-  <tr>
-    <td class="tg-woin">Air</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Pre-Survey Preparations</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Field Procedures</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Sample processing and analyses</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Microplastics quantification and characterisation</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Microplastics quantification</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Physical characterisation</td>
-  </tr>
-  <tr>
-    <td class="tg-huqa">Chemical characterisation</td>
-  </tr>
-</tbody>
-</table>
-</nav>
 
+<table style="undefined;border-color:#e1e1e1;">
 
-<table style="undefined;table-layout: fixed; width: 810px">
-<colgroup>
-<col style="width: 810px">
-</colgroup>
 <thead>
   <tr>
     <th>Overview</th>
