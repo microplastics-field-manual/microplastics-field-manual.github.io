@@ -41,15 +41,15 @@ A series of blanks and controls should be used through all stages of the methods
 
  
 
-**Laboratory blanks: **Similar to field blanks, these are taken from laboratory items used to perform the sample processing and capture contamination from laboratory gear and materials (i.e., paint, stoppers, O-rings, labels) or operator (i.e., clothing and PPE). Lab blanks help assess whether contamination has occurred during the sample processing.
+**Laboratory blanks:** Similar to field blanks, these are taken from laboratory items used to perform the sample processing and capture contamination from laboratory gear and materials (i.e., paint, stoppers, O-rings, labels) or operator (i.e., clothing and PPE). Lab blanks help assess whether contamination has occurred during the sample processing.
 
  
 
-**Procedural blanks: **These are matrix free blanks that are treated in the same manner as environmental samples, undergoing all processing reagents and run through all laboratory sample processing steps. They are generally run at the beginning, during and at the end of a sample set. They help identify contamination introduced during laboratory processing.
+**Procedural blanks:** These are matrix free blanks that are treated in the same manner as environmental samples, undergoing all processing reagents and run through all laboratory sample processing steps. They are generally run at the beginning, during and at the end of a sample set. They help identify contamination introduced during laboratory processing.
 
  
 
-**Airborne contamination controls: **These controls capture any contamination that may be in the air during the collection and processing of samples. 
+**Airborne contamination controls:** These controls capture any contamination that may be in the air during the collection and processing of samples. 
 
  
 
