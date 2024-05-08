@@ -10,18 +10,12 @@ layout: home
 ---
 
 
+thead {
+  background-color: #04AA6D;
+  color: white;
+}
 
-<nav class="toc">
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-radius:6px;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-huqa{border-color:#e1e1e1;text-align:left;vertical-align:top}
-.tg .tg-2w7a{background-color:#e1e1e1;border-color:#e1e1e1;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-woin{border-color:#e1e1e1;font-style:italic;text-align:left;vertical-align:top}
 
 <table style="undefined;border-color:#e1e1e1;">
 
