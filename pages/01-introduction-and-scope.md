@@ -31,7 +31,7 @@ Microplastics are defined as “_any synthetic solid particle or polymeric matri
 
 ## Scope, format and purpose
 
-The manual focuses on the identification and quantification of microplastics between 1 μm and 5 mm, with the caveat that smaller pieces, namely between 1 μm and 20 μm, require added specialised approaches. Though many researchers find it useful to delineate groupings of plastic size (i.e., nano, micro, meso, and macro plastics), it is important to note that plastic size exists on a continuum. The chosen size categories are based on widely available methodologies to sample, characterise and identify microplastics._ _While the methods presented here are also appropriate for larger plastic debris (>5 mm), the described processes are designed for microplastics (&lt;5 mm). Analysis of nanoplastics below the set threshold of 1 µm requires increasingly specialised approaches and quality controls that would warrant independent and targeted field manuals in their own right, and are thus not included here.  
+The manual focuses on the identification and quantification of microplastics between 1 μm and 5 mm, with the caveat that smaller pieces, namely between 1 μm and 20 μm, require added specialised approaches. Though many researchers find it useful to delineate groupings of plastic size (i.e., nano, micro, meso, and macro plastics), it is important to note that plastic size exists on a continuum. The chosen size categories are based on widely available methodologies to sample, characterise and identify microplastics. While the methods presented here are also appropriate for larger plastic debris (>5 mm), the described processes are designed for microplastics (&lt;5 mm). Analysis of nanoplastics below the set threshold of 1 µm requires increasingly specialised approaches and quality controls that would warrant independent and targeted field manuals in their own right, and are thus not included here.  
 
  
 
@@ -43,7 +43,7 @@ This tiered approach allows research groups and organisations to accurately iden
 
  
 
-These manuals are designed to deliver improved data collection across surveys and collectors with different levels of background expertise and knowledge. Several sections refer to essential methodological steps and reporting parameters needed that allow data integration across different approaches (e.g., from citizen science to scientific research to government monitoring). To identify microplastics in the smaller size category (1 μm – 1 mm_)_, there is a higher level of analysis that must be followed, and subsections throughout the manual highlight how and where this further detail is required.
+These manuals are designed to deliver improved data collection across surveys and collectors with different levels of background expertise and knowledge. Several sections refer to essential methodological steps and reporting parameters needed that allow data integration across different approaches (e.g., from citizen science to scientific research to government monitoring). To identify microplastics in the smaller size category (1 μm – 1 mm), there is a higher level of analysis that must be followed, and subsections throughout the manual highlight how and where this further detail is required.
 
  
 
