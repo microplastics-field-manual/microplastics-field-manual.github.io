@@ -21,7 +21,7 @@ thead {
 
 <thead>
   <tr>
-    <th>Overview</th>
+    <th class="cell-highlight">Overview</th>
   </tr>
 </thead>
 <tbody>
@@ -29,61 +29,61 @@ thead {
     <td>Water</td>
   </tr>
   <tr>
-    <td>Pre-Survey Preparations</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
   </tr>
   <tr>
-    <td>Field Procedures</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
   </tr>
   <tr>
-    <td>Sample processing and analyses</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
   </tr>
   <tr>
     <td>Sediment</td>
   </tr>
   <tr>
-    <td>Pre-Survey Preparations</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
   </tr>
   <tr>
-    <td>Field Procedures</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
   </tr>
   <tr>
-    <td>Sample processing and analyses</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
   </tr>
   <tr>
     <td>Biota</td>
   </tr>
   <tr>
-    <td>Pre-Survey Preparations</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
   </tr>
   <tr>
-    <td>Field Procedures</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
   </tr>
   <tr>
-    <td>Sample processing and analyses</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
   </tr>
   <tr>
     <td>Air</td>
   </tr>
   <tr>
-    <td>Pre-Survey Preparations</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Pre-Survey Preparations</td>
   </tr>
   <tr>
-    <td>Field Procedures</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Field Procedures</td>
   </tr>
   <tr>
-    <td>Sample processing and analyses</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Sample processing and analyses</td>
   </tr>
   <tr>
-    <td>Microplastics quantification and characterisation</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Microplastics quantification and characterisation</td>
   </tr>
   <tr>
-    <td>Microplastics quantification</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Microplastics quantification</td>
   </tr>
   <tr>
-    <td>Physical characterisation</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Physical characterisation</td>
   </tr>
   <tr>
-    <td>Chemical characterisation</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Chemical characterisation</td>
   </tr>
 </tbody>
 </table>
