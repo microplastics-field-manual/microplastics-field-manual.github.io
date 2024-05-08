@@ -10,32 +10,72 @@ layout: home
 ---
 <nav class="toc">
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-0lax">Overview</th>
+    <th>Overview</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Water</td>
+    <td>Water</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Pre-Survey Preparations</td>
+    <td>Pre-Survey Preparations</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Field Procedures</td>
+    <td>Field Procedures</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Sample processing and analyses</td>
+    <td>Sample processing and analyses</td>
+  </tr>
+  <tr>
+    <td>Sediment</td>
+  </tr>
+  <tr>
+    <td>Pre-Survey Preparations</td>
+  </tr>
+  <tr>
+    <td>Field Procedures</td>
+  </tr>
+  <tr>
+    <td>Sample processing and analyses</td>
+  </tr>
+  <tr>
+    <td>Biota</td>
+  </tr>
+  <tr>
+    <td>Pre-Survey Preparations</td>
+  </tr>
+  <tr>
+    <td>Field Procedures</td>
+  </tr>
+  <tr>
+    <td>Sample processing and analyses</td>
+  </tr>
+  <tr>
+    <td>Air</td>
+  </tr>
+  <tr>
+    <td>Pre-Survey Preparations</td>
+  </tr>
+  <tr>
+    <td>Field Procedures</td>
+  </tr>
+  <tr>
+    <td>Sample processing and analyses</td>
+  </tr>
+  <tr>
+    <td>Microplastics quantification and characterisation</td>
+  </tr>
+  <tr>
+    <td>Microplastics quantification</td>
+  </tr>
+  <tr>
+    <td>Physical characterisation</td>
+  </tr>
+  <tr>
+    <td>Chemical characterisation</td>
   </tr>
 </tbody>
 </table>
