@@ -4,7 +4,7 @@ permalink: /field-manual-for-observing-microplasics
 title: "Field manual for observing microplastics"
 excerpt: "<br>"
 image:
-  feature: /microplastics.jpg
+  feature: microplastics.jpg
 layout: home
 
 ---

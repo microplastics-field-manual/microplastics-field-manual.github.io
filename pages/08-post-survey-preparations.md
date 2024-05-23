@@ -4,7 +4,7 @@ permalink: /post-survey-procedures
 title: "Post-survey Procedures"
 excerpt: "<br>"
 image:
-  feature: /microplastics.jpg
+  feature: microplastics.jpg
 layout: home
 
 ---

@@ -3,7 +3,7 @@ permalink: /glossary
 title: "Glossary of terms"
 excerpt: "<br>"
 image:
-  feature: /microplastics.jpg
+  feature: microplastics.jpg
 layout: home
 
 ---

@@ -4,7 +4,7 @@ permalink: /QAQC
 title: "Quality Assurance (QA) and Quality Control (QC)"
 excerpt: "<br>"
 image:
-  feature: /microplastics.jpg
+  feature: microplastics.jpg
 layout: home
 
 ---

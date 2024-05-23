@@ -4,7 +4,7 @@ permalink: /research-goals
 title: "Identifying research goals"
 excerpt: "<br>"
 image:
-  feature: /microplastics.jpg
+  feature: microplastics.jpg
 layout: home
 
 ---

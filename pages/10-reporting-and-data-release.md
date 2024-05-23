@@ -4,7 +4,7 @@ permalink: /reporting-and-data-release
 title: "Reporting and Data Release"
 excerpt: "<br>"
 image:
-  feature: /microplastics.jpg
+  feature: microplastics.jpg
 layout: home
 
 ---

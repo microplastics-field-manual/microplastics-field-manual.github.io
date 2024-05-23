@@ -4,7 +4,7 @@ permalink: /pre-survey-preparations-and-field-procedures
 title: "Pre-survey preparations and field procedures"
 excerpt: "<br>"
 image:
-  feature: /microplastics.jpg
+  feature: microplastics.jpg
 layout: home
 
 ---

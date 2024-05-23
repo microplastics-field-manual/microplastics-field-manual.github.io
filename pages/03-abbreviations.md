@@ -3,7 +3,7 @@ permalink: /abbreviations
 title: "Abbreviations"
 excerpt: "<br>"
 image:
-  feature: /microplastics.jpg
+  feature: microplastics.jpg
 layout: home
 
 ---
