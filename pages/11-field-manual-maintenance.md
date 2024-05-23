@@ -45,7 +45,7 @@ The version control for Chapter 13 (field manual for microplastics) is below:
   <tr>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">3</span></td>
     <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Publicly released as Chapter 13 through online portal</span></td>
-    <td class="tg-hw7o"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:#FF0">TBC</span></td>
+    <td class="tg-hw7o"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">May 2024</span></td>
   </tr>
 </tbody>
 </table>
