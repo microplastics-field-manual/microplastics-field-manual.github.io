@@ -18,6 +18,7 @@ These methods will differ among environments so refer to the relevant section:
 All data should aim to be publicly released, unless circumstances restrict this (e.g., confidentiality or embargo, grant agreement, etc.). In situations where data cannot be shared, the metadata should still be made available. (Ideally, four key metrics should be reported for microplastic from environmental water samples.
 
 1. **Load** 
+
   This provides information on how much microplastic was detected per collection, and enables comparisons of microplastic load with other work to better understand how much plastic is in coastal and marine environments, and whether levels can change in space and time. Reporting units (e.g., MPs/m<sup>3</sup>, MPs/area or MPs/transect) should be considered during the sampling design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with the raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
 
 2. **Physical characteristics**
@@ -96,7 +97,7 @@ This provides information about types of microplastics present in the environmen
 3. **Chemical characteristics**
 This provides information on polymer type, presence of additives and other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
 
-4. **Contextual information **
+4. **Contextual information**
 Information, particularly describing environmental and biotic variables can help researchers make like-for-like comparisons. For example, for coastal sediment samples, factors such as wind and swell direction, local hydrodynamics, sedimentology, and location of potential point-sources of contamination (e.g., WWTP outflows, sewer or drainwater outflows) can influence plastic input rates and can inform possible sources and fates.
 
 ## Reporting microplastic load
@@ -170,7 +171,7 @@ Note, not all of this information needs to be collected at the time of sampling 
 # Biota
 All data should aim to be publicly released, unless circumstances restrict this (e.g., confidentiality or embargo, grant agreement, etc.). In situations where data cannot be shared, the metadata should still be made available. Ideally, four key metrics should be reported for microplastic in biota samples.
 
-1. **Load **
+1. **Load**
 This provides information such as how much microplastic was detected in biota, and enables comparisons of microplastic load with other work to better understand how much plastic is in biota across different environments, and whether levels are changing. Reporting units (e.g., average number of microplastics per organism, or tissue weight) should be considered during the sampling design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
 
 2. **Physical characteristics**
@@ -179,7 +180,7 @@ This provides information on the types of microplastics present in the environme
 3. **Chemical characteristics**
 This provides information on polymer type, presence of additives and other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
 
-4. **Contextual information **
+4. **Contextual information**
 Information, particularly around environmental and biotic variables, can help researchers make like-for-like comparisons. For example, for biotic samples, colony size, scat photos, other fishery species collected alongside the target species, and samples of plastic items from the vessel, fishing gear, storage containers can all be used to interrogate and contextualise the microplastics data.
 
 ## Reporting microplastic load
@@ -295,7 +296,7 @@ The harmonisation of physical data is challenging primarily due to the high hete
 
 It is important to consider and report information on the environmental variables at the time of collection. Where possible, this information should be collected at the time of sampling, but some data can be calculated in hindsight (e.g., volume filtered). 
 
-### **General site information **
+### General site information
 - Location (including latitude and longitude coordinates)
 - Location description (including physical features of the area)
 - Date of data collection; season
