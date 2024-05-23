@@ -86,17 +86,16 @@ a {
 All data should aim to be publicly released, unless circumstances restrict this (e.g., confidentiality or embargo, grant agreement, etc.). In situations where data cannot be shared, the metadata should still be made available. (Ideally, four key metrics should be reported for microplastic from environmental water samples.
 
 1. **Load** 
-
-  This provides information on how much microplastic was detected per collection, and enables comparisons of microplastic load with other work to better understand how much plastic is in coastal and marine environments, and     whether levels can change in space and time. Reporting units (e.g., MPs/m<sup>3</sup>, MPs/area or MPs/transect) should be considered during the sampling design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with the raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
+    This provides information on how much microplastic was detected per collection, and enables comparisons of microplastic load with other work to better understand how much plastic is in coastal and marine environments, and whether levels can change in space and time. Reporting units (e.g., MPs/m<sup>3</sup>, MPs/area or MPs/transect) should be considered during the sampling design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with the raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
 
 2. **Physical characteristics**
     This provides information about the types of microplastics present in the environment and is essential given the diversity of microplastic, shapes, sizes and colours. This information can provide both knowledge on risks associated with the presence of different microplastic types and assist managers in making informed decisions to reduce the input of key plastic items into waterways.
 
 3. **Chemical characteristics**
-> This provides information on polymer type, the presence of additives, and other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
+    This provides information on polymer type, the presence of additives, and other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
 
 4. **Contextual information**
-Information, particularly describing local and regional environmental and biotic variables can help researchers make like-for-like comparisons. For example, for seawater samples, factors such as wind and swell direction, depth and presence of oceanographic features (e.g., slicks) at the collection site, as well as the location of potential point-sources of contamination (e.g., Wastewater Treatment Plant, sewer or drainwater outflows) can influence plastic input rates, and can inform possible sources and fates.
+    Information, particularly describing local and regional environmental and biotic variables can help researchers make like-for-like comparisons. For example, for seawater samples, factors such as wind and swell direction, depth and presence of oceanographic features (e.g., slicks) at the collection site, as well as the location of potential point-sources of contamination (e.g., Wastewater Treatment Plant, sewer or drainwater outflows) can influence plastic input rates, and can inform possible sources and fates.
 
 ## Reporting microplastic load
 It is essential that microplastic data are reported in number per area or volume, with defining morphological characteristics such as shape, colour, size, texture, and polymer type also included. Where possible, data for larger microplastics should also be reported in mass; noting small microplastics (&lt;1 mm) can be difficult to weigh. However, it is recommended they are weighed where there is high loading in the sample and they can be combined as an indicator of plastic mass, while reporting counts of polymer types. Additionally, reporting the measure of variability and replication is also essential. 
@@ -157,16 +156,16 @@ It is important to consider and report information on the environmental variable
 All data should aim to be publicly released, unless circumstances restrict this (e.g., confidentiality or embargo, grant agreement, etc.). In situations where data cannot be shared, the metadata should still be made available. Ideally, four key metrics should be reported for microplastic from sediment samples.
 
 1. **Load**
-This provides information such as how much microplastic was detected in the sediment and enables comparisons of microplastic load with other work to better understand how much plastic is in coastal and marine environments. Reporting units (e.g., number or mass of microplastics per cubic metre, sampled area or transect) should be considered during the design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with the raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
+    This provides information such as how much microplastic was detected in the sediment and enables comparisons of microplastic load with other work to better understand how much plastic is in coastal and marine environments. Reporting units (e.g., number or mass of microplastics per cubic metre, sampled area or transect) should be considered during the design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with the raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
 
 2. **Physical characteristics**
-This provides information about types of microplastics present in the environment, and is essential given the diversity of microplastic, shapes, sizes, and colours. This information can provide both knowledge on risks associated with the presence of different microplastic types and assist managers in making informed decisions to reduce the input of key items.
+    This provides information about types of microplastics present in the environment, and is essential given the diversity of microplastic, shapes, sizes, and colours. This information can provide both knowledge on risks associated with the presence of different microplastic types and assist managers in making informed decisions to reduce the input of key items.
 
 3. **Chemical characteristics**
-This provides information on polymer type, presence of additives and other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
+    This provides information on polymer type, presence of additives and other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
 
 4. **Contextual information**
-Information, particularly describing environmental and biotic variables can help researchers make like-for-like comparisons. For example, for coastal sediment samples, factors such as wind and swell direction, local hydrodynamics, sedimentology, and location of potential point-sources of contamination (e.g., WWTP outflows, sewer or drainwater outflows) can influence plastic input rates and can inform possible sources and fates.
+    Information, particularly describing environmental and biotic variables can help researchers make like-for-like comparisons. For example, for coastal sediment samples, factors such as wind and swell direction, local hydrodynamics, sedimentology, and location of potential point-sources of contamination (e.g., WWTP outflows, sewer or drainwater outflows) can influence plastic input rates and can inform possible sources and fates.
 
 ## Reporting microplastic load
 It is essential that microplastic load is reported in units commensurate with the method, e.g., number per mass in grab samples, number per area in quadrat and transect samples. Reporting mass of microplastic is desirable. Where possible, is it recommended that data for larger microplastics should also be reported in mass; noting small microplastics (&lt;1 mm) can be difficult to weigh, particularly if they are damaged during spectroscopy (GESAMP, 2019). However, it is recommended they are weighed where there is high loading in the sample and they can be combined as an indicator of plastic mass, while reporting counts of polymer types.Additionally, reporting the measure of variability and replication is also essential. 
@@ -234,22 +233,22 @@ Supratidal, intertidal, and subtidal zones can have a variety of ecosystems and 
 - Presence of organisms in the area of collection or in the sample
 - Hydrodynamic profile
 
-Note, not all of this information needs to be collected at the time of sampling but can be recorded in hindsight (using GPS location data), or attained through in situ sensors, but all should be recorded. 
+> Note, not all of this information needs to be collected at the time of sampling but can be recorded in hindsight (using GPS location data), or attained through in situ sensors, but all should be recorded. 
 
 # Biota
 All data should aim to be publicly released, unless circumstances restrict this (e.g., confidentiality or embargo, grant agreement, etc.). In situations where data cannot be shared, the metadata should still be made available. Ideally, four key metrics should be reported for microplastic in biota samples.
 
 1. **Load**
-This provides information such as how much microplastic was detected in biota, and enables comparisons of microplastic load with other work to better understand how much plastic is in biota across different environments, and whether levels are changing. Reporting units (e.g., average number of microplastics per organism, or tissue weight) should be considered during the sampling design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
+    This provides information such as how much microplastic was detected in biota, and enables comparisons of microplastic load with other work to better understand how much plastic is in biota across different environments, and whether levels are changing. Reporting units (e.g., average number of microplastics per organism, or tissue weight) should be considered during the sampling design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
 
 2. **Physical characteristics**
-This provides information on the types of microplastics present in the environment, and is essential given the diversity of microplastic shapes, sizes and colours. This information can both provide knowledge on risks associated with the uptake and presence of different microplastic types and assist managers in making informed decisions to reduce the input of key items.
+    This provides information on the types of microplastics present in the environment, and is essential given the diversity of microplastic shapes, sizes and colours. This information can both provide knowledge on risks associated with the uptake and presence of different microplastic types and assist managers in making informed decisions to reduce the input of key items.
 
 3. **Chemical characteristics**
-This provides information on polymer type, presence of additives and other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
+    This provides information on polymer type, presence of additives and other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
 
 4. **Contextual information**
-Information, particularly around environmental and biotic variables, can help researchers make like-for-like comparisons. For example, for biotic samples, colony size, scat photos, other fishery species collected alongside the target species, and samples of plastic items from the vessel, fishing gear, storage containers can all be used to interrogate and contextualise the microplastics data.
+    Information, particularly around environmental and biotic variables, can help researchers make like-for-like comparisons. For example, for biotic samples, colony size, scat photos, other fishery species collected alongside the target species, and samples of plastic items from the vessel, fishing gear, storage containers can all be used to interrogate and contextualise the microplastics data.
 
 ## Reporting microplastic load
 Microplastics must be reported in number of microplastics per organism and/or per weight of tissue, with defining morphological characteristics such as shape, colour, size, texture, and polymer type also included. Where possible, data for larger microplastics should also be reported in mass; noting small microplastics (&lt; 1 mm) can be difficult to weigh. However, it is recommended they are weighed where there is high loading in the sample and they can be combined as an indicator of overall plastic mass, while also reporting counts of polymer types. Additionally, reporting the measure of variability in microplastic load and sample replication is also essential. 
@@ -309,16 +308,16 @@ It is important to consider and report information on the following environmenta
 All data should aim to be publicly released, unless circumstances restrict this (e.g., confidentiality or embargo, grant agreement, etc.). In situations where data cannot be shared, the metadata should still be made available. Ideally, four key metrics should be reported for microplastic from air samples.
 
 1. **Load**
-This provides information such as how much microplastic was detected per collection and enables comparisons of microplastic load with other work to better understand how much plastic is in the environment. Reporting units (e.g., MPs m<sup>-3</sup>, particle m<sup>-2</sup> d<sup>-1</sup>) should be considered during the sampling design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with the raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
+    This provides information such as how much microplastic was detected per collection and enables comparisons of microplastic load with other work to better understand how much plastic is in the environment. Reporting units (e.g., MPs m<sup>-3</sup>, particle m<sup>-2</sup> d<sup>-1</sup>) should be considered during the sampling design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with the raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
 
 2. **Physical characteristics**
-This provides information on the types of microplastics present in the environment, and is essential given the diversity of microplastic shapes, sizes and colours. This information can provide both knowledge on the risks associated with the presence of different microplastic types and assist managers in making informed decisions to reduce the input of key plastic items into the environment.
+    This provides information on the types of microplastics present in the environment, and is essential given the diversity of microplastic shapes, sizes and colours. This information can provide both knowledge on the risks associated with the presence of different microplastic types and assist managers in making informed decisions to reduce the input of key plastic items into the environment.
 
 3. **Chemical characteristics**
-This provides information on the polymer types, presence of additives or other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
+    This provides information on the polymer types, presence of additives or other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
 
 4. **Contextual information**
-Information, particularly describing local and regional environmental and biotic variables can help researchers make like-for-like comparisons. For example, for air samples, wind strength and direction, or location of potential point-sources of contamination (e.g., industry) can influence plastic input rates.
+    Information, particularly describing local and regional environmental and biotic variables can help researchers make like-for-like comparisons. For example, for air samples, wind strength and direction, or location of potential point-sources of contamination (e.g., industry) can influence plastic input rates.
 
 
 ## Reporting microplastic load
@@ -376,4 +375,4 @@ It is important to consider and report information on the environmental variable
 - Proximity to industrial infrastructure
 - Proximity to roads 
 
-Note, not all of this information needs to be collected at the time of sampling, but can be recorded in hindsight (using GPS location data), but all should be recorded. 
+> Note, not all of this information needs to be collected at the time of sampling, but can be recorded in hindsight (using GPS location data), but all should be recorded. 
