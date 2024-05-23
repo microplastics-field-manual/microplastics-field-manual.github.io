@@ -8,8 +8,9 @@ image:
 layout: home
 
 ---
-{% include toc.html class="toc-left" h_min=2 h_max=2 %} 
 
+
+These methods will differ among environments so refer to the relevant section:
 
 <style type="text/css">
 .outline {border-collapse:collapse;border-spacing:0;border-radius:6px;}
@@ -79,9 +80,6 @@ a {
   </tr>
 </tbody>
 </table>
-
-These methods will differ among environments so refer to the relevant section:
-
 
 # Water
 
