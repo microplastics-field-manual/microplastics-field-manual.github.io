@@ -87,13 +87,13 @@ All data should aim to be publicly released, unless circumstances restrict this 
 
 1. **Load** 
 
-  This provides information on how much microplastic was detected per collection, and enables comparisons of microplastic load with other work to better understand how much plastic is in coastal and marine environments, and whether levels can change in space and time. Reporting units (e.g., MPs/m<sup>3</sup>, MPs/area or MPs/transect) should be considered during the sampling design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with the raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
+  This provides information on how much microplastic was detected per collection, and enables comparisons of microplastic load with other work to better understand how much plastic is in coastal and marine environments, and     whether levels can change in space and time. Reporting units (e.g., MPs/m<sup>3</sup>, MPs/area or MPs/transect) should be considered during the sampling design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with the raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
 
 2. **Physical characteristics**
-This provides information about the types of microplastics present in the environment and is essential given the diversity of microplastic, shapes, sizes and colours. This information can provide both knowledge on risks associated with the presence of different microplastic types and assist managers in making informed decisions to reduce the input of key plastic items into waterways.
+    This provides information about the types of microplastics present in the environment and is essential given the diversity of microplastic, shapes, sizes and colours. This information can provide both knowledge on risks associated with the presence of different microplastic types and assist managers in making informed decisions to reduce the input of key plastic items into waterways.
 
 3. **Chemical characteristics**
-This provides information on polymer type, the presence of additives, and other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
+> This provides information on polymer type, the presence of additives, and other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
 
 4. **Contextual information**
 Information, particularly describing local and regional environmental and biotic variables can help researchers make like-for-like comparisons. For example, for seawater samples, factors such as wind and swell direction, depth and presence of oceanographic features (e.g., slicks) at the collection site, as well as the location of potential point-sources of contamination (e.g., Wastewater Treatment Plant, sewer or drainwater outflows) can influence plastic input rates, and can inform possible sources and fates.
