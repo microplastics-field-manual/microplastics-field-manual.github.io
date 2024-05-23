@@ -10,6 +10,76 @@ layout: home
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %} 
 
+
+<style type="text/css">
+.outline {border-collapse:collapse;border-spacing:0;border-radius:6px;}
+.outline td{border-color:#e1e1e1;border-style:solid;border-width:1px;}
+.outline th{border-color:#e1e1e1;border-style:solid;border-width:1px;background-color:#e1e1e1;font-size: 18px}
+a {
+  color: black;
+}
+</style>
+
+
+<table class="outline"  style="undefined;">
+
+<thead>
+  <tr>
+    <th class="cell-highlight">&nbsp;&nbsp;&nbsp;&nbsp;Overview</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#water">Water</a></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#reporting-microplastic-load">Reporting microplastic load</a></i></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#reporting-physical-and-chemical-characteristics">Reporting physical and chemical characteristics</a></i></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#reporting-contextual-information">Reporting contextual information</a></i></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#sediment">Sediment</a></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#reporting-microplastic-load-1">Reporting microplastic load</a></i></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#reporting-physical-and-chemical-characteristics-1">Reporting physical and chemical characteristics</a></i></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#reporting-contextual-information-1">Reporting contextual information</a></i></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#biota">Biota</a></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#pre-survey-preparations-2">Reporting microplastic load</a></i></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#reporting-microplastic-physical-characteristics">Reporting microplastic physical characteristics</a></i></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#metadata-and-contextual-information">Metadata and contextual information</a></i></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#air">Air</a></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#reporting-microplastic-load-3">Reporting microplastic load</a></i></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#reporting-physical-and-chemical-characteristics-2">Reporting physical and chemical characteristics</a></i></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#reporting-contextual-information-2">Reporting contextual information</a></i></td>
+  </tr>
+</tbody>
+</table>
+
 These methods will differ among environments so refer to the relevant section:
 
 
