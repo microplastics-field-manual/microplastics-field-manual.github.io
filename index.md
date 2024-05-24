@@ -12,7 +12,7 @@ image:
 
 <img src="images/microplastics.png" width="100%">
 
-<strong>Chapter citation:</strong><br>Wootton N, Reis-Santos P, Adyel T, Blewitt M, Clarke B, Crutchett T, Hamann M, Hardesty D, Lavers J, Leterme S, Leusch F, Lynch S, Motti C, O’Brien A, Okoffo E, Perera K, Puskic P, Razzell Holls J, Roman L, Santana MFM, Snigirova A, Tuuru EM, Wilson S, Ziajahromi S, Gillanders BM. 2024. Marine sampling field manual for microplastics. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters</em>, <em>Version 3</em>. Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP).
+<strong>Chapter citation:</strong><br>Wootton N, Reis-Santos P, Adyel T, Blewitt M, Clarke B, Crutchett T, Hamann M, Hardesty D, Lavers J, Leterme S, Leusch F, Lynch S, Motti C, O’Brien A, Okoffo E, Perera K, Puskic P, Razzell Holls J, Roman L, Santana MFM, Snigirova A, Tuuri EM, Wilson S, Ziajahromi S, Gillanders BM. 2024. Marine sampling field manual for microplastics. In <em>Field Manuals for Marine Sampling to Monitor Australian Waters</em>, <em>Version 3</em>. Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP).
 
 | Chapter Contents                                                                                                                                             |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|
