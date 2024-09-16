@@ -318,8 +318,8 @@ layout: home
   </tr>
   <tr>
     <td class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">The physical characteristics (e.g. shape, colour, sizes)</span></td>
-    <td class="tg-0ryw"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#7F7F7F;background-color:transparent">i.e., Yes – shape, size and colour is reported</span></td>
+    <td class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">The physical characteristics (e.g. type, colour, sizes)</span></td>
+    <td class="tg-0ryw"><span style="font-weight:700;font-style:italic;text-decoration:none;color:#7F7F7F;background-color:transparent">i.e., Yes – type, size and colour is reported</span></td>
   </tr>
   <tr>
     <td class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
