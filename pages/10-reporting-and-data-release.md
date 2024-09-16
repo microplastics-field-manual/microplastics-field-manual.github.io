@@ -89,7 +89,7 @@ All data should aim to be publicly released, unless circumstances restrict this 
     This provides information on how much microplastic was detected per collection, and enables comparisons of microplastic load with other work to better understand how much plastic is in coastal and marine environments, and whether levels can change in space and time. Reporting units (e.g., MPs/m<sup>3</sup>, MPs/area or MPs/transect) should be considered during the sampling design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with the raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
 
 2. **Physical characteristics**
-    This provides information about the types of microplastics present in the environment and is essential given the diversity of microplastic, shapes, sizes and colours. This information can provide both knowledge on risks associated with the presence of different microplastic types and assist managers in making informed decisions to reduce the input of key plastic items into waterways.
+    This provides information about the types of microplastics present in the environment and is essential given the diversity of microplastic, types, sizes and colours. This information can provide both knowledge on risks associated with the presence of different microplastic types and assist managers in making informed decisions to reduce the input of key plastic items into waterways.
 
 3. **Chemical characteristics**
     This provides information on polymer type, the presence of additives, and other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
@@ -98,7 +98,7 @@ All data should aim to be publicly released, unless circumstances restrict this 
     Information, particularly describing local and regional environmental and biotic variables can help researchers make like-for-like comparisons. For example, for seawater samples, factors such as wind and swell direction, depth and presence of oceanographic features (e.g., slicks) at the collection site, as well as the location of potential point-sources of contamination (e.g., Wastewater Treatment Plant, sewer or drainwater outflows) can influence plastic input rates, and can inform possible sources and fates.
 
 ## Reporting microplastic load
-It is essential that microplastic data are reported in number per area or volume, with defining morphological characteristics such as shape, colour, size, texture, and polymer type also included. Where possible, data for larger microplastics should also be reported in mass; noting small microplastics (&lt;1 mm) can be difficult to weigh. However, it is recommended they are weighed where there is high loading in the sample and they can be combined as an indicator of plastic mass, while reporting counts of polymer types. Additionally, reporting the measure of variability and replication is also essential. 
+It is essential that microplastic data are reported in number per area or volume, with defining morphological characteristics such as type, colour, size, texture, and polymer type also included. Where possible, data for larger microplastics should also be reported in mass; noting small microplastics (&lt;1 mm) can be difficult to weigh. However, it is recommended they are weighed where there is high loading in the sample and they can be combined as an indicator of plastic mass, while reporting counts of polymer types. Additionally, reporting the measure of variability and replication is also essential. 
 
 **Essential parameters:**
 - Average number (±SD or SE) of MP per area (# particles km<sup>-2</sup>, # particles m<sup>-2</sup>)
@@ -120,7 +120,7 @@ Harmonisation in the reporting of physical data is challenging primarily due to 
 - Surface area (of the item sitting flat)
 - Mass (for visible microplastics > 1mm)
 - Colour (RGB and HSV for larger microplastics)
-- Shape (e.g., fragment, pellet, foam, fibre, film, line, tyre dust)
+- Type (e.g., pellet, fragment, film, filament, foam)
 - Polymer (for microscopic 1 μm - 1 mm microplastics)
 - Detection limits for the count and minimum microplastic size
 
@@ -159,7 +159,7 @@ All data should aim to be publicly released, unless circumstances restrict this 
     This provides information such as how much microplastic was detected in the sediment and enables comparisons of microplastic load with other work to better understand how much plastic is in coastal and marine environments. Reporting units (e.g., number or mass of microplastics per cubic metre, sampled area or transect) should be considered during the design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with the raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
 
 2. **Physical characteristics**
-    This provides information about types of microplastics present in the environment, and is essential given the diversity of microplastic, shapes, sizes, and colours. This information can provide both knowledge on risks associated with the presence of different microplastic types and assist managers in making informed decisions to reduce the input of key items.
+    This provides information about types of microplastics present in the environment, and is essential given the diversity of microplastic, types, sizes, and colours. This information can provide both knowledge on risks associated with the presence of different microplastic types and assist managers in making informed decisions to reduce the input of key items.
 
 3. **Chemical characteristics**
     This provides information on polymer type, presence of additives and other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
@@ -194,7 +194,7 @@ Harmonisation in the reporting of physical data is challenging primarily due to 
 - Surface area (of the item sitting flat)
 - Mass (for visible microplastics > 1mm)
 - Colour (RGB and HSV for larger microplastics)
-- Shape (e.g., fragment, pellet, foam, fibre, film, line, tyre dust)
+- Type (e.g., pellet, fragment, film, filament, foam)
 - Polymer (for microscopic 1 μm - 1 mm microplastics)
 - Detection limits for the count and minimum microplastic size
 
@@ -242,7 +242,7 @@ All data should aim to be publicly released, unless circumstances restrict this 
     This provides information such as how much microplastic was detected in biota, and enables comparisons of microplastic load with other work to better understand how much plastic is in biota across different environments, and whether levels are changing. Reporting units (e.g., average number of microplastics per organism, or tissue weight) should be considered during the sampling design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
 
 2. **Physical characteristics**
-    This provides information on the types of microplastics present in the environment, and is essential given the diversity of microplastic shapes, sizes and colours. This information can both provide knowledge on risks associated with the uptake and presence of different microplastic types and assist managers in making informed decisions to reduce the input of key items.
+    This provides information on the types of microplastics present in the environment, and is essential given the diversity of microplastic types, sizes and colours. This information can both provide knowledge on risks associated with the uptake and presence of different microplastic types and assist managers in making informed decisions to reduce the input of key items.
 
 3. **Chemical characteristics**
     This provides information on polymer type, presence of additives and other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
@@ -251,7 +251,7 @@ All data should aim to be publicly released, unless circumstances restrict this 
     Information, particularly around environmental and biotic variables, can help researchers make like-for-like comparisons. For example, for biotic samples, colony size, scat photos, other fishery species collected alongside the target species, and samples of plastic items from the vessel, fishing gear, storage containers can all be used to interrogate and contextualise the microplastics data.
 
 ## Reporting microplastic load
-Microplastics must be reported in number of microplastics per organism and/or per weight of tissue, with defining morphological characteristics such as shape, colour, size, texture, and polymer type also included. Where possible, data for larger microplastics should also be reported in mass; noting small microplastics (&lt; 1 mm) can be difficult to weigh. However, it is recommended they are weighed where there is high loading in the sample and they can be combined as an indicator of overall plastic mass, while also reporting counts of polymer types. Additionally, reporting the measure of variability in microplastic load and sample replication is also essential. 
+Microplastics must be reported in the number of microplastics per organism and/or per weight of tissue, with defining morphological characteristics such as type, colour, size, texture, and polymer type also included. Where possible, data for larger microplastics should also be reported in mass; noting small microplastics (&lt; 1 mm) can be difficult to weigh. However, it is recommended they are weighed where there is high loading in the sample and they can be combined as an indicator of overall plastic mass, while also reporting counts of polymer types. Additionally, reporting the measure of variability in microplastic load and sample replication is also essential. 
 
 **Essential parameters:**
 - Average number (±SD or SE) of microplastics extracted from all organisms (# particles per organism)
@@ -275,7 +275,7 @@ Harmonising the reporting of physical data is challenging due to the heterogenei
 - Surface area (of the item sitting flat)
 - Mass (for visible microplastics > 1mm)
 - Colour (RGB and HSV for larger microplastics)
-- Shape (e.g., fragment, pellet, foam, fibre, film, line, tyre dust)
+- Type (e.g., pellet, fragment, film, filament, foam)
 - Polymer (for microscopic 1 μm - 1 mm microplastics)
 - Biotic compartment
 - Detection limits for the count and minimum microplastic size
@@ -311,7 +311,7 @@ All data should aim to be publicly released, unless circumstances restrict this 
     This provides information such as how much microplastic was detected per collection and enables comparisons of microplastic load with other work to better understand how much plastic is in the environment. Reporting units (e.g., MPs m<sup>-3</sup>, particle m<sup>-2</sup> d<sup>-1</sup>) should be considered during the sampling design phase and checked for applicability to the research question. Although reporting units are often related to specific research goals, providing supplementary information with the raw data or transformed data in complementary units is recommended to allow broadscale comparisons among studies.
 
 2. **Physical characteristics**
-    This provides information on the types of microplastics present in the environment, and is essential given the diversity of microplastic shapes, sizes and colours. This information can provide both knowledge on the risks associated with the presence of different microplastic types and assist managers in making informed decisions to reduce the input of key plastic items into the environment.
+    This provides information on the types of microplastics present in the environment, and is essential given the diversity of microplastic types, sizes and colours. This information can provide both knowledge on the risks associated with the presence of different microplastic types and assist managers in making informed decisions to reduce the input of key plastic items into the environment.
 
 3. **Chemical characteristics**
     This provides information on the polymer types, presence of additives or other chemicals, as well as potential evidence of weathering (e.g., age, biofilm, degradation).
@@ -322,7 +322,7 @@ All data should aim to be publicly released, unless circumstances restrict this 
 
 ## Reporting microplastic load
 
-It is essential that microplastic load in air is reported as number per volume or area, with defining morphological characteristics also included, such as shape, colour, size, texture, polymer type. Where possible, data for larger microplastics should also be reported in mass; noting small microplastics (&lt;1 mm) can be difficult to weigh. However, it is recommended they are weighed where there is high loading in the sample and they can be combined as an indicator of plastic mass, while reporting counts of polymer types. Additionally, reporting the measure of variability and replication is also essential. 
+It is essential that microplastic load in air is reported as number per volume or area, with defining morphological characteristics also included, such as type, colour, size, texture, polymer type. Where possible, data for larger microplastics should also be reported in mass; noting small microplastics (&lt;1 mm) can be difficult to weigh. However, it is recommended they are weighed where there is high loading in the sample and they can be combined as an indicator of plastic mass, while reporting counts of polymer types. Additionally, reporting the measure of variability and replication is also essential. 
 
 **Essential parameters:**
 - Average number (±SD or SE) of MPs per volume (# particles m<sup>-3</sup> for active sampling)
@@ -350,7 +350,7 @@ The harmonisation of physical data is challenging primarily due to the high hete
 - Surface area (of the item sitting flat)
 - Mass (for visible microplastics > 1mm)
 - Colour (RGB and HSV for larger microplastics)
-- Shape (e.g., fragment, pellet, foam, fibre, film, line, tyre dust)
+- Type (e.g., pellet, fragment, film, filament, foam)
 - Polymer (for microscopic 1 μm - 1 mm microplastics)
 - Detection limits for the count and minimum microplastic size
 
