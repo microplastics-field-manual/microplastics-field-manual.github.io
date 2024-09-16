@@ -76,18 +76,6 @@ a {
   <tr>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#sample-processing-and-analyses-3">Sample processing and analyses</a></i></td>
   </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#microplastics-quantification-and-characterisation">Microplastics quantification and characterisation</a></i></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#microplastics-quantification">Microplastics quantification</a></i></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#physical-characterisation">Physical characterisation</a></i></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="#chemical-characterisation">Chemical characterisation</a></i></td>
-  </tr>
 </tbody>
 </table>
 
