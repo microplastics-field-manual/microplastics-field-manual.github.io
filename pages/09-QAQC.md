@@ -53,4 +53,4 @@ A series of blanks and controls should be used through all stages of the methods
 
  
 
-**Positive controls:** These involve the use of known microplastic standards of different sizes, shapes, and compositions. They are used to calibrate instruments, validate analytical methods, and ensure the accuracy of microplastic recovery, identification and quantification.
+**Positive controls:** These involve the use of known microplastic standards of different sizes, types, and compositions. They are used to calibrate instruments, validate analytical methods, and ensure the accuracy of microplastic recovery, identification and quantification.
