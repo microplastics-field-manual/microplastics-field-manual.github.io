@@ -197,27 +197,27 @@ Plastic type is potentially indicative of its original form and function (e.g., 
   <tr>
     <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pellets</span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Small, plastic particles, from raw materials in industrial plastic production (plastic feedstock). Normally bigger in size (e.g., nurdles) but also includes microbeads and powder. Scale is 1 mm. </span></td>
-    <td class="tg-qblk"><img src="https://lh7-us.googleusercontent.com/931sIej2or7wFp1Qei-ERQ0MSzI4aqQDdTUekstJQcK2YusvhvdC8FR357dIqoaHmi4tuFsMroeUaPV9PWm_6KmcWrVoHb3iIvt_qBUSKZ8O01NjOVZWUvELL7M9yxMQiwDnbqyErnEZ60OZZMWs654" width="208" height="147"></td>
+    <td class="tg-qblk"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdX5PdQFIsHeeEGAtFYT-vuD3-h5jrtNweuV3lja0rKYrHaYr9sZC_nJdpjhj0LucEyMPnNp94OTWgYPAiBjhxuHK7TcNp0gbIMeq--cLFuvSimTFSzGZ6VLOWw_cexBBjiOy4432TPeEbu5WynW4rtXRvD?key=460VKuzC_fCjdZJER_4IKA" width="208" height="147"></td>
   </tr>
   <tr>
     <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fragments</span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Originate from the breakdown of larger hard plastic objects, like bottles or containers. These fragments can take various shapes and sizes, be hard or soft, often with irregular edges. An example of an irregular shaped fragment can be tyre wear fragments.  </span></td>
-    <td class="tg-qblk"><img src="https://lh7-us.googleusercontent.com/K5yz2oN16iRGiw6Qxtb0auyC9ojHVpBEmuYUkRK5FAr0U7f3bFGpBLwXfB6unBP7VbVCJhOkE7v76o-3J7WLSUc_-miRYIws6wTLsmJ7f76zijqrV7U-Wg5hcX28aTe2Zaruh24MfV3s5XblnqVM9KU" width="208" height="147"></td>
+    <td class="tg-qblk"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdLkItLRYLfHIYyPeQEHGUbc93uDAq2a3i1pTqDUUp1WAi8aKwJpfPwrM0LoL6PLYrbLc-xTuLTyXm3StpQcuDSLLu8deMMtyQuyu0rP52qSvNo9fQFGIeoOSk9JEYQN53G1tAg9vDNiC8pDmwJ1MDGcyME?key=460VKuzC_fCjdZJER_4IKA" width="208" height="147"></td>
   </tr>
   <tr>
     <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Filaments</span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Strands of synthetic materials. These are often shed from clothing, textiles, and fabrics during washing and wear (fibres) or strands of fishing line which may be in monofilament or braided forms (line). Filaments can generally bend and are of uniform thickness across their length. </span></td>
-    <td class="tg-qblk"><img src="https://lh7-us.googleusercontent.com/SBFfVbfks09VEmRU0tkLya1r95_2ftbGnXor9JH2FiG3HN2qOF1mnW0PQhgIoMc1J67xEtUlPCcWXTJpvHs1z6eDjtG0aISnXRA7M5wXgkNsiOxMUsTcZ08S2Um3Nz3M4RJ62JHs8MekvHUSkX58aNk" width="208" height="147"></td>
+    <td class="tg-qblk"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQN_--D4U4Cs62z8c1l5Yc53kFCDKZdIP5wp3O43l0YGeHyJtu1_yGvalYNt-gykSkV8KBFUoXL31vgZlB9uxnUNi7q7k3ZdkNt54OCjmI_Bl6wxnsMv5OYO759nImhBY8f9lU-sjDBjE0u0A39hmI58Gj?key=460VKuzC_fCjdZJER_4IKA" width="208" height="147"></td>
   </tr>
   <tr>
     <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Foams</span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Expanded plastic foam materials, like foam cups, packaging and insulation. These particles are lightweight and will compress if squeezed.</span></td>
-    <td class="tg-qblk"><img src="https://lh7-us.googleusercontent.com/87o0sSmr9w6A9rw-pvxul4sB50U5EYqx5dkfq2gFCQL9QvXesKfUf739s2TAMmlpYQzeoX-PXyNCW-X3RgTCs46DzCaKfvd3enpgngi61pG4AdP9hcJLf5d3DF_mjzfLJ50ensHEqZLjv9L0zi6At28" width="208" height="147"></td>
+    <td class="tg-qblk"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRpXaith5EeE-TvxZEhYufrav1qHfzArlEXq4qALmT1unLqfkmHES7JRRLdfOr-GXxLKk-lusKc-bfvEcmwVf4RBOl-kn-ssckECuFNaa8cb5ZReBjUUv0y02vadK_AUtHhyAlUYVmRsvD0mIqzjeR6fmo?key=460VKuzC_fCjdZJER_4IKA" width="208" height="147"></td>
   </tr>
   <tr>
     <td class="tg-i6rb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Films</span></td>
     <td class="tg-qblk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Originate from larger soft plastic materials, such as plastic bags and packaging. They are typically thin (and often transparent) and flexible, resembling miniature sheets or layers of plastic. </span></td>
-    <td class="tg-qblk"><img src="https://lh7-us.googleusercontent.com/wiGfD6g1rgEhgRDijSvJpBlcZnlnvIizk4AIqNLeupNnOAauQswbzCBkBrK0SLdo4ZNnfustQzF8NhIev80tO5Rq5Bgkp-C1xZ9Bbh7vrYn9uaPhudEJtQhC4G_2Jzm88AB2XbqdxTGJs2KwAQR560Q" width="208" height="147"></td>
+    <td class="tg-qblk"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd7FJKi4IaD5SbL7rTHTXRqUVgjFf88HYM-nDRyl6iIygKWVfYYyNZoTCGMFfN0-_3ycDfNkHq4KXpjEgM1FQ-KR9_d2SlPA0VoD8kidQURRHvWckrWCOf5etLE0n6ZoiAd9C4gf75clNhdLbztErcf7gLe?key=460VKuzC_fCjdZJER_4IKA" width="208" height="147"></td>
   </tr>
 </tbody>
 </table>
