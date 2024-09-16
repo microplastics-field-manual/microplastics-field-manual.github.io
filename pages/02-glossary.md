@@ -41,10 +41,10 @@ layout: home
 
 **Plastic morphology:**
   
-  The description of the physical structure, form and characteristics (such as size, shape, texture, and colour) of plastic particles. The morphology of plastic artefacts influences factors such as the movement, distribution, transportation, ingestion capability, and environmental impacts of the plastic contaminant.
+  The description of the physical structure, form and characteristics (such as size, type and colour) of plastic particles. The morphology of plastic artefacts influences factors such as the movement, distribution, transportation, ingestion capability, and environmental impacts of the plastic contaminant.
 
 
-**Polymer (or polymer type):**
+**Polymer:**
   
   The core chemical composition (i.e., building blocks) of plastic materials. Polymers are large molecules composed of repeating monomers. Polymer composition, together with the presence of different molecular groups, define the main chemical properties of plastics. These include attributes and behaviours associated with chemical stability, toxicity, solubility, chemical resistance, degradation, and the presence and behaviour of additives. 
 
