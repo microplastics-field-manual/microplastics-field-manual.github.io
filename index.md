@@ -38,6 +38,7 @@ image:
 |       _[Sediment](reporting-and-data-release#sediment)_                                                                 |
 |       _[Biota](reporting-and-data-release#biota)_                                                                       |
 |       _[Air](reporting-and-data-release#air)_                                                                           |
+|  **[Checklist of methods and result reporting](checklist)**                                                           |
 |  **[Field Manual Maintenance](field-manual-maintenance)**                                                               |  
 |  **[Acknowledgements](acknowledgements)**                                                                               |
 |  **[References](references)**                                                                                           |                  
